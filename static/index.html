@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Student Marks Analysis Dashboard</title>
+  <meta name="description" content="Interactive dashboard for analyzing student performance data — subject averages, grade distribution, top performers and more." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+  <!-- ── SIDEBAR ─────────────────────────────────────────── -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-logo">
+      <div class="logo-icon">📊</div>
+      <span class="logo-text">EduAnalytics</span>
+    </div>
+    <nav class="sidebar-nav">
+      <a href="#overview"    class="nav-link active" data-section="overview">    <span class="nav-icon">🏠</span><span>Overview</span></a>
+      <a href="#subjects"    class="nav-link"         data-section="subjects">    <span class="nav-icon">📚</span><span>Subjects</span></a>
+      <a href="#grades"      class="nav-link"         data-section="grades">      <span class="nav-icon">🎓</span><span>Grades</span></a>
+      <a href="#top"         class="nav-link"         data-section="top">         <span class="nav-icon">🏆</span><span>Top Students</span></a>
+      <a href="#classes"     class="nav-link"         data-section="classes">     <span class="nav-icon">🏫</span><span>Classes</span></a>
+      <a href="#explorer"    class="nav-link"         data-section="explorer">    <span class="nav-icon">🔍</span><span>Explorer</span></a>
+    </nav>
+    <div class="sidebar-footer">Student Marks Analysis v1.0</div>
+  </aside>
+
+  <!-- ── MAIN ───────────────────────────────────────────── -->
+  <main class="main">
+
+    <!-- TOPBAR -->
+    <header class="topbar">
+      <button class="hamburger" id="hamburger" aria-label="Toggle sidebar">☰</button>
+      <div class="topbar-title">Student Marks Analysis Dashboard</div>
+      <div class="topbar-badge" id="live-badge">● Live</div>
+    </header>
+
+    <!-- ── SECTION: OVERVIEW ────────────────────────────── -->
+    <section id="overview" class="section active">
+      <h1 class="section-title">Overview</h1>
+      <div class="stat-grid" id="stat-grid">
+        <div class="stat-card" id="stat-students">
+          <div class="stat-icon">👤</div>
+          <div class="stat-value" data-target="0">—</div>
+          <div class="stat-label">Total Students</div>
+        </div>
+        <div class="stat-card accent-blue" id="stat-avg">
+          <div class="stat-icon">📈</div>
+          <div class="stat-value" data-target="0">—</div>
+          <div class="stat-label">Overall Average</div>
+        </div>
+        <div class="stat-card accent-green" id="stat-high">
+          <div class="stat-icon">🎯</div>
+          <div class="stat-value" data-target="0">—</div>
+          <div class="stat-label">Highest Mark</div>
+        </div>
+        <div class="stat-card accent-red" id="stat-low">
+          <div class="stat-icon">📉</div>
+          <div class="stat-value" data-target="0">—</div>
+          <div class="stat-label">Lowest Mark</div>
+        </div>
+        <div class="stat-card accent-purple" id="stat-records">
+          <div class="stat-icon">🗂️</div>
+          <div class="stat-value" data-target="0">—</div>
+          <div class="stat-label">Total Records</div>
+        </div>
+        <div class="stat-card accent-orange" id="stat-subjects">
+          <div class="stat-icon">📖</div>
+          <div class="stat-value" data-target="0">—</div>
+          <div class="stat-label">Subjects</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── SECTION: SUBJECTS ────────────────────────────── -->
+    <section id="subjects" class="section">
+      <h2 class="section-title">Subject-wise Average Marks</h2>
+      <div class="chart-card">
+        <canvas id="subjectBarChart" height="120"></canvas>
+      </div>
+    </section>
+
+    <!-- ── SECTION: GRADES ──────────────────────────────── -->
+    <section id="grades" class="section">
+      <h2 class="section-title">Grade Distribution</h2>
+      <div class="charts-row">
+        <div class="chart-card flex-1">
+          <canvas id="gradeDonutChart"></canvas>
+        </div>
+        <div class="grade-legend-card flex-1" id="grade-legend-table"></div>
+      </div>
+    </section>
+
+    <!-- ── SECTION: TOP STUDENTS ────────────────────────── -->
+    <section id="top" class="section">
+      <h2 class="section-title">Top 10 Students</h2>
+      <div class="table-card">
+        <table class="data-table" id="top-table">
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Student ID</th>
+              <th>Name</th>
+              <th>Subjects</th>
+              <th>Total Marks</th>
+              <th>Average</th>
+              <th>Score Bar</th>
+            </tr>
+          </thead>
+          <tbody id="top-tbody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ── SECTION: CLASSES ─────────────────────────────── -->
+    <section id="classes" class="section">
+      <h2 class="section-title">Class Performance</h2>
+      <div class="chart-card">
+        <canvas id="classBarChart" height="120"></canvas>
+      </div>
+    </section>
+
+    <!-- ── SECTION: EXPLORER ────────────────────────────── -->
+    <section id="explorer" class="section">
+      <h2 class="section-title">Student Explorer</h2>
+      <div class="explorer-controls">
+        <input id="search-input" type="text" placeholder="🔍  Search by name or ID…" class="search-box" />
+        <span class="total-count" id="explorer-count">Loading…</span>
+      </div>
+      <div class="table-card">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Student ID</th>
+              <th>Name</th>
+              <th>Class</th>
+              <th>Total Marks</th>
+              <th>Average</th>
+              <th>Performance</th>
+            </tr>
+          </thead>
+          <tbody id="explorer-tbody"></tbody>
+        </table>
+      </div>
+      <div class="pagination" id="pagination"></div>
+    </section>
+
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>

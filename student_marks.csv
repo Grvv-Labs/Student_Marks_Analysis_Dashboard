@@ -1,0 +1,5101 @@
+Student_ID,Student_Name,Subject,Marks,Class
+S0895,Student_895,History,78.0,10A
+S0602,Student_602,History,86.0,11A
+S0533,Student_533,Computer Science,76.0,10A
+S0066,Student_66,Science,87.0,10B
+S0140,Student_140,Computer Science,67.0,11B
+S0536,Student_536,Computer Science,66.0,11A
+S0716,Student_716,Computer Science,54.0,12A
+S0737,Student_737,Computer Science,79.0,10A
+S0019,Student_19,History,65.0,10A
+S0038,Student_38,Science,77.0,12A
+S0053,Student_53,English,21.0,10A
+S0735,Student_735,English,52.0,11A
+S0087,Student_87,English,65.0,12A
+S0219,Student_219,Computer Science,80.0,11A
+S0886,Student_886,Mathematics,53.0,10C
+S0094,Student_94,English,81.0,11B
+S0361,Student_361,History,47.0,11B
+S0385,Student_385,English,53.0,10C
+S0107,Student_107,Computer Science,60.0,10A
+S0859,Student_859,Science,63.0,11B
+S0457,Student_457,Computer Science,63.0,10A
+S0274,Student_274,English,56.0,11A
+S0553,Student_553,Science,57.0,11B
+S0442,Student_442,English,75.0,11A
+S0738,Student_738,Computer Science,67.0,11A
+S0727,Student_727,Computer Science,76.0,12A
+S0652,Student_652,History,87.0,11B
+S0915,Student_915,History,61.0,10C
+S0629,Student_629,English,68.0,11A
+S0581,Student_581,Computer Science,47.0,10B
+S0793,Student_793,Science,98.0,11A
+S0206,Student_206,English,71.0,12A
+S0732,Student_732,Mathematics,75.0,11A
+S0304,Student_304,Mathematics,68.0,10A
+S0399,Student_399,Computer Science,75.0,10B
+S0749,Student_749,History,72.0,10A
+S0889,Student_889,Computer Science,40.0,12A
+S0825,Student_825,Computer Science,74.0,10A
+S0673,Student_673,History,49.0,10B
+S0653,Student_653,History,87.0,11A
+S0196,Student_196,English,33.0,10A
+S0021,Student_21,History,57.0,10B
+S0402,Student_402,History,79.0,10B
+S0082,Student_82,History,71.0,10C
+S0727,Student_727,History,81.0,12A
+S0400,Student_400,English,56.0,10C
+S0627,Student_627,History,92.0,10A
+S0575,Student_575,English,38.0,10C
+S0572,Student_572,Computer Science,72.0,10C
+S0026,Student_26,Science,55.0,10B
+S0744,Student_744,Science,100.0,10B
+S0792,Student_792,Mathematics,60.0,10B
+S0784,Student_784,Science,68.0,10A
+S0555,Student_555,Computer Science,62.0,12A
+S0435,Student_435,Science,68.0,10C
+S0603,Student_603,Computer Science,61.0,11A
+S0175,Student_175,History,59.0,12A
+S0270,Student_270,English,84.0,10B
+S0626,Student_626,English,89.0,10A
+S0891,Student_891,English,87.0,11B
+S0389,Student_389,History,64.0,10A
+S0174,Student_174,Science,74.0,12A
+S0177,Student_177,English,62.0,11B
+S0084,Student_84,Science,93.0,10B
+S0009,Student_9,English,68.0,12A
+S0003,Student_3,Mathematics,63.0,10A
+S0956,Student_956,History,53.0,10B
+S0977,Student_977,Science,90.0,11A
+S0725,Student_725,Science,75.0,11A
+S0057,Student_57,History,51.0,10A
+S0696,Student_696,History,87.0,10B
+S0619,Student_619,History,76.0,10A
+S0377,Student_377,English,51.0,12A
+S0946,Student_946,History,93.0,11A
+S0691,Student_691,Mathematics,62.0,10C
+S0810,Student_810,History,68.0,10A
+S0208,Student_208,Mathematics,93.0,10A
+S0828,Student_828,English,75.0,12A
+S0793,Student_793,Computer Science,60.0,11A
+S0915,Student_915,Computer Science,58.0,10C
+S0905,Student_905,Computer Science,87.0,12A
+S0468,Student_468,Science,77.0,11A
+S0130,Student_130,English,69.0,11B
+S0490,Student_490,Mathematics,73.0,10A
+S0024,Student_24,Mathematics,74.0,10A
+S0944,Student_944,History,80.0,10B
+S0768,Student_768,Computer Science,65.0,10C
+S0834,Student_834,History,84.0,11B
+S0289,Student_289,Mathematics,79.0,10A
+S0237,Student_237,English,83.0,10A
+S0071,Student_71,Science,92.0,10B
+S0806,Student_806,English,66.0,12A
+S0040,Student_40,Mathematics,75.0,10C
+S0140,Student_140,History,83.0,11B
+S0448,Student_448,History,63.0,12A
+S0373,Student_373,English,81.0,10C
+S0224,Student_224,History,73.0,10B
+S0327,Student_327,History,85.0,12A
+S0447,Student_447,English,40.0,10B
+S0747,Student_747,Computer Science,81.0,11B
+S0520,Student_520,History,88.0,10C
+S0400,Student_400,History,67.0,10C
+S0246,Student_246,Computer Science,100.0,10A
+S0872,Student_872,English,65.0,11A
+S0177,Student_177,Science,62.0,11B
+S0262,Student_262,English,69.0,10B
+S0249,Student_249,Computer Science,60.0,10A
+S0410,Student_410,English,69.0,11B
+S0248,Student_248,English,61.0,12A
+S0949,Student_949,Mathematics,77.0,11B
+S0408,Student_408,Computer Science,43.0,12A
+S0316,Student_316,History,58.0,11A
+S0643,Student_643,Mathematics,87.0,10B
+S0883,Student_883,History,32.0,10B
+S0790,Student_790,History,65.0,10B
+S0634,Student_634,History,68.0,12A
+S0414,Student_414,English,67.0,12A
+S0508,Student_508,English,83.0,10C
+S0065,Student_65,English,57.0,11B
+S0469,Student_469,Science,76.0,10B
+S0854,Student_854,Science,74.0,12A
+S0238,Student_238,Computer Science,55.0,10C
+S0775,Student_775,Computer Science,58.0,10A
+S0060,Student_60,Mathematics,59.0,11B
+S0884,Student_884,Mathematics,79.0,10C
+S0598,Student_598,Mathematics,55.0,11B
+S0834,Student_834,Science,65.0,11B
+S0904,Student_904,Science,63.0,12A
+S0069,Student_69,Computer Science,62.0,10A
+S0798,Student_798,Mathematics,38.0,11A
+S0155,Student_155,Science,61.0,11A
+S0407,Student_407,English,77.0,11B
+S0134,Student_134,Mathematics,71.0,11A
+S0825,Student_825,English,84.0,10A
+S0949,Student_949,Science,77.0,11B
+S0279,Student_279,Mathematics,76.0,12A
+S0644,Student_644,Science,45.0,12A
+S0978,Student_978,Computer Science,79.0,11A
+S0080,Student_80,Computer Science,88.0,10C
+S0824,Student_824,Mathematics,64.0,10B
+S0241,Student_241,Mathematics,71.0,11B
+S0600,Student_600,Mathematics,71.0,12A
+S0490,Student_490,History,58.0,10A
+S0479,Student_479,Science,56.0,10A
+S0312,Student_312,Computer Science,65.0,11A
+S0785,Student_785,English,64.0,10A
+S0891,Student_891,History,74.0,11B
+S0171,Student_171,English,60.0,10B
+S0991,Student_991,History,84.0,12A
+S0423,Student_423,Science,67.0,12A
+S0233,Student_233,Computer Science,85.0,11A
+S0861,Student_861,History,80.0,11A
+S0819,Student_819,Science,91.0,10B
+S0433,Student_433,English,77.0,12A
+S0058,Student_58,History,74.0,11A
+S0051,Student_51,Science,83.0,11B
+S0597,Student_597,Science,89.0,11A
+S0651,Student_651,Computer Science,75.0,12A
+S0001,Student_1,English,79.0,12A
+S0370,Student_370,History,84.0,11B
+S0247,Student_247,English,68.0,12A
+S0678,Student_678,Mathematics,61.0,10B
+S0195,Student_195,Mathematics,71.0,11A
+S0809,Student_809,Computer Science,83.0,10C
+S0175,Student_175,Mathematics,67.0,12A
+S0182,Student_182,Computer Science,100.0,10C
+S0833,Student_833,History,42.0,10C
+S0459,Student_459,Computer Science,57.0,10A
+S0268,Student_268,Mathematics,64.0,11A
+S0301,Student_301,English,57.0,10A
+S0940,Student_940,Computer Science,62.0,11B
+S0947,Student_947,Science,69.0,10C
+S0486,Student_486,History,86.0,10B
+S0154,Student_154,English,96.0,11B
+S0129,Student_129,History,47.0,11B
+S0969,Student_969,English,80.0,12A
+S0364,Student_364,Computer Science,55.0,11B
+S0755,Student_755,English,58.0,10A
+S0465,Student_465,English,76.0,11B
+S0927,Student_927,English,75.0,10C
+S0260,Student_260,English,65.0,10B
+S0939,Student_939,History,77.0,12A
+S0773,Student_773,English,69.0,10A
+S0481,Student_481,Mathematics,59.0,11B
+S0103,Student_103,English,66.0,11B
+S0696,Student_696,English,38.0,10B
+S0549,Student_549,Mathematics,76.0,12A
+S0416,Student_416,Mathematics,65.0,10C
+S0287,Student_287,Mathematics,74.0,12A
+S0068,Student_68,English,65.0,10A
+S0526,Student_526,Science,91.0,10C
+S0871,Student_871,English,66.0,10B
+S0906,Student_906,Mathematics,87.0,11A
+S0455,Student_455,Mathematics,75.0,11A
+S0884,Student_884,Computer Science,36.0,10C
+S0840,Student_840,Computer Science,78.0,12A
+S0915,Student_915,Mathematics,61.0,10C
+S0957,Student_957,History,55.0,10C
+S0993,Student_993,English,68.0,10A
+S0516,Student_516,Science,91.0,10C
+S0980,Student_980,Computer Science,79.0,10C
+S0088,Student_88,History,44.0,12A
+S0114,Student_114,English,54.0,10B
+S0354,Student_354,History,,10A
+S0791,Student_791,History,78.0,10B
+S0240,Student_240,Computer Science,90.0,11B
+S0940,Student_940,Science,77.0,11B
+S0766,Student_766,Computer Science,77.0,11A
+S0842,Student_842,Computer Science,53.0,10A
+S0064,Student_64,Mathematics,70.0,10C
+S0967,Student_967,History,79.0,11B
+S0122,Student_122,Science,58.0,12A
+S0697,Student_697,English,64.0,10B
+S0250,Student_250,Computer Science,46.0,10B
+S0610,Student_610,Computer Science,87.0,10B
+S0734,Student_734,Mathematics,51.0,10C
+S0958,Student_958,Science,80.0,10B
+S0150,Student_150,Computer Science,48.0,11B
+S0758,Student_758,Science,74.0,10B
+S0889,Student_889,History,80.0,12A
+S0299,Student_299,English,61.0,11A
+S0762,Student_762,Computer Science,82.0,10C
+S0119,Student_119,History,75.0,12A
+S0935,Student_935,Computer Science,82.0,12A
+S0315,Student_315,Computer Science,76.0,10B
+S0100,Student_100,Computer Science,49.0,10C
+S0656,Student_656,Computer Science,78.0,10B
+S0511,Student_511,Computer Science,56.0,10B
+S0831,Student_831,Science,86.0,11B
+S0632,Student_632,Computer Science,74.0,11A
+S0882,Student_882,Computer Science,83.0,11A
+S0448,Student_448,Mathematics,80.0,12A
+S0530,Student_530,Mathematics,58.0,10B
+S0975,Student_975,History,73.0,11B
+S0160,Student_160,Mathematics,85.0,12A
+S0108,Student_108,English,64.0,10B
+S0680,Student_680,Mathematics,49.0,10C
+S0957,Student_957,English,44.0,10C
+S0172,Student_172,English,77.0,11A
+S0115,Student_115,Science,95.0,11B
+S0008,Student_8,Computer Science,72.0,10B
+S0844,Student_844,English,62.0,11A
+S0576,Student_576,Science,55.0,11A
+S0526,Student_526,English,80.0,10C
+S0773,Student_773,Computer Science,64.0,10A
+S0516,Student_516,History,74.0,10C
+S0985,Student_985,English,78.0,10A
+S0308,Student_308,English,62.0,10A
+S0786,Student_786,Science,84.0,10B
+S0840,Student_840,Science,86.0,12A
+S0421,Student_421,Science,56.0,10A
+S0996,Student_996,Science,90.0,11B
+S0012,Student_12,English,65.0,12A
+S0490,Student_490,Science,74.0,10A
+S0870,Student_870,Computer Science,61.0,11A
+S0910,Student_910,Science,68.0,10C
+S0411,Student_411,History,65.0,12A
+S0109,Student_109,Computer Science,32.0,10A
+S0541,Student_541,Mathematics,75.0,11B
+S0661,Student_661,English,73.0,12A
+S0823,Student_823,Computer Science,94.0,12A
+S0455,Student_455,History,70.0,11A
+S0487,Student_487,Mathematics,78.0,10B
+S0833,Student_833,Computer Science,63.0,10C
+S0217,Student_217,Science,64.0,11B
+S0200,Student_200,English,79.0,10B
+S0983,Student_983,Science,89.0,10C
+S0273,Student_273,History,55.0,12A
+S0704,Student_704,Computer Science,36.0,10A
+S0644,Student_644,Computer Science,80.0,12A
+S0501,Student_501,History,60.0,10A
+S0925,Student_925,Computer Science,75.0,11B
+S0227,Student_227,Science,76.0,11A
+S0457,Student_457,English,87.0,10A
+S0168,Student_168,Mathematics,73.0,10A
+S0624,Student_624,English,58.0,10B
+S0415,Student_415,Science,88.0,11B
+S0704,Student_704,Science,58.0,10A
+S0233,Student_233,English,49.0,11A
+S0639,Student_639,Science,80.0,11A
+S0501,Student_501,Computer Science,53.0,10A
+S0593,Student_593,Computer Science,88.0,10A
+S0452,Student_452,Computer Science,72.0,11A
+S0297,Student_297,Mathematics,80.0,10B
+S0838,Student_838,Science,100.0,10A
+S0756,Student_756,Science,42.0,12A
+S0247,Student_247,History,100.0,12A
+S0767,Student_767,Computer Science,55.0,10C
+S0549,Student_549,Science,76.0,12A
+S0017,Student_17,Mathematics,66.0,10A
+S0857,Student_857,Computer Science,58.0,10C
+S0389,Student_389,Mathematics,74.0,10A
+S0069,Student_69,English,73.0,10A
+S0601,Student_601,Science,57.0,10C
+S0005,Student_5,Computer Science,61.0,10C
+S0092,Student_92,English,54.0,12A
+S0452,Student_452,English,63.0,11A
+S0105,Student_105,Computer Science,58.0,12A
+S0435,Student_435,Computer Science,57.0,10C
+S0461,Student_461,Science,55.0,10B
+S0926,Student_926,Science,59.0,10C
+S0492,Student_492,Computer Science,77.0,12A
+S0431,Student_431,English,70.0,10C
+S0549,Student_549,Computer Science,32.0,12A
+S0548,Student_548,Science,64.0,10A
+S0016,Student_16,Computer Science,40.0,11A
+S0063,Student_63,History,82.0,11B
+S0463,Student_463,Computer Science,79.0,10A
+S0259,Student_259,Mathematics,75.0,11A
+S0417,Student_417,History,35.0,12A
+S0070,Student_70,Science,48.0,12A
+S0453,Student_453,English,88.0,11B
+S0930,Student_930,History,45.0,10C
+S0803,Student_803,Mathematics,70.0,11B
+S0077,Student_77,Computer Science,58.0,10C
+S0623,Student_623,History,51.0,10B
+S0962,Student_962,Mathematics,46.0,11B
+S0962,Student_962,Computer Science,63.0,11B
+S0629,Student_629,History,60.0,11A
+S0946,Student_946,Mathematics,22.0,11A
+S0008,Student_8,Mathematics,51.0,10B
+S0887,Student_887,Computer Science,61.0,10C
+S0760,Student_760,English,73.0,10B
+S0585,Student_585,Science,81.0,12A
+S0979,Student_979,English,61.0,11A
+S0780,Student_780,History,76.0,10B
+S0759,Student_759,Mathematics,78.0,11A
+S0460,Student_460,History,79.0,12A
+S0913,Student_913,Mathematics,53.0,12A
+S0933,Student_933,Computer Science,80.0,10B
+S0704,Student_704,Mathematics,77.0,10A
+S0856,Student_856,English,55.0,12A
+S0805,Student_805,English,42.0,12A
+S0796,Student_796,Computer Science,54.0,11B
+S0805,Student_805,Computer Science,59.0,12A
+S0566,Student_566,Mathematics,95.0,10C
+S0203,Student_203,Computer Science,96.0,11B
+S0464,Student_464,Mathematics,76.0,10C
+S0846,Student_846,Mathematics,77.0,11A
+S0656,Student_656,Science,87.0,10B
+S0800,Student_800,Computer Science,75.0,10C
+S0356,Student_356,English,69.0,10A
+S0653,Student_653,Computer Science,79.0,11A
+S0983,Student_983,Computer Science,50.0,10C
+S0494,Student_494,Science,58.0,11A
+S0328,Student_328,History,100.0,11B
+S0359,Student_359,Computer Science,73.0,11A
+S0483,Student_483,Computer Science,85.0,11B
+S0507,Student_507,Computer Science,63.0,11A
+S0875,Student_875,English,53.0,12A
+S0224,Student_224,English,69.0,10B
+S0456,Student_456,Computer Science,76.0,11B
+S0138,Student_138,Mathematics,80.0,10B
+S0180,Student_180,Computer Science,57.0,10A
+S0443,Student_443,Mathematics,51.0,10C
+S0532,Student_532,Mathematics,82.0,10C
+S0988,Student_988,Computer Science,48.0,11A
+S0832,Student_832,History,60.0,10A
+S0383,Student_383,History,77.0,12A
+S0137,Student_137,Mathematics,80.0,10C
+S0860,Student_860,Computer Science,58.0,11A
+S0757,Student_757,English,54.0,11A
+S0129,Student_129,Computer Science,66.0,11B
+S0381,Student_381,History,75.0,11A
+S0172,Student_172,Computer Science,79.0,11A
+S0097,Student_97,Computer Science,58.0,10B
+S0268,Student_268,English,65.0,11A
+S0065,Student_65,Science,78.0,11B
+S0668,Student_668,Computer Science,96.0,12A
+S0397,Student_397,Science,49.0,11B
+S0972,Student_972,Science,83.0,11A
+S0965,Student_965,English,57.0,10A
+S0324,Student_324,History,63.0,10C
+S0624,Student_624,Computer Science,94.0,10B
+S0678,Student_678,History,82.0,10B
+S0722,Student_722,English,86.0,10C
+S0783,Student_783,Science,73.0,12A
+S0144,Student_144,Computer Science,69.0,10A
+S0246,Student_246,History,84.0,10A
+S0741,Student_741,Mathematics,85.0,12A
+S0946,Student_946,Science,73.0,11A
+S0818,Student_818,Science,82.0,12A
+S0808,Student_808,English,66.0,10B
+S0702,Student_702,Computer Science,61.0,12A
+S0679,Student_679,Science,57.0,12A
+S0584,Student_584,Mathematics,97.0,11A
+S0692,Student_692,Computer Science,52.0,10C
+S0819,Student_819,Mathematics,53.0,10B
+S0327,Student_327,Science,57.0,12A
+S0291,Student_291,History,100.0,10B
+S0451,Student_451,History,69.0,12A
+S0467,Student_467,English,47.0,10B
+S0084,Student_84,Computer Science,71.0,10B
+S0340,Student_340,English,59.0,10A
+S0176,Student_176,History,69.0,10C
+S0747,Student_747,Science,57.0,11B
+S0952,Student_952,Science,47.0,10C
+S0941,Student_941,Mathematics,55.0,12A
+S0293,Student_293,Science,51.0,11B
+S0364,Student_364,English,59.0,11B
+S0541,Student_541,Science,86.0,11B
+S0516,Student_516,Computer Science,96.0,10C
+S0707,Student_707,English,68.0,10C
+S0610,Student_610,Mathematics,39.0,10B
+S0567,Student_567,History,65.0,12A
+S0342,Student_342,Mathematics,66.0,10C
+S0532,Student_532,Computer Science,78.0,10C
+S0546,Student_546,Mathematics,70.0,10B
+S0758,Student_758,History,72.0,10B
+S0510,Student_510,Computer Science,100.0,10B
+S0483,Student_483,Science,93.0,11B
+S0032,Student_32,Computer Science,79.0,10B
+S0791,Student_791,English,100.0,10B
+S0932,Student_932,Science,65.0,10C
+S0245,Student_245,Computer Science,67.0,10A
+S0291,Student_291,Computer Science,78.0,10B
+S0082,Student_82,Computer Science,77.0,10C
+S0356,Student_356,Science,60.0,10A
+S0239,Student_239,History,74.0,10A
+S0347,Student_347,Mathematics,66.0,11B
+S0161,Student_161,English,71.0,12A
+S0870,Student_870,English,46.0,11A
+S0214,Student_214,Computer Science,75.0,11B
+S0265,Student_265,History,77.0,11B
+S0406,Student_406,Science,97.0,11A
+S0931,Student_931,Science,79.0,10C
+S0550,Student_550,Science,73.0,11A
+S0451,Student_451,Mathematics,68.0,12A
+S0933,Student_933,English,61.0,10B
+S0060,Student_60,English,74.0,11B
+S0922,Student_922,Computer Science,57.0,10C
+S0750,Student_750,History,91.0,11A
+S0282,Student_282,History,65.0,12A
+S0997,Student_997,Mathematics,52.0,10C
+S0038,Student_38,Computer Science,47.0,12A
+S0525,Student_525,Science,81.0,11B
+S0790,Student_790,Mathematics,83.0,10B
+S0280,Student_280,English,55.0,10A
+S0085,Student_85,History,84.0,12A
+S0019,Student_19,Mathematics,71.0,10A
+S0118,Student_118,Computer Science,57.0,10B
+S0277,Student_277,History,60.0,11A
+S0135,Student_135,Science,38.0,11B
+S0416,Student_416,History,67.0,10C
+S0195,Student_195,History,60.0,11A
+S0343,Student_343,English,37.0,10A
+S0296,Student_296,History,56.0,11A
+S0531,Student_531,Science,92.0,11B
+S0202,Student_202,Computer Science,61.0,10B
+S0225,Student_225,Computer Science,94.0,12A
+S0482,Student_482,History,82.0,11A
+S0445,Student_445,Science,60.0,10A
+S0539,Student_539,Mathematics,54.0,10C
+S0575,Student_575,History,61.0,10C
+S0150,Student_150,History,60.0,11B
+S0078,Student_78,Mathematics,72.0,11A
+S0048,Student_48,Mathematics,79.0,10A
+S0180,Student_180,History,88.0,10A
+S0613,Student_613,Science,65.0,10C
+S0703,Student_703,Science,56.0,10B
+S0430,Student_430,History,68.0,12A
+S0446,Student_446,Computer Science,85.0,10C
+S0821,Student_821,Computer Science,69.0,11B
+S0379,Student_379,Science,70.0,10B
+S0613,Student_613,Mathematics,74.0,10C
+S0095,Student_95,Science,35.0,12A
+S0285,Student_285,History,57.0,10A
+S0496,Student_496,English,91.0,12A
+S0529,Student_529,Computer Science,53.0,10C
+S0978,Student_978,Mathematics,62.0,11A
+S0544,Student_544,Computer Science,71.0,11A
+S0998,Student_998,History,72.0,10A
+S0893,Student_893,History,87.0,11B
+S0340,Student_340,Science,54.0,10A
+S0881,Student_881,Computer Science,68.0,10B
+S0313,Student_313,History,83.0,11A
+S0741,Student_741,Science,91.0,12A
+S0745,Student_745,Science,95.0,11A
+S0641,Student_641,Computer Science,55.0,11A
+S0648,Student_648,Mathematics,72.0,11A
+S0588,Student_588,Computer Science,64.0,11B
+S0502,Student_502,History,49.0,11A
+S0416,Student_416,English,,10C
+S0033,Student_33,History,57.0,11A
+S0419,Student_419,Mathematics,74.0,10B
+S0194,Student_194,Mathematics,91.0,10C
+S0551,Student_551,History,67.0,10A
+S0076,Student_76,Computer Science,57.0,11A
+S0810,Student_810,Science,80.0,10A
+S0276,Student_276,English,85.0,11A
+S0484,Student_484,Science,78.0,12A
+S0894,Student_894,Mathematics,52.0,10B
+S0603,Student_603,Science,89.0,11A
+S0394,Student_394,Science,67.0,10A
+S0414,Student_414,Mathematics,61.0,12A
+S0491,Student_491,History,59.0,10B
+S0624,Student_624,History,85.0,10B
+S0739,Student_739,Computer Science,83.0,10C
+S0772,Student_772,Computer Science,67.0,10C
+S0754,Student_754,Mathematics,70.0,10A
+S0200,Student_200,Science,96.0,10B
+S0373,Student_373,Mathematics,67.0,10C
+S0259,Student_259,Science,100.0,11A
+S0229,Student_229,Computer Science,67.0,12A
+S0804,Student_804,Science,62.0,11B
+S0788,Student_788,History,64.0,10A
+S0384,Student_384,English,60.0,12A
+S0320,Student_320,Mathematics,54.0,10A
+S0085,Student_85,Computer Science,79.0,12A
+S0882,Student_882,Science,68.0,11A
+S0363,Student_363,English,94.0,11B
+S0329,Student_329,Science,91.0,12A
+S0672,Student_672,Mathematics,67.0,11A
+S0563,Student_563,Computer Science,97.0,12A
+S0961,Student_961,English,49.0,12A
+S0975,Student_975,Mathematics,100.0,11B
+S0410,Student_410,Science,70.0,11B
+S0071,Student_71,Mathematics,74.0,10B
+S0781,Student_781,Mathematics,61.0,12A
+S0163,Student_163,Science,63.0,12A
+S0246,Student_246,English,67.0,10A
+S0350,Student_350,Science,84.0,10A
+S0733,Student_733,Science,59.0,10B
+S0741,Student_741,Mathematics,85.0,12A
+S0189,Student_189,Mathematics,50.0,10B
+S0306,Student_306,Mathematics,86.0,12A
+S0763,Student_763,Mathematics,55.0,11A
+S0474,Student_474,History,53.0,10C
+S0502,Student_502,English,88.0,11A
+S0702,Student_702,Mathematics,49.0,12A
+S0812,Student_812,English,76.0,10A
+S0650,Student_650,Mathematics,81.0,10B
+S0980,Student_980,History,80.0,10C
+S0908,Student_908,Mathematics,60.0,10A
+S0615,Student_615,English,73.0,12A
+S0180,Student_180,English,72.0,10A
+S0585,Student_585,Mathematics,59.0,12A
+S0056,Student_56,History,71.0,11B
+S0522,Student_522,Mathematics,67.0,11B
+S0262,Student_262,Science,70.0,10B
+S0390,Student_390,English,69.0,11A
+S0155,Student_155,History,84.0,11A
+S0055,Student_55,History,70.0,11A
+S0284,Student_284,English,74.0,10A
+S0103,Student_103,History,56.0,11B
+S0729,Student_729,English,55.0,11B
+S0209,Student_209,Mathematics,95.0,11B
+S0428,Student_428,Science,71.0,11B
+S0842,Student_842,English,27.0,10A
+S0185,Student_185,Science,54.0,11B
+S0379,Student_379,History,68.0,10B
+S0777,Student_777,History,56.0,11B
+S0368,Student_368,History,69.0,11A
+S0999,Student_999,Mathematics,38.0,10B
+S0801,Student_801,Mathematics,57.0,10C
+S0832,Student_832,English,62.0,10A
+S0314,Student_314,Computer Science,62.0,11A
+S0020,Student_20,Mathematics,48.0,10B
+S0375,Student_375,English,65.0,10B
+S0686,Student_686,Science,73.0,11A
+S0068,Student_68,Science,57.0,10A
+S0512,Student_512,History,74.0,10A
+S0392,Student_392,History,85.0,11B
+S0827,Student_827,History,89.0,10C
+S0393,Student_393,Science,74.0,10A
+S0689,Student_689,History,93.0,10C
+S0183,Student_183,English,73.0,12A
+S0923,Student_923,English,91.0,11A
+S0863,Student_863,Computer Science,63.0,12A
+S0133,Student_133,Science,61.0,11B
+S0966,Student_966,Computer Science,54.0,10A
+S0740,Student_740,Mathematics,65.0,12A
+S0797,Student_797,Science,94.0,10B
+S0755,Student_755,Science,62.0,10A
+S0613,Student_613,English,68.0,10C
+S0865,Student_865,Science,68.0,10C
+S0242,Student_242,Computer Science,96.0,10B
+S0324,Student_324,Computer Science,87.0,10C
+S0357,Student_357,English,47.0,12A
+S0146,Student_146,History,61.0,12A
+S0647,Student_647,History,98.0,10A
+S0547,Student_547,Computer Science,99.0,10C
+S0158,Student_158,English,76.0,11B
+S0978,Student_978,English,94.0,11A
+S0694,Student_694,Science,63.0,11B
+S0230,Student_230,English,48.0,10C
+S0706,Student_706,History,42.0,11A
+S0685,Student_685,Science,68.0,10C
+S0492,Student_492,History,77.0,12A
+S0061,Student_61,Mathematics,57.0,10C
+S0909,Student_909,Science,99.0,10A
+S0724,Student_724,Mathematics,81.0,11A
+S0851,Student_851,Science,73.0,10B
+S0148,Student_148,Science,73.0,12A
+S0534,Student_534,Computer Science,79.0,10A
+S0253,Student_253,English,78.0,10C
+S0426,Student_426,English,86.0,10C
+S0059,Student_59,Mathematics,66.0,10A
+S0502,Student_502,Science,100.0,11A
+S0743,Student_743,Mathematics,48.0,12A
+S0160,Student_160,Computer Science,70.0,12A
+S0009,Student_9,Computer Science,47.0,12A
+S0265,Student_265,Science,77.0,11B
+S0498,Student_498,Computer Science,41.0,10C
+S0450,Student_450,English,50.0,10B
+S0454,Student_454,English,74.0,12A
+S0216,Student_216,English,63.0,10C
+S0260,Student_260,Science,83.0,10B
+S0597,Student_597,History,74.0,11A
+S0233,Student_233,Mathematics,32.0,11A
+S0830,Student_830,Science,75.0,10A
+S0430,Student_430,Mathematics,92.0,12A
+S0952,Student_952,English,89.0,10C
+S0702,Student_702,History,77.0,12A
+S0043,Student_43,English,84.0,10B
+S0862,Student_862,Computer Science,63.0,11A
+S0196,Student_196,History,46.0,10A
+S0156,Student_156,Science,59.0,11B
+S0978,Student_978,History,73.0,11A
+S0500,Student_500,English,65.0,12A
+S0811,Student_811,English,76.0,11B
+S0213,Student_213,Mathematics,81.0,11A
+S0664,Student_664,Computer Science,100.0,11B
+S0320,Student_320,Computer Science,59.0,10A
+S0951,Student_951,English,66.0,11B
+S0063,Student_63,Science,86.0,11B
+S0783,Student_783,English,85.0,12A
+S0974,Student_974,Computer Science,62.0,10A
+S0903,Student_903,Mathematics,52.0,11A
+S0517,Student_517,Mathematics,75.0,10C
+S0543,Student_543,Science,92.0,10A
+S0864,Student_864,Science,53.0,11B
+S0377,Student_377,History,61.0,12A
+S0404,Student_404,Mathematics,67.0,10C
+S0635,Student_635,English,,11B
+S0098,Student_98,History,95.0,11A
+S0895,Student_895,Mathematics,74.0,10A
+S0627,Student_627,English,44.0,10A
+S0295,Student_295,Computer Science,58.0,10B
+S0909,Student_909,History,61.0,10A
+S0785,Student_785,Mathematics,97.0,10A
+S0084,Student_84,English,71.0,10B
+S0169,Student_169,Mathematics,69.0,10C
+S0690,Student_690,Computer Science,63.0,10B
+S0312,Student_312,English,57.0,11A
+S0196,Student_196,Mathematics,41.0,10A
+S0880,Student_880,Mathematics,49.0,10C
+S0162,Student_162,Computer Science,56.0,10A
+S0345,Student_345,History,79.0,11B
+S0349,Student_349,Science,67.0,10B
+S0898,Student_898,Science,76.0,11A
+S0881,Student_881,Mathematics,77.0,10B
+S0475,Student_475,History,77.0,10B
+S0903,Student_903,Computer Science,67.0,11A
+S0482,Student_482,Mathematics,90.0,11A
+S0837,Student_837,English,57.0,10C
+S0383,Student_383,Science,100.0,12A
+S0175,Student_175,Science,58.0,12A
+S0162,Student_162,English,62.0,10A
+S0356,Student_356,History,63.0,10A
+S0770,Student_770,History,67.0,10C
+S0131,Student_131,Science,86.0,10C
+S0054,Student_54,Mathematics,51.0,12A
+S0902,Student_902,Mathematics,75.0,12A
+S0676,Student_676,History,77.0,11A
+S0182,Student_182,Science,49.0,10C
+S0670,Student_670,Computer Science,67.0,11A
+S0646,Student_646,History,81.0,10A
+S0334,Student_334,Computer Science,78.0,10C
+S0827,Student_827,History,89.0,10C
+S0706,Student_706,Science,67.0,11A
+S0481,Student_481,Science,72.0,11B
+S0885,Student_885,Computer Science,56.0,10C
+S0745,Student_745,History,43.0,11A
+S0627,Student_627,Computer Science,70.0,10A
+S0096,Student_96,History,100.0,10B
+S0765,Student_765,Science,74.0,10B
+S0813,Student_813,Computer Science,55.0,10C
+S0645,Student_645,History,80.0,12A
+S0800,Student_800,Science,38.0,10C
+S0162,Student_162,History,88.0,10A
+S0218,Student_218,English,73.0,11B
+S0066,Student_66,English,81.0,10B
+S0898,Student_898,Computer Science,70.0,11A
+S0079,Student_79,Mathematics,56.0,12A
+S0671,Student_671,History,71.0,11B
+S0966,Student_966,Mathematics,73.0,10A
+S0700,Student_700,Science,82.0,12A
+S0128,Student_128,Science,82.0,12A
+S0491,Student_491,English,68.0,10B
+S0792,Student_792,English,66.0,10B
+S0573,Student_573,Computer Science,76.0,12A
+S0275,Student_275,Science,95.0,10C
+S0874,Student_874,History,59.0,11B
+S0177,Student_177,Mathematics,100.0,11B
+S0657,Student_657,Mathematics,57.0,10A
+S0673,Student_673,Mathematics,52.0,10B
+S0841,Student_841,English,55.0,10C
+S0223,Student_223,Computer Science,72.0,12A
+S0869,Student_869,Computer Science,60.0,10C
+S0083,Student_83,English,46.0,10C
+S0029,Student_29,Computer Science,73.0,12A
+S0619,Student_619,Computer Science,57.0,10A
+S0422,Student_422,History,65.0,10A
+S0712,Student_712,History,68.0,10B
+S0557,Student_557,History,54.0,12A
+S0204,Student_204,Mathematics,72.0,10A
+S0318,Student_318,English,64.0,10B
+S0348,Student_348,English,53.0,11B
+S0563,Student_563,History,65.0,12A
+S0480,Student_480,Science,56.0,10C
+S0919,Student_919,English,78.0,11A
+S0706,Student_706,Computer Science,54.0,11A
+S0964,Student_964,Mathematics,66.0,10C
+S0385,Student_385,Computer Science,100.0,10C
+S0267,Student_267,Computer Science,72.0,10B
+S0852,Student_852,English,91.0,11A
+S0171,Student_171,History,87.0,10B
+S0859,Student_859,English,47.0,11B
+S0323,Student_323,Science,46.0,11A
+S0527,Student_527,English,72.0,10A
+S0724,Student_724,History,87.0,11A
+S0147,Student_147,History,44.0,10B
+S0889,Student_889,Mathematics,49.0,12A
+S0997,Student_997,Computer Science,78.0,10C
+S0628,Student_628,Mathematics,76.0,10B
+S0931,Student_931,Computer Science,80.0,10C
+S0271,Student_271,Mathematics,,10A
+S0655,Student_655,History,80.0,11B
+S0277,Student_277,English,100.0,11A
+S0216,Student_216,Computer Science,82.0,10C
+S0374,Student_374,English,86.0,10C
+S0742,Student_742,Mathematics,74.0,11A
+S0256,Student_256,Computer Science,65.0,10B
+S0634,Student_634,Mathematics,43.0,12A
+S0561,Student_561,Science,100.0,11A
+S0327,Student_327,Mathematics,77.0,12A
+S0550,Student_550,History,75.0,11A
+S0108,Student_108,History,85.0,10B
+S0587,Student_587,English,56.0,10B
+S0921,Student_921,Mathematics,66.0,11B
+S0904,Student_904,Computer Science,56.0,12A
+S0521,Student_521,History,52.0,12A
+S0643,Student_643,Science,52.0,10B
+S0959,Student_959,English,68.0,10C
+S0596,Student_596,Computer Science,72.0,10B
+S0403,Student_403,English,58.0,10C
+S0317,Student_317,English,54.0,10A
+S0173,Student_173,Mathematics,73.0,10A
+S0346,Student_346,Science,61.0,11A
+S0270,Student_270,Science,31.0,10B
+S0579,Student_579,History,73.0,11B
+S0580,Student_580,Mathematics,100.0,10B
+S0504,Student_504,Science,71.0,11A
+S0657,Student_657,Computer Science,46.0,10A
+S0723,Student_723,Computer Science,80.0,10C
+S0701,Student_701,History,70.0,10B
+S0626,Student_626,Mathematics,81.0,10A
+S0401,Student_401,Science,67.0,10A
+S0737,Student_737,Mathematics,53.0,10A
+S0926,Student_926,Mathematics,88.0,10C
+S0805,Student_805,Mathematics,100.0,12A
+S0397,Student_397,History,82.0,11B
+S0778,Student_778,Mathematics,78.0,10A
+S0396,Student_396,Mathematics,64.0,10B
+S0163,Student_163,Mathematics,67.0,12A
+S0041,Student_41,English,86.0,10C
+S0966,Student_966,Science,71.0,10A
+S0375,Student_375,English,65.0,10B
+S0912,Student_912,History,61.0,11A
+S0515,Student_515,Mathematics,70.0,11A
+S0705,Student_705,History,94.0,11A
+S0998,Student_998,English,71.0,10A
+S0635,Student_635,Science,79.0,11B
+S0953,Student_953,Mathematics,50.0,10A
+S0714,Student_714,Computer Science,83.0,11A
+S0879,Student_879,Mathematics,77.0,11A
+S0104,Student_104,Science,77.0,10B
+S0048,Student_48,Science,39.0,10A
+S0031,Student_31,History,73.0,11A
+S0288,Student_288,English,94.0,10C
+S0897,Student_897,Mathematics,52.0,12A
+S0793,Student_793,Mathematics,59.0,11A
+S0845,Student_845,History,87.0,10A
+S0552,Student_552,Computer Science,79.0,11B
+S0485,Student_485,History,69.0,10B
+S0240,Student_240,History,73.0,11B
+S0199,Student_199,Computer Science,54.0,10C
+S0502,Student_502,Mathematics,57.0,11A
+S0752,Student_752,History,74.0,11B
+S0297,Student_297,Science,64.0,10B
+S0487,Student_487,Science,54.0,10B
+S0032,Student_32,Science,97.0,10B
+S0367,Student_367,English,84.0,10A
+S0012,Student_12,Science,57.0,12A
+S0580,Student_580,Computer Science,74.0,10B
+S0329,Student_329,Computer Science,54.0,12A
+S0455,Student_455,Science,62.0,11A
+S0131,Student_131,English,65.0,10C
+S0143,Student_143,Computer Science,69.0,10A
+S0878,Student_878,Computer Science,78.0,10A
+S0938,Student_938,Science,,10A
+S0582,Student_582,Computer Science,88.0,11A
+S0672,Student_672,Computer Science,55.0,11A
+S0992,Student_992,History,69.0,12A
+S0570,Student_570,History,60.0,10C
+S0989,Student_989,Mathematics,78.0,10A
+S0255,Student_255,English,53.0,11B
+S0546,Student_546,English,90.0,10B
+S0712,Student_712,Computer Science,50.0,10B
+S0660,Student_660,Science,95.0,11A
+S0524,Student_524,History,76.0,12A
+S0800,Student_800,Mathematics,70.0,10C
+S0391,Student_391,Mathematics,43.0,11B
+S0002,Student_2,Science,93.0,10A
+S0863,Student_863,English,77.0,12A
+S0395,Student_395,Computer Science,69.0,11B
+S0540,Student_540,Computer Science,89.0,11A
+S0065,Student_65,History,100.0,11B
+S0936,Student_936,Science,80.0,10B
+S0011,Student_11,Science,64.0,12A
+S0050,Student_50,English,60.0,10C
+S0744,Student_744,Mathematics,67.0,10B
+S0635,Student_635,Mathematics,55.0,11B
+S0347,Student_347,Science,64.0,11B
+S0238,Student_238,Science,55.0,10C
+S0505,Student_505,History,65.0,10B
+S0253,Student_253,Science,71.0,10C
+S0522,Student_522,English,36.0,11B
+S0612,Student_612,Science,61.0,10A
+S0630,Student_630,English,59.0,11B
+S0735,Student_735,Science,83.0,11A
+S0233,Student_233,History,45.0,11A
+S0120,Student_120,Computer Science,75.0,11A
+S0537,Student_537,Computer Science,75.0,10C
+S0520,Student_520,Computer Science,62.0,10C
+S0863,Student_863,Computer Science,63.0,12A
+S0538,Student_538,Computer Science,79.0,12A
+S0703,Student_703,History,43.0,10B
+S0097,Student_97,Science,55.0,10B
+S0217,Student_217,Computer Science,75.0,11B
+S0634,Student_634,Computer Science,63.0,12A
+S0916,Student_916,History,61.0,12A
+S0403,Student_403,Computer Science,82.0,10C
+S0811,Student_811,Computer Science,54.0,11B
+S0906,Student_906,History,69.0,11A
+S0029,Student_29,Mathematics,73.0,12A
+S0501,Student_501,Mathematics,78.0,10A
+S0330,Student_330,English,84.0,12A
+S0523,Student_523,Mathematics,79.0,11A
+S0510,Student_510,Science,49.0,10B
+S0077,Student_77,History,62.0,10C
+S0999,Student_999,History,78.0,10B
+S0361,Student_361,Computer Science,42.0,11B
+S0269,Student_269,Science,70.0,11A
+S0045,Student_45,Computer Science,62.0,10A
+S0777,Student_777,Mathematics,74.0,11B
+S0459,Student_459,Mathematics,96.0,10A
+S0395,Student_395,History,72.0,11B
+S0539,Student_539,Computer Science,75.0,10C
+S0044,Student_44,English,66.0,10C
+S0013,Student_13,History,52.0,11B
+S0846,Student_846,History,74.0,11A
+S0266,Student_266,Computer Science,78.0,11A
+S0537,Student_537,Mathematics,80.0,10C
+S0028,Student_28,Computer Science,51.0,12A
+S0159,Student_159,Mathematics,76.0,10A
+S0933,Student_933,Mathematics,92.0,10B
+S0207,Student_207,Mathematics,66.0,11A
+S0144,Student_144,History,64.0,10A
+S0282,Student_282,English,92.0,12A
+S0192,Student_192,Mathematics,86.0,10A
+S0844,Student_844,Science,97.0,11A
+S0578,Student_578,Computer Science,75.0,10C
+S0112,Student_112,History,75.0,10C
+S0307,Student_307,Computer Science,63.0,11B
+S0197,Student_197,Mathematics,81.0,10A
+S0116,Student_116,English,81.0,12A
+S0186,Student_186,History,93.0,10B
+S0168,Student_168,History,84.0,10A
+S0167,Student_167,Mathematics,49.0,10C
+S0542,Student_542,History,64.0,11B
+S0851,Student_851,English,73.0,10B
+S0641,Student_641,Mathematics,72.0,11A
+S0423,Student_423,English,70.0,12A
+S0861,Student_861,Science,49.0,11A
+S0029,Student_29,Science,89.0,12A
+S0041,Student_41,Mathematics,75.0,10C
+S0557,Student_557,Computer Science,62.0,12A
+S0211,Student_211,English,77.0,10B
+S0028,Student_28,English,65.0,12A
+S0769,Student_769,Mathematics,60.0,11A
+S0435,Student_435,History,72.0,10C
+S0056,Student_56,Computer Science,64.0,11B
+S0366,Student_366,English,91.0,11B
+S0129,Student_129,English,66.0,11B
+S0848,Student_848,Computer Science,68.0,12A
+S0070,Student_70,History,59.0,12A
+S0623,Student_623,Mathematics,52.0,10B
+S0656,Student_656,History,71.0,10B
+S0789,Student_789,History,34.0,11B
+S0306,Student_306,English,93.0,12A
+S0890,Student_890,English,71.0,10C
+S0040,Student_40,History,70.0,10C
+S0835,Student_835,Computer Science,67.0,11A
+S0535,Student_535,English,73.0,11B
+S0587,Student_587,History,84.0,10B
+S0764,Student_764,Mathematics,43.0,10C
+S0221,Student_221,History,67.0,11B
+S0137,Student_137,Science,53.0,10C
+S0166,Student_166,History,63.0,12A
+S0109,Student_109,History,91.0,10A
+S0646,Student_646,Computer Science,69.0,10A
+S0237,Student_237,Science,90.0,10A
+S0302,Student_302,History,71.0,11A
+S0961,Student_961,History,59.0,12A
+S0142,Student_142,Mathematics,79.0,10A
+S0074,Student_74,Computer Science,58.0,10B
+S0116,Student_116,Computer Science,87.0,12A
+S0898,Student_898,History,83.0,11A
+S0443,Student_443,English,83.0,10C
+S0982,Student_982,History,74.0,10A
+S0731,Student_731,Mathematics,76.0,10B
+S0221,Student_221,Science,26.0,11B
+S0609,Student_609,History,73.0,12A
+S0740,Student_740,English,74.0,12A
+S0930,Student_930,Mathematics,94.0,10C
+S0907,Student_907,English,77.0,11A
+S0986,Student_986,History,50.0,10A
+S0716,Student_716,Science,57.0,12A
+S0906,Student_906,English,81.0,11A
+S0478,Student_478,History,83.0,12A
+S0190,Student_190,Science,47.0,11B
+S0683,Student_683,Mathematics,59.0,12A
+S0238,Student_238,History,78.0,10C
+S0820,Student_820,English,61.0,10A
+S0751,Student_751,Computer Science,59.0,11B
+S0165,Student_165,Science,91.0,10C
+S0179,Student_179,Science,77.0,11B
+S0121,Student_121,Computer Science,76.0,11A
+S0573,Student_573,English,53.0,12A
+S0862,Student_862,History,67.0,11A
+S0463,Student_463,History,77.0,10A
+S0286,Student_286,Computer Science,65.0,11A
+S0987,Student_987,History,86.0,11A
+S0747,Student_747,History,72.0,11B
+S0067,Student_67,History,59.0,12A
+S0500,Student_500,Science,65.0,12A
+S0904,Student_904,History,75.0,12A
+S0762,Student_762,Mathematics,77.0,10C
+S0412,Student_412,Mathematics,57.0,11B
+S0406,Student_406,Computer Science,62.0,11A
+S0901,Student_901,Science,,10B
+S0144,Student_144,Mathematics,86.0,10A
+S0130,Student_130,Science,29.0,11B
+S0498,Student_498,English,69.0,10C
+S0838,Student_838,Mathematics,75.0,10A
+S0678,Student_678,Computer Science,72.0,10B
+S0039,Student_39,Computer Science,72.0,11A
+S0073,Student_73,Science,92.0,10A
+S0001,Student_1,Science,67.0,12A
+S0782,Student_782,Computer Science,58.0,10A
+S0769,Student_769,Computer Science,94.0,11A
+S0219,Student_219,Science,69.0,11A
+S0594,Student_594,History,42.0,10C
+S0776,Student_776,Mathematics,87.0,12A
+S0986,Student_986,Science,63.0,10A
+S0825,Student_825,Mathematics,60.0,10A
+S0968,Student_968,Science,62.0,10C
+S0675,Student_675,History,97.0,11A
+S0660,Student_660,Mathematics,53.0,11A
+S0101,Student_101,Computer Science,60.0,12A
+S0472,Student_472,English,72.0,10C
+S0698,Student_698,Computer Science,46.0,10B
+S0301,Student_301,Science,61.0,10A
+S0279,Student_279,Science,59.0,12A
+S0241,Student_241,English,71.0,11B
+S0287,Student_287,Computer Science,67.0,12A
+S0671,Student_671,Science,64.0,11B
+S0542,Student_542,English,70.0,11B
+S0932,Student_932,Computer Science,57.0,10C
+S0418,Student_418,Mathematics,51.0,10A
+S0381,Student_381,Science,64.0,11A
+S0417,Student_417,English,48.0,12A
+S0447,Student_447,Mathematics,,10B
+S0750,Student_750,History,91.0,11A
+S0463,Student_463,English,73.0,10A
+S0424,Student_424,Mathematics,62.0,11B
+S0999,Student_999,Computer Science,60.0,10B
+S0093,Student_93,Mathematics,99.0,10B
+S0943,Student_943,Mathematics,60.0,10B
+S0474,Student_474,English,44.0,10C
+S0720,Student_720,Mathematics,87.0,11A
+S0417,Student_417,Mathematics,70.0,12A
+S0188,Student_188,Science,54.0,10C
+S0396,Student_396,English,84.0,10B
+S0402,Student_402,Mathematics,73.0,10B
+S0817,Student_817,Computer Science,89.0,11A
+S0111,Student_111,Mathematics,71.0,11A
+S0012,Student_12,Computer Science,84.0,12A
+S0371,Student_371,Mathematics,60.0,11B
+S0073,Student_73,History,76.0,10A
+S0017,Student_17,English,92.0,10A
+S0444,Student_444,History,100.0,10A
+S0957,Student_957,Mathematics,74.0,10C
+S0349,Student_349,History,87.0,10B
+S0728,Student_728,Mathematics,74.0,12A
+S0487,Student_487,Computer Science,73.0,10B
+S0218,Student_218,Science,85.0,11B
+S0431,Student_431,History,73.0,10C
+S0115,Student_115,English,74.0,11B
+S0807,Student_807,English,52.0,10A
+S0855,Student_855,Computer Science,39.0,11B
+S0035,Student_35,History,75.0,10C
+S0299,Student_299,History,72.0,11A
+S0627,Student_627,Mathematics,68.0,10A
+S0207,Student_207,Computer Science,62.0,11A
+S0423,Student_423,Mathematics,61.0,12A
+S0387,Student_387,History,68.0,10C
+S0729,Student_729,Science,67.0,11B
+S0749,Student_749,Science,77.0,10A
+S0266,Student_266,Mathematics,40.0,11A
+S0118,Student_118,English,57.0,10B
+S0228,Student_228,English,51.0,12A
+S0663,Student_663,History,54.0,11B
+S0382,Student_382,English,53.0,10B
+S0632,Student_632,English,71.0,11A
+S0788,Student_788,Computer Science,58.0,10A
+S0331,Student_331,English,72.0,11A
+S0534,Student_534,History,78.0,10A
+S0030,Student_30,Mathematics,81.0,11B
+S0593,Student_593,Science,60.0,10A
+S0482,Student_482,Science,50.0,11A
+S0047,Student_47,Mathematics,59.0,11A
+S0534,Student_534,English,51.0,10A
+S0052,Student_52,Mathematics,62.0,10C
+S0528,Student_528,Mathematics,86.0,10A
+S0647,Student_647,Mathematics,63.0,10A
+S0515,Student_515,Science,48.0,11A
+S0353,Student_353,Mathematics,94.0,10B
+S0961,Student_961,Mathematics,77.0,12A
+S0131,Student_131,Mathematics,97.0,10C
+S0438,Student_438,Computer Science,78.0,10C
+S0125,Student_125,Science,77.0,10C
+S0971,Student_971,English,77.0,12A
+S0566,Student_566,History,84.0,10C
+S0830,Student_830,History,62.0,10A
+S0722,Student_722,Computer Science,63.0,10C
+S0707,Student_707,Science,97.0,10C
+S0831,Student_831,English,71.0,11B
+S0654,Student_654,History,73.0,10A
+S0598,Student_598,Science,68.0,11B
+S0503,Student_503,Computer Science,68.0,10A
+S0311,Student_311,Computer Science,66.0,10B
+S0781,Student_781,Science,68.0,12A
+S0684,Student_684,Mathematics,67.0,10B
+S0511,Student_511,English,98.0,10B
+S0791,Student_791,Mathematics,77.0,10B
+S0775,Student_775,History,47.0,10A
+S0483,Student_483,English,53.0,11B
+S0138,Student_138,English,64.0,10B
+S0865,Student_865,Computer Science,58.0,10C
+S0779,Student_779,Science,78.0,10C
+S0414,Student_414,Science,33.0,12A
+S0297,Student_297,English,95.0,10B
+S0612,Student_612,Computer Science,64.0,10A
+S0050,Student_50,Computer Science,76.0,10C
+S0717,Student_717,Science,89.0,10A
+S0387,Student_387,Mathematics,51.0,10C
+S0072,Student_72,History,74.0,10C
+S0994,Student_994,English,86.0,10B
+S0118,Student_118,History,82.0,10B
+S0322,Student_322,Computer Science,66.0,10C
+S0709,Student_709,Science,91.0,11A
+S0266,Student_266,History,51.0,11A
+S0610,Student_610,English,64.0,10B
+S0422,Student_422,Science,56.0,10A
+S0537,Student_537,English,65.0,10C
+S0567,Student_567,Science,56.0,12A
+S0247,Student_247,Science,49.0,12A
+S0003,Student_3,History,41.0,10A
+S0950,Student_950,English,53.0,11B
+S0351,Student_351,Science,80.0,11B
+S0972,Student_972,Computer Science,67.0,11A
+S0574,Student_574,English,56.0,11A
+S0304,Student_304,History,54.0,10A
+S0098,Student_98,English,53.0,11A
+S0663,Student_663,Mathematics,52.0,11B
+S0688,Student_688,History,50.0,12A
+S0871,Student_871,Computer Science,76.0,10B
+S0186,Student_186,Computer Science,69.0,10B
+S0914,Student_914,English,51.0,10B
+S0160,Student_160,English,80.0,12A
+S0655,Student_655,Computer Science,56.0,11B
+S0697,Student_697,History,69.0,10B
+S0232,Student_232,English,100.0,11B
+S0301,Student_301,History,69.0,10A
+S0533,Student_533,Mathematics,52.0,10A
+S0292,Student_292,Science,81.0,10B
+S0080,Student_80,English,90.0,10C
+S0096,Student_96,Science,78.0,10B
+S0175,Student_175,English,49.0,12A
+S0949,Student_949,English,70.0,11B
+S0205,Student_205,Mathematics,77.0,10A
+S0474,Student_474,Computer Science,88.0,10C
+S0270,Student_270,Computer Science,66.0,10B
+S0265,Student_265,Computer Science,70.0,11B
+S0466,Student_466,History,80.0,11B
+S0811,Student_811,History,72.0,11B
+S0437,Student_437,Computer Science,36.0,11A
+S0614,Student_614,History,73.0,11B
+S0306,Student_306,Science,98.0,12A
+S0082,Student_82,Science,53.0,10C
+S0812,Student_812,Mathematics,73.0,10A
+S0698,Student_698,Mathematics,62.0,10B
+S0027,Student_27,Computer Science,56.0,12A
+S0867,Student_867,History,72.0,10B
+S0493,Student_493,Computer Science,83.0,10C
+S0022,Student_22,English,72.0,11B
+S0900,Student_900,Mathematics,95.0,11B
+S0219,Student_219,History,70.0,11A
+S0988,Student_988,History,84.0,11A
+S0041,Student_41,Computer Science,49.0,10C
+S0238,Student_238,English,66.0,10C
+S0974,Student_974,History,72.0,10A
+S0422,Student_422,English,79.0,10A
+S0062,Student_62,History,78.0,12A
+S0679,Student_679,History,68.0,12A
+S0150,Student_150,English,58.0,11B
+S0405,Student_405,Mathematics,70.0,10B
+S0942,Student_942,Computer Science,69.0,10B
+S0736,Student_736,English,67.0,11A
+S0713,Student_713,English,37.0,11A
+S0098,Student_98,Mathematics,48.0,11A
+S0194,Student_194,English,97.0,10C
+S0972,Student_972,Mathematics,100.0,11A
+S0618,Student_618,Computer Science,72.0,10C
+S0276,Student_276,History,60.0,11A
+S0872,Student_872,History,78.0,11A
+S0049,Student_49,Computer Science,51.0,10C
+S0604,Student_604,Mathematics,85.0,11A
+S0759,Student_759,Science,63.0,11A
+S0303,Student_303,English,59.0,11B
+S0718,Student_718,Computer Science,64.0,11B
+S0383,Student_383,English,79.0,12A
+S0735,Student_735,Mathematics,85.0,11A
+S0171,Student_171,Science,61.0,10B
+S0644,Student_644,Mathematics,96.0,12A
+S0880,Student_880,History,86.0,10C
+S0164,Student_164,Computer Science,85.0,11B
+S0009,Student_9,History,65.0,12A
+S0461,Student_461,English,64.0,10B
+S0985,Student_985,Mathematics,94.0,10A
+S0593,Student_593,History,54.0,10A
+S0765,Student_765,History,72.0,10B
+S0794,Student_794,History,100.0,12A
+S0337,Student_337,Mathematics,76.0,11B
+S0101,Student_101,Science,98.0,12A
+S0443,Student_443,History,63.0,10C
+S0772,Student_772,Mathematics,67.0,10C
+S0954,Student_954,Science,52.0,10B
+S0410,Student_410,History,65.0,11B
+S0913,Student_913,Mathematics,53.0,12A
+S0854,Student_854,Computer Science,83.0,12A
+S0540,Student_540,English,50.0,11A
+S0100,Student_100,Mathematics,78.0,10C
+S0583,Student_583,Mathematics,61.0,12A
+S0440,Student_440,History,60.0,10A
+S0016,Student_16,Mathematics,82.0,11A
+S0172,Student_172,Science,57.0,11A
+S0937,Student_937,Mathematics,66.0,10C
+S0709,Student_709,History,53.0,11A
+S0912,Student_912,English,75.0,11A
+S0269,Student_269,Mathematics,72.0,11A
+S0900,Student_900,History,37.0,11B
+S0024,Student_24,Computer Science,81.0,10A
+S0884,Student_884,Science,73.0,10C
+S0144,Student_144,English,72.0,10A
+S0848,Student_848,Mathematics,52.0,12A
+S0881,Student_881,History,75.0,10B
+S0829,Student_829,History,74.0,11B
+S0288,Student_288,Mathematics,74.0,10C
+S0289,Student_289,Computer Science,75.0,10A
+S0558,Student_558,Computer Science,72.0,12A
+S0283,Student_283,Computer Science,60.0,12A
+S0859,Student_859,Computer Science,88.0,11B
+S0732,Student_732,History,72.0,11A
+S0127,Student_127,Computer Science,54.0,10B
+S0147,Student_147,Science,55.0,10B
+S0125,Student_125,History,90.0,10C
+S0149,Student_149,Science,50.0,11A
+S0794,Student_794,Mathematics,75.0,12A
+S0063,Student_63,Mathematics,66.0,11B
+S0811,Student_811,Science,72.0,11B
+S0004,Student_4,History,56.0,12A
+S0223,Student_223,Science,73.0,12A
+S0518,Student_518,Computer Science,69.0,10A
+S0974,Student_974,English,69.0,10A
+S0952,Student_952,Mathematics,74.0,10C
+S0166,Student_166,Mathematics,91.0,12A
+S0986,Student_986,Mathematics,62.0,10A
+S0595,Student_595,Computer Science,83.0,10C
+S0990,Student_990,Science,58.0,11B
+S0093,Student_93,English,59.0,10B
+S0074,Student_74,Mathematics,63.0,10B
+S0020,Student_20,English,73.0,10B
+S0398,Student_398,Mathematics,77.0,10C
+S0305,Student_305,Science,78.0,10A
+S0610,Student_610,History,76.0,10B
+S0788,Student_788,Science,88.0,10A
+S0904,Student_904,English,75.0,12A
+S0779,Student_779,Computer Science,64.0,10C
+S0921,Student_921,Science,84.0,11B
+S0058,Student_58,Science,67.0,11A
+S0579,Student_579,Science,38.0,11B
+S0618,Student_618,Mathematics,74.0,10C
+S0392,Student_392,Science,37.0,11B
+S0015,Student_15,English,69.0,11B
+S0907,Student_907,Science,84.0,11A
+S0083,Student_83,Mathematics,80.0,10C
+S0760,Student_760,Computer Science,54.0,10B
+S0615,Student_615,Mathematics,50.0,12A
+S0056,Student_56,Science,72.0,11B
+S0894,Student_894,History,71.0,10B
+S0779,Student_779,History,41.0,10C
+S0436,Student_436,Computer Science,70.0,11B
+S0819,Student_819,English,68.0,10B
+S0842,Student_842,History,57.0,10A
+S0911,Student_911,Mathematics,90.0,10B
+S0879,Student_879,English,74.0,11A
+S0184,Student_184,English,72.0,11B
+S0865,Student_865,History,53.0,10C
+S0923,Student_923,Science,39.0,11A
+S0245,Student_245,English,79.0,10A
+S0599,Student_599,English,71.0,11B
+S0686,Student_686,Computer Science,86.0,11A
+S0682,Student_682,Science,80.0,11A
+S0052,Student_52,History,76.0,10C
+S0651,Student_651,Computer Science,75.0,12A
+S0224,Student_224,Mathematics,75.0,10B
+S0051,Student_51,Mathematics,51.0,11B
+S0553,Student_553,History,60.0,11B
+S0667,Student_667,Science,46.0,11B
+S0252,Student_252,History,59.0,10A
+S0322,Student_322,Mathematics,55.0,10C
+S0058,Student_58,Computer Science,60.0,11A
+S0278,Student_278,English,93.0,11A
+S0976,Student_976,Science,49.0,10C
+S0826,Student_826,History,58.0,12A
+S0432,Student_432,History,89.0,10B
+S0215,Student_215,Science,77.0,10B
+S0325,Student_325,Computer Science,98.0,11A
+S0302,Student_302,History,71.0,11A
+S0776,Student_776,Computer Science,67.0,12A
+S0625,Student_625,Computer Science,67.0,10B
+S0784,Student_784,English,78.0,10A
+S0391,Student_391,Science,88.0,11B
+S0031,Student_31,Computer Science,74.0,11A
+S0466,Student_466,Computer Science,82.0,11B
+S0682,Student_682,Computer Science,100.0,11A
+S0497,Student_497,English,99.0,10B
+S0631,Student_631,Mathematics,82.0,10A
+S0014,Student_14,Science,68.0,10A
+S0112,Student_112,Mathematics,63.0,10C
+S0176,Student_176,Science,62.0,10C
+S0489,Student_489,Computer Science,62.0,11A
+S0125,Student_125,Mathematics,58.0,10C
+S0235,Student_235,Computer Science,58.0,10B
+S0439,Student_439,Science,76.0,10A
+S0424,Student_424,Computer Science,67.0,11B
+S0710,Student_710,History,53.0,11A
+S0891,Student_891,Science,62.0,11B
+S0330,Student_330,Mathematics,76.0,12A
+S0799,Student_799,History,81.0,12A
+S0889,Student_889,Science,73.0,12A
+S0111,Student_111,English,87.0,11A
+S0851,Student_851,History,53.0,10B
+S0887,Student_887,Mathematics,43.0,10C
+S0272,Student_272,Science,61.0,10A
+S0202,Student_202,English,79.0,10B
+S0651,Student_651,English,79.0,12A
+S0045,Student_45,History,45.0,10A
+S0532,Student_532,History,72.0,10C
+S0280,Student_280,Science,49.0,10A
+S0381,Student_381,English,87.0,11A
+S0113,Student_113,History,65.0,10A
+S0485,Student_485,Computer Science,47.0,10B
+S0053,Student_53,Mathematics,56.0,10A
+S0357,Student_357,Mathematics,48.0,12A
+S0903,Student_903,English,61.0,11A
+S0334,Student_334,Science,55.0,10C
+S0196,Student_196,Science,63.0,10A
+S0591,Student_591,History,92.0,11A
+S0650,Student_650,Science,76.0,10B
+S0409,Student_409,History,72.0,10C
+S0442,Student_442,Science,92.0,11A
+S0124,Student_124,Mathematics,71.0,10B
+S0618,Student_618,History,40.0,10C
+S0011,Student_11,History,79.0,12A
+S0025,Student_25,English,91.0,11B
+S0021,Student_21,Science,63.0,10B
+S0654,Student_654,Mathematics,99.0,10A
+S0731,Student_731,History,57.0,10B
+S0973,Student_973,English,59.0,10A
+S0710,Student_710,Mathematics,74.0,11A
+S0140,Student_140,Mathematics,65.0,11B
+S0955,Student_955,Science,55.0,10C
+S0123,Student_123,English,74.0,11A
+S0602,Student_602,Science,77.0,11A
+S0106,Student_106,History,73.0,10C
+S0791,Student_791,History,78.0,10B
+S0390,Student_390,History,86.0,11A
+S0317,Student_317,Mathematics,73.0,10A
+S0728,Student_728,Science,64.0,12A
+S0505,Student_505,Computer Science,83.0,10B
+S0195,Student_195,English,82.0,11A
+S0489,Student_489,History,80.0,11A
+S0229,Student_229,Science,90.0,12A
+S0215,Student_215,English,71.0,10B
+S0488,Student_488,Computer Science,45.0,10B
+S0128,Student_128,Mathematics,45.0,12A
+S0164,Student_164,English,83.0,11B
+S0655,Student_655,Mathematics,66.0,11B
+S0695,Student_695,Computer Science,59.0,10A
+S0536,Student_536,Mathematics,40.0,11A
+S0321,Student_321,History,58.0,11A
+S0473,Student_473,Science,49.0,10A
+S0226,Student_226,Science,74.0,10C
+S0631,Student_631,English,26.0,10A
+S0314,Student_314,English,77.0,11A
+S0341,Student_341,History,86.0,12A
+S0560,Student_560,Science,78.0,10C
+S0652,Student_652,Computer Science,91.0,11B
+S0888,Student_888,Mathematics,80.0,11B
+S0960,Student_960,English,40.0,10A
+S0429,Student_429,Mathematics,72.0,10B
+S0940,Student_940,English,89.0,11B
+S0706,Student_706,English,100.0,11A
+S0471,Student_471,Mathematics,85.0,10C
+S0168,Student_168,Science,93.0,10A
+S0662,Student_662,Computer Science,69.0,11B
+S0564,Student_564,Science,77.0,10C
+S0875,Student_875,Mathematics,43.0,12A
+S0766,Student_766,Science,52.0,11A
+S0852,Student_852,History,68.0,11A
+S0666,Student_666,English,61.0,11A
+S0034,Student_34,Mathematics,76.0,11B
+S0005,Student_5,Science,66.0,10C
+S0286,Student_286,English,53.0,11A
+S0952,Student_952,History,60.0,10C
+S0508,Student_508,Mathematics,65.0,10C
+S0501,Student_501,Science,84.0,10A
+S0837,Student_837,History,61.0,10C
+S0383,Student_383,Computer Science,42.0,12A
+S0845,Student_845,Mathematics,34.0,10A
+S0759,Student_759,Computer Science,70.0,11A
+S0424,Student_424,English,55.0,11B
+S0232,Student_232,History,84.0,11B
+S0325,Student_325,English,,11A
+S0216,Student_216,Mathematics,62.0,10C
+S0298,Student_298,English,43.0,10C
+S0893,Student_893,English,82.0,11B
+S0025,Student_25,History,48.0,11B
+S0876,Student_876,English,100.0,11A
+S0165,Student_165,Mathematics,62.0,10C
+S0883,Student_883,Science,69.0,10B
+S0618,Student_618,Science,69.0,10C
+S0836,Student_836,History,97.0,12A
+S0928,Student_928,Computer Science,27.0,12A
+S0361,Student_361,English,59.0,11B
+S0154,Student_154,History,60.0,11B
+S0489,Student_489,English,50.0,11A
+S0763,Student_763,Computer Science,51.0,11A
+S0533,Student_533,History,55.0,10A
+S0404,Student_404,Science,66.0,10C
+S0902,Student_902,Science,80.0,12A
+S0494,Student_494,Mathematics,83.0,11A
+S0806,Student_806,Mathematics,65.0,12A
+S0546,Student_546,Computer Science,,10B
+S0350,Student_350,Mathematics,73.0,10A
+S0641,Student_641,Science,76.0,11A
+S0135,Student_135,Computer Science,48.0,11B
+S0527,Student_527,Computer Science,95.0,10A
+S0071,Student_71,English,82.0,10B
+S0577,Student_577,Mathematics,36.0,12A
+S0753,Student_753,History,82.0,12A
+S0559,Student_559,Computer Science,69.0,10B
+S0578,Student_578,History,64.0,10C
+S0193,Student_193,History,80.0,11B
+S0194,Student_194,Mathematics,91.0,10C
+S0194,Student_194,Science,59.0,10C
+S0245,Student_245,History,76.0,10A
+S0684,Student_684,English,73.0,10B
+S0176,Student_176,English,73.0,10C
+S0750,Student_750,English,72.0,11A
+S0541,Student_541,Computer Science,73.0,11B
+S0879,Student_879,Computer Science,82.0,11A
+S0885,Student_885,History,84.0,10C
+S0047,Student_47,Computer Science,100.0,11A
+S0142,Student_142,History,38.0,10A
+S0975,Student_975,Computer Science,,11B
+S0222,Student_222,History,60.0,12A
+S0687,Student_687,Computer Science,100.0,10A
+S0413,Student_413,English,75.0,10A
+S0592,Student_592,Computer Science,53.0,11B
+S0283,Student_283,English,76.0,12A
+S0602,Student_602,English,46.0,11A
+S0562,Student_562,Mathematics,43.0,10A
+S0186,Student_186,English,75.0,10B
+S0071,Student_71,Computer Science,69.0,10B
+S0520,Student_520,Mathematics,36.0,10C
+S0832,Student_832,Science,77.0,10A
+S0426,Student_426,History,80.0,10C
+S0680,Student_680,Computer Science,63.0,10C
+S0888,Student_888,English,65.0,11B
+S0142,Student_142,Science,50.0,10A
+S0300,Student_300,Mathematics,100.0,10B
+S0582,Student_582,English,53.0,11A
+S0048,Student_48,Computer Science,82.0,10A
+S0644,Student_644,History,58.0,12A
+S0495,Student_495,English,58.0,12A
+S0700,Student_700,English,69.0,12A
+S0803,Student_803,History,72.0,11B
+S0350,Student_350,English,77.0,10A
+S0967,Student_967,Science,52.0,11B
+S0860,Student_860,Mathematics,47.0,11A
+S0368,Student_368,Computer Science,66.0,11A
+S0517,Student_517,History,88.0,10C
+S0799,Student_799,Mathematics,44.0,12A
+S0876,Student_876,Science,34.0,11A
+S0787,Student_787,Mathematics,80.0,10B
+S0557,Student_557,English,51.0,12A
+S0967,Student_967,Computer Science,41.0,11B
+S0379,Student_379,English,63.0,10B
+S0083,Student_83,Computer Science,74.0,10C
+S0853,Student_853,History,65.0,10B
+S0421,Student_421,Computer Science,52.0,10A
+S0594,Student_594,English,61.0,10C
+S0953,Student_953,Science,80.0,10A
+S0383,Student_383,Mathematics,95.0,12A
+S0847,Student_847,Mathematics,46.0,10C
+S0853,Student_853,Mathematics,84.0,10B
+S0662,Student_662,Mathematics,85.0,11B
+S0918,Student_918,English,83.0,10C
+S0103,Student_103,Computer Science,61.0,11B
+S0344,Student_344,Computer Science,63.0,10A
+S0513,Student_513,Mathematics,54.0,12A
+S0697,Student_697,Science,30.0,10B
+S0826,Student_826,Computer Science,94.0,12A
+S0533,Student_533,English,78.0,10A
+S0433,Student_433,Science,73.0,12A
+S0768,Student_768,History,55.0,10C
+S0015,Student_15,Computer Science,30.0,11B
+S0614,Student_614,English,70.0,11B
+S0158,Student_158,Science,82.0,11B
+S0279,Student_279,Computer Science,64.0,12A
+S0730,Student_730,Mathematics,53.0,11B
+S0114,Student_114,Computer Science,64.0,10B
+S0530,Student_530,Computer Science,83.0,10B
+S0984,Student_984,Science,85.0,11A
+S0547,Student_547,Mathematics,88.0,10C
+S0192,Student_192,English,76.0,10A
+S0936,Student_936,English,86.0,10B
+S0117,Student_117,Computer Science,72.0,10C
+S0046,Student_46,English,53.0,10A
+S0382,Student_382,Mathematics,76.0,10B
+S0105,Student_105,Mathematics,44.0,12A
+S0346,Student_346,Computer Science,97.0,11A
+S0989,Student_989,History,59.0,10A
+S0899,Student_899,Mathematics,75.0,11A
+S0873,Student_873,Science,57.0,11B
+S0509,Student_509,Mathematics,59.0,10C
+S0593,Student_593,Mathematics,57.0,10A
+S0982,Student_982,Science,62.0,10A
+S0409,Student_409,Mathematics,59.0,10C
+S0212,Student_212,Mathematics,59.0,12A
+S0722,Student_722,Mathematics,58.0,10C
+S0727,Student_727,Mathematics,78.0,12A
+S0117,Student_117,English,79.0,10C
+S0358,Student_358,History,74.0,10B
+S0988,Student_988,Mathematics,78.0,11A
+S0033,Student_33,English,87.0,11A
+S0254,Student_254,History,58.0,10A
+S0454,Student_454,Mathematics,87.0,12A
+S0913,Student_913,English,56.0,12A
+S0022,Student_22,Computer Science,68.0,11B
+S0152,Student_152,Computer Science,80.0,11A
+S0105,Student_105,History,78.0,12A
+S0837,Student_837,Mathematics,74.0,10C
+S0675,Student_675,Mathematics,68.0,11A
+S0896,Student_896,Science,63.0,10B
+S0688,Student_688,Computer Science,74.0,12A
+S0497,Student_497,Mathematics,60.0,10B
+S0026,Student_26,English,61.0,10B
+S0139,Student_139,English,53.0,10B
+S0211,Student_211,Computer Science,61.0,10B
+S0006,Student_6,History,60.0,10B
+S0866,Student_866,Science,61.0,10C
+S0316,Student_316,Computer Science,57.0,11A
+S0776,Student_776,Science,84.0,12A
+S0981,Student_981,Science,54.0,10B
+S0616,Student_616,English,78.0,12A
+S0099,Student_99,Mathematics,69.0,11A
+S0610,Student_610,Science,87.0,10B
+S0079,Student_79,Science,77.0,12A
+S0034,Student_34,Science,82.0,11B
+S0091,Student_91,Mathematics,69.0,11B
+S0347,Student_347,English,69.0,11B
+S0992,Student_992,Science,67.0,12A
+S0706,Student_706,Mathematics,52.0,11A
+S0669,Student_669,Computer Science,55.0,11B
+S0632,Student_632,Science,51.0,11A
+S0018,Student_18,History,62.0,10A
+S0875,Student_875,Science,61.0,12A
+S0284,Student_284,Computer Science,77.0,10A
+S0807,Student_807,History,27.0,10A
+S0498,Student_498,History,70.0,10C
+S0948,Student_948,Mathematics,84.0,12A
+S0063,Student_63,English,82.0,11B
+S0696,Student_696,Mathematics,50.0,10B
+S0860,Student_860,Science,54.0,11A
+S0633,Student_633,Computer Science,52.0,11A
+S0295,Student_295,Science,60.0,10B
+S0558,Student_558,Science,58.0,12A
+S0358,Student_358,Science,65.0,10B
+S0184,Student_184,Computer Science,72.0,11B
+S0778,Student_778,History,72.0,10A
+S0016,Student_16,Science,71.0,11A
+S0739,Student_739,Science,82.0,10C
+S0323,Student_323,Computer Science,67.0,11A
+S0806,Student_806,History,93.0,12A
+S0645,Student_645,Computer Science,74.0,12A
+S0536,Student_536,English,46.0,11A
+S0936,Student_936,History,82.0,10B
+S0066,Student_66,History,79.0,10B
+S0239,Student_239,English,60.0,10A
+S0365,Student_365,History,60.0,10A
+S0358,Student_358,Mathematics,48.0,10B
+S0316,Student_316,English,87.0,11A
+S0147,Student_147,English,76.0,10B
+S0947,Student_947,English,54.0,10C
+S0464,Student_464,Science,82.0,10C
+S0264,Student_264,Science,54.0,11B
+S0758,Student_758,Mathematics,61.0,10B
+S0148,Student_148,Computer Science,85.0,12A
+S0994,Student_994,History,65.0,10B
+S0905,Student_905,English,77.0,12A
+S0175,Student_175,Computer Science,69.0,12A
+S0201,Student_201,Science,83.0,10A
+S0220,Student_220,Mathematics,68.0,10B
+S0714,Student_714,Science,73.0,11A
+S0924,Student_924,Science,87.0,12A
+S0658,Student_658,English,66.0,11A
+S0407,Student_407,Computer Science,85.0,11B
+S0219,Student_219,English,80.0,11A
+S0308,Student_308,Science,77.0,10A
+S0235,Student_235,History,69.0,10B
+S0969,Student_969,Science,71.0,12A
+S0813,Student_813,English,55.0,10C
+S0046,Student_46,Science,70.0,10A
+S0796,Student_796,Mathematics,72.0,11B
+S0053,Student_53,Computer Science,66.0,10A
+S0758,Student_758,Mathematics,61.0,10B
+S0425,Student_425,History,66.0,10B
+S0092,Student_92,Science,68.0,12A
+S0287,Student_287,Science,82.0,12A
+S0466,Student_466,Mathematics,80.0,11B
+S0551,Student_551,Science,93.0,10A
+S0898,Student_898,English,61.0,11A
+S0934,Student_934,English,,10A
+S0360,Student_360,English,58.0,10A
+S0711,Student_711,History,100.0,10A
+S0550,Student_550,English,52.0,11A
+S0307,Student_307,Science,43.0,11B
+S0434,Student_434,History,66.0,12A
+S0588,Student_588,Science,60.0,11B
+S0743,Student_743,Science,50.0,12A
+S0897,Student_897,History,78.0,12A
+S0597,Student_597,Computer Science,45.0,11A
+S0214,Student_214,Science,50.0,11B
+S0497,Student_497,History,58.0,10B
+S0977,Student_977,Computer Science,79.0,11A
+S0709,Student_709,Mathematics,74.0,11A
+S0681,Student_681,History,68.0,11B
+S0132,Student_132,Science,70.0,12A
+S0164,Student_164,History,71.0,11B
+S0524,Student_524,English,71.0,12A
+S0911,Student_911,History,55.0,10B
+S0600,Student_600,Computer Science,67.0,12A
+S0308,Student_308,Computer Science,26.0,10A
+S0302,Student_302,Computer Science,92.0,11A
+S0206,Student_206,Science,70.0,12A
+S0471,Student_471,History,49.0,10C
+S0952,Student_952,Computer Science,80.0,10C
+S0007,Student_7,English,69.0,10B
+S0434,Student_434,Science,57.0,12A
+S0509,Student_509,Computer Science,100.0,10C
+S0611,Student_611,Mathematics,49.0,12A
+S0529,Student_529,Science,66.0,10C
+S0994,Student_994,Mathematics,66.0,10B
+S0380,Student_380,History,78.0,10C
+S0689,Student_689,Computer Science,80.0,10C
+S0859,Student_859,Mathematics,77.0,11B
+S0304,Student_304,Science,92.0,10A
+S0727,Student_727,Science,60.0,12A
+S0481,Student_481,History,65.0,11B
+S0034,Student_34,Computer Science,58.0,11B
+S0139,Student_139,Mathematics,64.0,10B
+S0328,Student_328,Mathematics,63.0,11B
+S0521,Student_521,Mathematics,41.0,12A
+S0464,Student_464,Computer Science,53.0,10C
+S0082,Student_82,English,67.0,10C
+S0283,Student_283,Mathematics,89.0,12A
+S0127,Student_127,Science,92.0,10B
+S0937,Student_937,Computer Science,54.0,10C
+S0525,Student_525,English,71.0,11B
+S0224,Student_224,Computer Science,85.0,10B
+S0049,Student_49,English,77.0,10C
+S0587,Student_587,Computer Science,83.0,10B
+S0780,Student_780,Science,90.0,10B
+S0241,Student_241,History,78.0,11B
+S0871,Student_871,Science,70.0,10B
+S0154,Student_154,Science,69.0,11B
+S0028,Student_28,Science,58.0,12A
+S0569,Student_569,History,52.0,12A
+S0895,Student_895,English,89.0,10A
+S0698,Student_698,History,56.0,10B
+S0564,Student_564,Computer Science,41.0,10C
+S0670,Student_670,Science,65.0,11A
+S0586,Student_586,Computer Science,84.0,12A
+S0461,Student_461,Mathematics,85.0,10B
+S0493,Student_493,Mathematics,71.0,10C
+S0375,Student_375,Computer Science,89.0,10B
+S0601,Student_601,Mathematics,41.0,10C
+S0472,Student_472,Science,64.0,10C
+S0861,Student_861,Computer Science,50.0,11A
+S0205,Student_205,History,100.0,10A
+S0309,Student_309,History,63.0,10A
+S0294,Student_294,Science,95.0,11A
+S0140,Student_140,Science,74.0,11B
+S0643,Student_643,History,92.0,10B
+S0290,Student_290,Mathematics,60.0,10B
+S0619,Student_619,Science,81.0,10A
+S0627,Student_627,Science,,10A
+S0183,Student_183,English,73.0,12A
+S0803,Student_803,Science,48.0,11B
+S0833,Student_833,Science,77.0,10C
+S0351,Student_351,Computer Science,77.0,11B
+S0134,Student_134,English,92.0,11A
+S0972,Student_972,History,71.0,11A
+S0661,Student_661,Computer Science,86.0,12A
+S0458,Student_458,History,61.0,10A
+S0362,Student_362,English,77.0,10B
+S0817,Student_817,History,41.0,11A
+S0110,Student_110,Computer Science,60.0,10C
+S0123,Student_123,History,53.0,11A
+S0222,Student_222,Science,79.0,12A
+S0864,Student_864,Mathematics,85.0,11B
+S0313,Student_313,English,33.0,11A
+S0105,Student_105,English,60.0,12A
+S0878,Student_878,Mathematics,63.0,10A
+S0777,Student_777,Computer Science,69.0,11B
+S0494,Student_494,Science,58.0,11A
+S0918,Student_918,Computer Science,53.0,10C
+S0006,Student_6,Mathematics,71.0,10B
+S0196,Student_196,Computer Science,81.0,10A
+S0380,Student_380,Computer Science,65.0,10C
+S0816,Student_816,English,39.0,11A
+S0741,Student_741,English,56.0,12A
+S0606,Student_606,Computer Science,70.0,10B
+S0979,Student_979,Computer Science,54.0,11A
+S0401,Student_401,Mathematics,59.0,10A
+S0414,Student_414,History,91.0,12A
+S0510,Student_510,History,85.0,10B
+S0259,Student_259,English,69.0,11A
+S0972,Student_972,English,84.0,11A
+S0637,Student_637,Computer Science,58.0,12A
+S0341,Student_341,Computer Science,76.0,12A
+S0499,Student_499,Computer Science,51.0,10B
+S0203,Student_203,History,59.0,11B
+S0343,Student_343,Mathematics,86.0,10A
+S0605,Student_605,History,87.0,12A
+S0525,Student_525,Computer Science,76.0,11B
+S0120,Student_120,Mathematics,62.0,11A
+S0519,Student_519,Computer Science,82.0,10C
+S0844,Student_844,Computer Science,42.0,11A
+S0958,Student_958,English,60.0,10B
+S0175,Student_175,Science,58.0,12A
+S0899,Student_899,Computer Science,82.0,11A
+S0409,Student_409,Mathematics,59.0,10C
+S0849,Student_849,History,80.0,11A
+S0411,Student_411,Mathematics,82.0,12A
+S0825,Student_825,Science,67.0,10A
+S0764,Student_764,History,64.0,10C
+S0802,Student_802,Mathematics,78.0,10B
+S0137,Student_137,Computer Science,51.0,10C
+S0858,Student_858,Computer Science,79.0,11B
+S0296,Student_296,Science,68.0,11A
+S0142,Student_142,English,96.0,10A
+S0801,Student_801,Computer Science,49.0,10C
+S0738,Student_738,Science,100.0,11A
+S0243,Student_243,English,59.0,11B
+S0475,Student_475,Mathematics,67.0,10B
+S0934,Student_934,Science,60.0,10A
+S0070,Student_70,Computer Science,66.0,12A
+S0024,Student_24,History,87.0,10A
+S0588,Student_588,Mathematics,92.0,11B
+S0426,Student_426,Computer Science,80.0,10C
+S0881,Student_881,English,56.0,10B
+S0939,Student_939,English,84.0,12A
+S0232,Student_232,Science,59.0,11B
+S0153,Student_153,English,100.0,11A
+S0272,Student_272,English,75.0,10A
+S0918,Student_918,History,63.0,10C
+S0388,Student_388,Science,73.0,10A
+S0847,Student_847,Computer Science,46.0,10C
+S0001,Student_1,History,92.0,12A
+S0139,Student_139,Computer Science,78.0,10B
+S0445,Student_445,History,67.0,10A
+S0688,Student_688,English,50.0,12A
+S0926,Student_926,Computer Science,76.0,10C
+S0478,Student_478,Science,66.0,12A
+S0184,Student_184,History,63.0,11B
+S0016,Student_16,English,65.0,11A
+S0956,Student_956,Science,69.0,10B
+S0568,Student_568,History,100.0,10A
+S0965,Student_965,Mathematics,67.0,10A
+S0037,Student_37,Mathematics,79.0,10B
+S0808,Student_808,Science,77.0,10B
+S0866,Student_866,English,83.0,10C
+S0481,Student_481,English,61.0,11B
+S0891,Student_891,Mathematics,62.0,11B
+S0818,Student_818,Mathematics,66.0,12A
+S0261,Student_261,History,58.0,11B
+S0290,Student_290,Computer Science,70.0,10B
+S0746,Student_746,Science,77.0,10B
+S0518,Student_518,History,57.0,10A
+S0748,Student_748,Computer Science,49.0,11B
+S0192,Student_192,Science,75.0,10A
+S0523,Student_523,Computer Science,78.0,11A
+S0535,Student_535,History,61.0,11B
+S0674,Student_674,Mathematics,99.0,12A
+S0311,Student_311,Science,66.0,10B
+S0190,Student_190,Computer Science,73.0,11B
+S0815,Student_815,English,46.0,12A
+S0065,Student_65,Computer Science,54.0,11B
+S0228,Student_228,Mathematics,84.0,12A
+S0041,Student_41,History,85.0,10C
+S0303,Student_303,Mathematics,52.0,11B
+S0455,Student_455,English,59.0,11A
+S0612,Student_612,English,73.0,10A
+S0479,Student_479,History,60.0,10A
+S0330,Student_330,Science,67.0,12A
+S0294,Student_294,English,75.0,11A
+S0813,Student_813,History,74.0,10C
+S0745,Student_745,Computer Science,60.0,11A
+S0822,Student_822,History,66.0,12A
+S0839,Student_839,Science,73.0,11B
+S0938,Student_938,History,48.0,10A
+S0260,Student_260,Computer Science,74.0,10B
+S0556,Student_556,Science,66.0,12A
+S0319,Student_319,Science,26.0,11A
+S0614,Student_614,Science,96.0,11B
+S0929,Student_929,Mathematics,82.0,11A
+S0161,Student_161,Science,62.0,12A
+S0552,Student_552,Science,72.0,11B
+S0145,Student_145,History,81.0,10B
+S0588,Student_588,English,66.0,11B
+S0129,Student_129,Science,95.0,11B
+S0750,Student_750,Computer Science,47.0,11A
+S0691,Student_691,Science,51.0,10C
+S0293,Student_293,Computer Science,61.0,11B
+S0920,Student_920,English,89.0,11B
+S0148,Student_148,History,94.0,12A
+S0456,Student_456,Science,80.0,11B
+S0608,Student_608,History,55.0,11A
+S0941,Student_941,Computer Science,78.0,12A
+S0280,Student_280,Computer Science,60.0,10A
+S0754,Student_754,Science,55.0,10A
+S0939,Student_939,Mathematics,68.0,12A
+S0059,Student_59,Science,62.0,10A
+S0026,Student_26,Computer Science,62.0,10B
+S0324,Student_324,Mathematics,100.0,10C
+S0081,Student_81,Science,61.0,10B
+S0837,Student_837,Computer Science,62.0,10C
+S0251,Student_251,Computer Science,88.0,10A
+S0973,Student_973,Science,57.0,10A
+S0450,Student_450,Computer Science,83.0,10B
+S0908,Student_908,History,66.0,10A
+S0663,Student_663,Science,76.0,11B
+S0896,Student_896,History,49.0,10B
+S0882,Student_882,English,64.0,11A
+S0336,Student_336,History,84.0,10A
+S0833,Student_833,English,65.0,10C
+S0946,Student_946,English,62.0,11A
+S0193,Student_193,Mathematics,79.0,11B
+S0558,Student_558,English,50.0,12A
+S0491,Student_491,Computer Science,80.0,10B
+S0235,Student_235,Mathematics,81.0,10B
+S0435,Student_435,English,65.0,10C
+S0548,Student_548,Mathematics,62.0,10A
+S0524,Student_524,Science,58.0,12A
+S0623,Student_623,Science,65.0,10B
+S0874,Student_874,English,70.0,11B
+S0345,Student_345,English,81.0,11B
+S0616,Student_616,History,73.0,12A
+S0543,Student_543,English,77.0,10A
+S0018,Student_18,Science,83.0,10A
+S0808,Student_808,History,69.0,10B
+S0272,Student_272,Mathematics,31.0,10A
+S0251,Student_251,Computer Science,88.0,10A
+S0145,Student_145,English,49.0,10B
+S0928,Student_928,English,51.0,12A
+S0964,Student_964,Computer Science,65.0,10C
+S0057,Student_57,Science,79.0,10A
+S0823,Student_823,Mathematics,87.0,12A
+S0376,Student_376,Computer Science,57.0,12A
+S0726,Student_726,History,46.0,11B
+S0892,Student_892,Mathematics,74.0,10A
+S0069,Student_69,Science,73.0,10A
+S0663,Student_663,Computer Science,64.0,11B
+S0293,Student_293,History,57.0,11B
+S0230,Student_230,Science,53.0,10C
+S0582,Student_582,Mathematics,81.0,11A
+S0326,Student_326,Science,63.0,12A
+S0709,Student_709,Computer Science,90.0,11A
+S0849,Student_849,Science,83.0,11A
+S0048,Student_48,English,72.0,10A
+S0798,Student_798,Computer Science,58.0,11A
+S0787,Student_787,History,81.0,10B
+S0029,Student_29,English,45.0,12A
+S0122,Student_122,History,43.0,12A
+S0711,Student_711,English,75.0,10A
+S0136,Student_136,Mathematics,58.0,11A
+S0004,Student_4,Computer Science,48.0,12A
+S0268,Student_268,History,64.0,11A
+S0122,Student_122,English,51.0,12A
+S0711,Student_711,Computer Science,42.0,10A
+S0857,Student_857,English,87.0,10C
+S0480,Student_480,English,54.0,10C
+S0085,Student_85,Science,96.0,12A
+S0784,Student_784,Mathematics,68.0,10A
+S0763,Student_763,English,57.0,11A
+S0910,Student_910,Computer Science,66.0,10C
+S0312,Student_312,Mathematics,75.0,11A
+S0671,Student_671,Mathematics,62.0,11B
+S0555,Student_555,Science,58.0,12A
+S0331,Student_331,Computer Science,75.0,11A
+S0251,Student_251,English,40.0,10A
+S0156,Student_156,Computer Science,79.0,11B
+S0521,Student_521,English,60.0,12A
+S0878,Student_878,English,48.0,10A
+S0934,Student_934,History,57.0,10A
+S0993,Student_993,Computer Science,60.0,10A
+S0646,Student_646,Mathematics,55.0,10A
+S0672,Student_672,Science,71.0,11A
+S0725,Student_725,English,,11A
+S0924,Student_924,History,69.0,12A
+S0728,Student_728,English,75.0,12A
+S0363,Student_363,Computer Science,65.0,11B
+S0078,Student_78,English,98.0,11A
+S0876,Student_876,Computer Science,58.0,11A
+S0195,Student_195,Science,59.0,11A
+S0944,Student_944,Computer Science,71.0,10B
+S0723,Student_723,Science,71.0,10C
+S0181,Student_181,Science,64.0,12A
+S0839,Student_839,History,33.0,11B
+S0407,Student_407,History,77.0,11B
+S0374,Student_374,Computer Science,63.0,10C
+S0636,Student_636,History,84.0,10B
+S0810,Student_810,English,100.0,10A
+S0622,Student_622,History,76.0,10C
+S0932,Student_932,English,55.0,10C
+S0351,Student_351,English,60.0,11B
+S0611,Student_611,Science,59.0,12A
+S0658,Student_658,Science,65.0,11A
+S0135,Student_135,Computer Science,48.0,11B
+S0452,Student_452,Mathematics,75.0,11A
+S0330,Student_330,Computer Science,100.0,12A
+S0528,Student_528,Science,72.0,10A
+S0018,Student_18,English,74.0,10A
+S0364,Student_364,Mathematics,56.0,11B
+S0726,Student_726,Computer Science,60.0,11B
+S0550,Student_550,Computer Science,66.0,11A
+S0204,Student_204,English,62.0,10A
+S0351,Student_351,Mathematics,29.0,11B
+S0769,Student_769,English,84.0,11A
+S0204,Student_204,Computer Science,76.0,10A
+S0341,Student_341,Mathematics,75.0,12A
+S0207,Student_207,History,79.0,11A
+S0484,Student_484,History,75.0,12A
+S0387,Student_387,Science,77.0,10C
+S0809,Student_809,English,45.0,10C
+S0973,Student_973,Computer Science,68.0,10A
+S0715,Student_715,Computer Science,50.0,11B
+S0967,Student_967,Mathematics,83.0,11B
+S0022,Student_22,History,73.0,11B
+S0377,Student_377,Computer Science,69.0,12A
+S0406,Student_406,English,88.0,11A
+S0688,Student_688,History,50.0,12A
+S0333,Student_333,Mathematics,89.0,10B
+S0132,Student_132,English,69.0,12A
+S0010,Student_10,History,75.0,10A
+S0327,Student_327,English,60.0,12A
+S0151,Student_151,Science,49.0,10A
+S0007,Student_7,History,54.0,10B
+S0265,Student_265,English,68.0,11B
+S0439,Student_439,Mathematics,46.0,10A
+S0733,Student_733,Mathematics,64.0,10B
+S0222,Student_222,Mathematics,54.0,12A
+S0267,Student_267,Science,88.0,10B
+S0439,Student_439,History,49.0,10A
+S0230,Student_230,Computer Science,57.0,10C
+S0110,Student_110,English,66.0,10C
+S0854,Student_854,History,53.0,12A
+S0189,Student_189,English,79.0,10B
+S0606,Student_606,History,62.0,10B
+S0390,Student_390,Mathematics,64.0,11A
+S0905,Student_905,Science,86.0,12A
+S0073,Student_73,Mathematics,,10A
+S0598,Student_598,English,71.0,11B
+S0894,Student_894,English,76.0,10B
+S0708,Student_708,Computer Science,67.0,11B
+S0592,Student_592,History,87.0,11B
+S0111,Student_111,History,73.0,11A
+S0151,Student_151,Computer Science,55.0,10A
+S0853,Student_853,Science,65.0,10B
+S0684,Student_684,Computer Science,62.0,10B
+S0428,Student_428,Mathematics,61.0,11B
+S0834,Student_834,English,66.0,11B
+S0541,Student_541,History,85.0,11B
+S0063,Student_63,Computer Science,89.0,11B
+S0116,Student_116,Science,73.0,12A
+S0468,Student_468,History,70.0,11A
+S0948,Student_948,Science,58.0,12A
+S0599,Student_599,Mathematics,92.0,11B
+S0671,Student_671,Computer Science,61.0,11B
+S0010,Student_10,English,85.0,10A
+S0998,Student_998,Computer Science,100.0,10A
+S0605,Student_605,Mathematics,88.0,12A
+S0785,Student_785,Computer Science,66.0,10A
+S0657,Student_657,English,37.0,10A
+S0227,Student_227,Computer Science,66.0,11A
+S0380,Student_380,Mathematics,64.0,10C
+S0726,Student_726,Mathematics,55.0,11B
+S0906,Student_906,Science,49.0,11A
+S0892,Student_892,History,46.0,10A
+S0681,Student_681,Computer Science,76.0,11B
+S0939,Student_939,Computer Science,67.0,12A
+S0995,Student_995,History,38.0,10B
+S0900,Student_900,Computer Science,52.0,11B
+S0476,Student_476,Mathematics,91.0,12A
+S0389,Student_389,Computer Science,79.0,10A
+S0164,Student_164,Science,74.0,11B
+S0291,Student_291,Mathematics,74.0,10B
+S0641,Student_641,English,73.0,11A
+S0249,Student_249,Science,66.0,10A
+S0683,Student_683,Science,63.0,12A
+S0557,Student_557,Science,60.0,12A
+S0809,Student_809,History,74.0,10C
+S0819,Student_819,Computer Science,88.0,10B
+S0072,Student_72,Mathematics,54.0,10C
+S0924,Student_924,Computer Science,68.0,12A
+S0802,Student_802,English,60.0,10B
+S0231,Student_231,English,,11A
+S0121,Student_121,History,90.0,11A
+S0113,Student_113,Mathematics,74.0,10A
+S0518,Student_518,Mathematics,60.0,10A
+S0146,Student_146,English,75.0,12A
+S0606,Student_606,Science,72.0,10B
+S0515,Student_515,History,69.0,11A
+S0619,Student_619,English,68.0,10A
+S0025,Student_25,Mathematics,81.0,11B
+S0761,Student_761,Computer Science,56.0,10A
+S0213,Student_213,English,87.0,11A
+S0383,Student_383,History,77.0,12A
+S0375,Student_375,Science,66.0,10B
+S0158,Student_158,History,68.0,11B
+S0963,Student_963,English,79.0,10B
+S0347,Student_347,History,65.0,11B
+S0810,Student_810,Computer Science,75.0,10A
+S0540,Student_540,Mathematics,91.0,11A
+S0243,Student_243,History,83.0,11B
+S0996,Student_996,Mathematics,49.0,11B
+S0833,Student_833,Mathematics,70.0,10C
+S0542,Student_542,Mathematics,85.0,11B
+S0189,Student_189,History,68.0,10B
+S0473,Student_473,Mathematics,54.0,10A
+S0091,Student_91,Science,84.0,11B
+S0491,Student_491,History,59.0,10B
+S0626,Student_626,History,71.0,10A
+S0888,Student_888,Computer Science,77.0,11B
+S0155,Student_155,English,79.0,11A
+S0910,Student_910,History,76.0,10C
+S0423,Student_423,History,54.0,12A
+S0638,Student_638,English,83.0,12A
+S0652,Student_652,Science,56.0,11B
+S0149,Student_149,Computer Science,77.0,11A
+S0737,Student_737,English,72.0,10A
+S0640,Student_640,Computer Science,76.0,11A
+S0197,Student_197,History,69.0,10A
+S0411,Student_411,English,60.0,12A
+S0522,Student_522,History,83.0,11B
+S0576,Student_576,Mathematics,56.0,11A
+S0348,Student_348,Mathematics,45.0,11B
+S0760,Student_760,Mathematics,65.0,10B
+S0476,Student_476,Mathematics,91.0,12A
+S0633,Student_633,Mathematics,60.0,11A
+S0976,Student_976,English,76.0,10C
+S0081,Student_81,History,,10B
+S0736,Student_736,Science,71.0,11A
+S0808,Student_808,Mathematics,84.0,10B
+S0837,Student_837,Science,62.0,10C
+S0146,Student_146,Computer Science,58.0,12A
+S0446,Student_446,Science,91.0,10C
+S0823,Student_823,History,47.0,12A
+S0329,Student_329,Mathematics,70.0,12A
+S0621,Student_621,Computer Science,59.0,12A
+S0263,Student_263,Science,82.0,12A
+S0392,Student_392,English,100.0,11B
+S0467,Student_467,Computer Science,83.0,10B
+S0206,Student_206,Mathematics,76.0,12A
+S0444,Student_444,English,69.0,10A
+S0109,Student_109,English,77.0,10A
+S0866,Student_866,History,95.0,10C
+S0566,Student_566,Computer Science,64.0,10C
+S0502,Student_502,Computer Science,50.0,11A
+S0780,Student_780,English,80.0,10B
+S0242,Student_242,Mathematics,70.0,10B
+S0030,Student_30,Science,51.0,11B
+S0020,Student_20,Science,74.0,10B
+S0434,Student_434,English,51.0,12A
+S0999,Student_999,Science,80.0,10B
+S0049,Student_49,Science,68.0,10C
+S0436,Student_436,English,72.0,11B
+S0922,Student_922,Mathematics,66.0,10C
+S0648,Student_648,Science,85.0,11A
+S0072,Student_72,Science,69.0,10C
+S0777,Student_777,English,42.0,11B
+S0807,Student_807,Science,48.0,10A
+S0340,Student_340,Mathematics,99.0,10A
+S0391,Student_391,English,56.0,11B
+S0101,Student_101,History,78.0,12A
+S0575,Student_575,Computer Science,69.0,10C
+S0319,Student_319,Computer Science,34.0,11A
+S0256,Student_256,History,72.0,10B
+S0841,Student_841,Science,53.0,10C
+S0546,Student_546,History,58.0,10B
+S0598,Student_598,History,53.0,11B
+S0609,Student_609,Mathematics,79.0,12A
+S0169,Student_169,Computer Science,,10C
+S0651,Student_651,Science,74.0,12A
+S0046,Student_46,Mathematics,86.0,10A
+S0640,Student_640,English,41.0,11A
+S0911,Student_911,Computer Science,68.0,10B
+S0907,Student_907,Mathematics,72.0,11A
+S0955,Student_955,English,79.0,10C
+S0751,Student_751,English,88.0,11B
+S0732,Student_732,Computer Science,100.0,11A
+S0274,Student_274,Science,69.0,11A
+S0352,Student_352,Science,67.0,10A
+S0358,Student_358,Computer Science,90.0,10B
+S0128,Student_128,Computer Science,50.0,12A
+S0122,Student_122,Mathematics,98.0,12A
+S0460,Student_460,Mathematics,77.0,12A
+S0376,Student_376,History,44.0,12A
+S0429,Student_429,Science,70.0,10B
+S0871,Student_871,Mathematics,39.0,10B
+S0313,Student_313,Mathematics,69.0,11A
+S0656,Student_656,English,72.0,10B
+S0977,Student_977,History,77.0,11A
+S0206,Student_206,History,79.0,12A
+S0519,Student_519,English,69.0,10C
+S0312,Student_312,History,92.0,11A
+S0835,Student_835,English,62.0,11A
+S0026,Student_26,Mathematics,100.0,10B
+S0596,Student_596,Science,88.0,10B
+S0669,Student_669,Science,66.0,11B
+S0657,Student_657,History,83.0,10A
+S0536,Student_536,History,71.0,11A
+S0629,Student_629,Science,38.0,11A
+S0879,Student_879,History,62.0,11A
+S0666,Student_666,Computer Science,82.0,11A
+S0783,Student_783,History,57.0,12A
+S0828,Student_828,Computer Science,70.0,12A
+S0477,Student_477,Computer Science,70.0,10B
+S0009,Student_9,Mathematics,81.0,12A
+S0921,Student_921,History,89.0,11B
+S0522,Student_522,Computer Science,89.0,11B
+S0983,Student_983,History,72.0,10C
+S0179,Student_179,Computer Science,90.0,11B
+S0087,Student_87,Mathematics,52.0,12A
+S0820,Student_820,Science,78.0,10A
+S0083,Student_83,History,89.0,10C
+S0164,Student_164,Mathematics,47.0,11B
+S0236,Student_236,Mathematics,,10B
+S0628,Student_628,Science,84.0,10B
+S0996,Student_996,English,71.0,11B
+S0249,Student_249,English,61.0,10A
+S0055,Student_55,English,87.0,11A
+S0752,Student_752,English,100.0,11B
+S0855,Student_855,History,53.0,11B
+S0150,Student_150,Mathematics,59.0,11B
+S0924,Student_924,English,27.0,12A
+S0041,Student_41,Science,78.0,10C
+S0303,Student_303,Computer Science,68.0,11B
+S0993,Student_993,Mathematics,65.0,10A
+S0443,Student_443,Computer Science,62.0,10C
+S0731,Student_731,Science,78.0,10B
+S0680,Student_680,History,100.0,10C
+S0599,Student_599,Computer Science,55.0,11B
+S0529,Student_529,English,57.0,10C
+S0234,Student_234,Science,90.0,10A
+S0420,Student_420,History,46.0,10C
+S0493,Student_493,Science,81.0,10C
+S0583,Student_583,History,81.0,12A
+S0357,Student_357,History,81.0,12A
+S0283,Student_283,History,100.0,12A
+S0227,Student_227,Mathematics,74.0,11A
+S0430,Student_430,Computer Science,45.0,12A
+S0356,Student_356,Computer Science,59.0,10A
+S0899,Student_899,History,63.0,11A
+S0713,Student_713,Computer Science,84.0,11A
+S0351,Student_351,History,42.0,11B
+S0473,Student_473,Computer Science,60.0,10A
+S0325,Student_325,Science,48.0,11A
+S0834,Student_834,Mathematics,81.0,11B
+S0549,Student_549,History,78.0,12A
+S0270,Student_270,Mathematics,47.0,10B
+S0183,Student_183,History,93.0,12A
+S0729,Student_729,Mathematics,,11B
+S0815,Student_815,Computer Science,63.0,12A
+S0915,Student_915,English,82.0,10C
+S0075,Student_75,Computer Science,100.0,10A
+S0576,Student_576,History,74.0,11A
+S0653,Student_653,English,56.0,11A
+S0305,Student_305,Computer Science,64.0,10A
+S0971,Student_971,Mathematics,30.0,12A
+S0651,Student_651,Mathematics,79.0,12A
+S0344,Student_344,English,72.0,10A
+S0403,Student_403,History,55.0,10C
+S0878,Student_878,Science,59.0,10A
+S0530,Student_530,English,48.0,10B
+S0985,Student_985,Computer Science,76.0,10A
+S0406,Student_406,History,73.0,11A
+S0869,Student_869,Science,72.0,10C
+S0167,Student_167,English,54.0,10C
+S0982,Student_982,English,52.0,10A
+S0748,Student_748,History,64.0,11B
+S0554,Student_554,English,76.0,12A
+S0047,Student_47,Science,73.0,11A
+S0382,Student_382,Science,46.0,10B
+S0085,Student_85,English,66.0,12A
+S0954,Student_954,History,85.0,10B
+S0445,Student_445,Mathematics,64.0,10A
+S0231,Student_231,Mathematics,55.0,11A
+S0757,Student_757,Science,65.0,11A
+S0751,Student_751,Mathematics,61.0,11B
+S0310,Student_310,Computer Science,88.0,10B
+S0590,Student_590,Computer Science,45.0,10C
+S0097,Student_97,History,73.0,10B
+S0015,Student_15,History,93.0,11B
+S0264,Student_264,Mathematics,50.0,11B
+S0311,Student_311,English,56.0,10B
+S0397,Student_397,Mathematics,55.0,11B
+S0863,Student_863,Mathematics,70.0,12A
+S0608,Student_608,Science,64.0,11A
+S0028,Student_28,History,82.0,12A
+S0437,Student_437,Science,64.0,11A
+S0430,Student_430,English,57.0,12A
+S0023,Student_23,Computer Science,67.0,11B
+S0182,Student_182,English,81.0,10C
+S0316,Student_316,Science,45.0,11A
+S0962,Student_962,Science,58.0,11B
+S0268,Student_268,Computer Science,72.0,11A
+S0282,Student_282,Science,48.0,12A
+S0945,Student_945,Mathematics,85.0,12A
+S0479,Student_479,English,47.0,10A
+S0995,Student_995,Computer Science,47.0,10B
+S0714,Student_714,Mathematics,70.0,11A
+S0398,Student_398,Computer Science,76.0,10C
+S0921,Student_921,English,94.0,11B
+S0665,Student_665,Science,56.0,10C
+S0940,Student_940,Mathematics,67.0,11B
+S0536,Student_536,Science,75.0,11A
+S0718,Student_718,History,88.0,11B
+S0025,Student_25,Science,56.0,11B
+S0993,Student_993,History,74.0,10A
+S0764,Student_764,English,68.0,10C
+S0425,Student_425,Mathematics,100.0,10B
+S0462,Student_462,History,78.0,11B
+S0580,Student_580,History,65.0,10B
+S0390,Student_390,Computer Science,69.0,11A
+S0491,Student_491,Mathematics,56.0,10B
+S0126,Student_126,English,68.0,10B
+S0621,Student_621,Mathematics,59.0,12A
+S0748,Student_748,Mathematics,68.0,11B
+S0282,Student_282,Computer Science,66.0,12A
+S0832,Student_832,Mathematics,66.0,10A
+S0255,Student_255,Mathematics,86.0,11B
+S0983,Student_983,History,72.0,10C
+S0868,Student_868,Computer Science,65.0,10A
+S0339,Student_339,Science,62.0,11B
+S0326,Student_326,History,71.0,12A
+S0199,Student_199,English,66.0,10C
+S0659,Student_659,History,75.0,10B
+S0112,Student_112,Science,62.0,10C
+S0705,Student_705,Mathematics,77.0,11A
+S0919,Student_919,History,37.0,11A
+S0792,Student_792,Science,68.0,10B
+S0672,Student_672,English,38.0,11A
+S0592,Student_592,Mathematics,96.0,11B
+S0323,Student_323,English,83.0,11A
+S0130,Student_130,Mathematics,65.0,11B
+S0242,Student_242,History,48.0,10B
+S0857,Student_857,History,84.0,10C
+S0570,Student_570,Computer Science,61.0,10C
+S0963,Student_963,History,57.0,10B
+S0771,Student_771,Mathematics,62.0,11A
+S0416,Student_416,Science,79.0,10C
+S0026,Student_26,History,71.0,10B
+S0219,Student_219,Mathematics,68.0,11A
+S0307,Student_307,History,67.0,11B
+S0946,Student_946,Computer Science,70.0,11A
+S0283,Student_283,Science,78.0,12A
+S0077,Student_77,English,38.0,10C
+S0540,Student_540,History,79.0,11A
+S0715,Student_715,English,74.0,11B
+S0449,Student_449,English,99.0,10C
+S0673,Student_673,Computer Science,59.0,10B
+S0867,Student_867,English,81.0,10B
+S0269,Student_269,English,76.0,11A
+S0379,Student_379,Computer Science,68.0,10B
+S0661,Student_661,Science,55.0,12A
+S0292,Student_292,English,75.0,10B
+S0570,Student_570,English,57.0,10C
+S0950,Student_950,Mathematics,65.0,11B
+S0902,Student_902,History,79.0,12A
+S0055,Student_55,Science,48.0,11A
+S0982,Student_982,Computer Science,57.0,10A
+S0443,Student_443,Science,79.0,10C
+S0013,Student_13,Mathematics,62.0,11B
+S0500,Student_500,History,81.0,12A
+S0259,Student_259,History,82.0,11A
+S0843,Student_843,Mathematics,66.0,11A
+S0900,Student_900,English,86.0,11B
+S0751,Student_751,History,63.0,11B
+S0215,Student_215,Mathematics,69.0,10B
+S0478,Student_478,Computer Science,85.0,12A
+S0349,Student_349,English,,10B
+S0589,Student_589,English,79.0,11B
+S0839,Student_839,Mathematics,75.0,11B
+S0615,Student_615,Computer Science,59.0,12A
+S0590,Student_590,History,67.0,10C
+S0360,Student_360,History,86.0,10A
+S0620,Student_620,Science,85.0,10B
+S0354,Student_354,English,,10A
+S0117,Student_117,Science,63.0,10C
+S0237,Student_237,History,46.0,10A
+S0373,Student_373,Computer Science,89.0,10C
+S0117,Student_117,History,100.0,10C
+S0822,Student_822,Science,65.0,12A
+S0668,Student_668,Mathematics,49.0,12A
+S0914,Student_914,Science,82.0,10B
+S0975,Student_975,Science,90.0,11B
+S0286,Student_286,History,66.0,11A
+S0983,Student_983,Mathematics,62.0,10C
+S0520,Student_520,English,73.0,10C
+S0079,Student_79,History,97.0,12A
+S0572,Student_572,Science,59.0,10C
+S0404,Student_404,English,39.0,10C
+S0927,Student_927,Mathematics,46.0,10C
+S0201,Student_201,English,70.0,10A
+S0213,Student_213,Science,27.0,11A
+S0332,Student_332,History,54.0,10B
+S0250,Student_250,History,73.0,10B
+S0653,Student_653,Science,70.0,11A
+S0105,Student_105,Science,78.0,12A
+S0841,Student_841,History,55.0,10C
+S0210,Student_210,Mathematics,83.0,10B
+S0992,Student_992,Mathematics,49.0,12A
+S0586,Student_586,Science,68.0,12A
+S0012,Student_12,Mathematics,83.0,12A
+S0769,Student_769,Science,59.0,11A
+S0554,Student_554,Science,69.0,12A
+S0278,Student_278,Science,89.0,11A
+S0814,Student_814,English,74.0,11B
+S0635,Student_635,Computer Science,54.0,11B
+S0430,Student_430,Science,45.0,12A
+S0636,Student_636,Science,47.0,10B
+S0448,Student_448,English,55.0,12A
+S0118,Student_118,Science,63.0,10B
+S0049,Student_49,History,82.0,10C
+S0368,Student_368,English,71.0,11A
+S0454,Student_454,Science,43.0,12A
+S0934,Student_934,Computer Science,70.0,10A
+S0943,Student_943,Computer Science,71.0,10B
+S0494,Student_494,Computer Science,66.0,11A
+S1000,Student_1000,History,82.0,10A
+S0651,Student_651,History,85.0,12A
+S0478,Student_478,Mathematics,58.0,12A
+S0679,Student_679,Computer Science,99.0,12A
+S0548,Student_548,Computer Science,82.0,10A
+S0069,Student_69,Mathematics,57.0,10A
+S0600,Student_600,English,51.0,12A
+S0436,Student_436,Science,45.0,11B
+S0115,Student_115,History,66.0,11B
+S0664,Student_664,English,55.0,11B
+S0466,Student_466,English,64.0,11B
+S0232,Student_232,Computer Science,65.0,11B
+S0997,Student_997,English,74.0,10C
+S0461,Student_461,Computer Science,99.0,10B
+S0620,Student_620,History,68.0,10B
+S0243,Student_243,Science,59.0,11B
+S0805,Student_805,History,81.0,12A
+S0173,Student_173,History,96.0,10A
+S0808,Student_808,Mathematics,84.0,10B
+S0885,Student_885,Science,53.0,10C
+S0143,Student_143,History,75.0,10A
+S0986,Student_986,English,73.0,10A
+S0449,Student_449,Computer Science,94.0,10C
+S0395,Student_395,English,79.0,11B
+S0375,Student_375,History,81.0,10B
+S0315,Student_315,Mathematics,81.0,10B
+S0280,Student_280,History,88.0,10A
+S0457,Student_457,Science,59.0,10A
+S0408,Student_408,Science,75.0,12A
+S0369,Student_369,English,61.0,12A
+S0405,Student_405,Science,74.0,10B
+S0361,Student_361,Mathematics,98.0,11B
+S0419,Student_419,English,79.0,10B
+S0842,Student_842,Mathematics,60.0,10A
+S0736,Student_736,Mathematics,71.0,11A
+S0518,Student_518,English,66.0,10A
+S0401,Student_401,English,58.0,10A
+S0428,Student_428,Computer Science,47.0,11B
+S0512,Student_512,English,70.0,10A
+S0462,Student_462,Mathematics,100.0,11B
+S0229,Student_229,English,67.0,12A
+S0181,Student_181,English,70.0,12A
+S0303,Student_303,History,42.0,11B
+S0037,Student_37,Science,57.0,10B
+S0213,Student_213,History,43.0,11A
+S0761,Student_761,English,51.0,10A
+S0847,Student_847,English,60.0,10C
+S0638,Student_638,Science,52.0,12A
+S0371,Student_371,History,83.0,11B
+S0500,Student_500,Mathematics,82.0,12A
+S0775,Student_775,English,53.0,10A
+S0507,Student_507,English,78.0,11A
+S0865,Student_865,English,88.0,10C
+S0251,Student_251,Mathematics,74.0,10A
+S0510,Student_510,Mathematics,76.0,10B
+S0794,Student_794,Science,74.0,12A
+S0974,Student_974,Science,72.0,10A
+S0687,Student_687,English,77.0,10A
+S0386,Student_386,Science,32.0,11A
+S0178,Student_178,English,64.0,10B
+S0832,Student_832,Computer Science,71.0,10A
+S0308,Student_308,History,52.0,10A
+S0675,Student_675,Computer Science,44.0,11A
+S0011,Student_11,Mathematics,74.0,12A
+S0937,Student_937,Science,61.0,10C
+S0734,Student_734,Science,80.0,10C
+S0909,Student_909,Computer Science,75.0,10A
+S0801,Student_801,History,77.0,10C
+S0136,Student_136,English,96.0,11A
+S0856,Student_856,Computer Science,75.0,12A
+S0200,Student_200,Mathematics,65.0,10B
+S0745,Student_745,Mathematics,84.0,11A
+S0438,Student_438,Mathematics,93.0,10C
+S0997,Student_997,Science,83.0,10C
+S0843,Student_843,Computer Science,70.0,11A
+S0507,Student_507,History,56.0,11A
+S0759,Student_759,English,73.0,11A
+S0220,Student_220,English,40.0,10B
+S0050,Student_50,History,96.0,10C
+S0482,Student_482,Computer Science,52.0,11A
+S0770,Student_770,English,63.0,10C
+S0079,Student_79,History,97.0,12A
+S0838,Student_838,Computer Science,69.0,10A
+S0042,Student_42,Mathematics,55.0,10B
+S0477,Student_477,History,69.0,10B
+S0997,Student_997,History,67.0,10C
+S0748,Student_748,English,67.0,11B
+S0418,Student_418,Science,62.0,10A
+S0813,Student_813,Science,74.0,10C
+S0263,Student_263,History,78.0,12A
+S0690,Student_690,Science,68.0,10B
+S0843,Student_843,History,42.0,11A
+S0043,Student_43,Computer Science,65.0,10B
+S0923,Student_923,Computer Science,70.0,11A
+S0525,Student_525,Mathematics,80.0,11B
+S0995,Student_995,Science,68.0,10B
+S0211,Student_211,Mathematics,60.0,10B
+S0087,Student_87,Science,39.0,12A
+S0441,Student_441,English,80.0,12A
+S0315,Student_315,English,74.0,10B
+S0188,Student_188,Computer Science,61.0,10C
+S0385,Student_385,Mathematics,40.0,10C
+S0504,Student_504,Computer Science,57.0,11A
+S0784,Student_784,History,84.0,10A
+S0976,Student_976,Mathematics,54.0,10C
+S0032,Student_32,History,52.0,10B
+S0738,Student_738,English,73.0,11A
+S0092,Student_92,History,61.0,12A
+S0601,Student_601,History,98.0,10C
+S0096,Student_96,Computer Science,86.0,10B
+S0498,Student_498,Mathematics,82.0,10C
+S0600,Student_600,History,75.0,12A
+S0027,Student_27,History,77.0,12A
+S0967,Student_967,English,78.0,11B
+S0715,Student_715,History,72.0,11B
+S0177,Student_177,Computer Science,80.0,11B
+S0333,Student_333,English,38.0,10B
+S0208,Student_208,Computer Science,85.0,10A
+S0295,Student_295,Mathematics,87.0,10B
+S0649,Student_649,English,44.0,10B
+S0059,Student_59,History,82.0,10A
+S0035,Student_35,English,68.0,10C
+S0887,Student_887,History,61.0,10C
+S0703,Student_703,Computer Science,76.0,10B
+S0420,Student_420,Mathematics,68.0,10C
+S0236,Student_236,English,68.0,10B
+S0687,Student_687,Mathematics,76.0,10A
+S0239,Student_239,Computer Science,46.0,10A
+S0203,Student_203,Mathematics,89.0,11B
+S0254,Student_254,English,56.0,10A
+S0302,Student_302,Mathematics,63.0,11A
+S0838,Student_838,History,63.0,10A
+S0076,Student_76,Science,83.0,11A
+S0919,Student_919,Mathematics,60.0,11A
+S0244,Student_244,History,57.0,10B
+S0877,Student_877,History,72.0,10C
+S0346,Student_346,History,75.0,11A
+S0181,Student_181,Mathematics,75.0,12A
+S0398,Student_398,Science,80.0,10C
+S0187,Student_187,Computer Science,76.0,10B
+S0185,Student_185,Mathematics,86.0,11B
+S0394,Student_394,Computer Science,87.0,10A
+S0684,Student_684,Science,82.0,10B
+S0753,Student_753,Computer Science,73.0,12A
+S0735,Student_735,Computer Science,69.0,11A
+S0792,Student_792,History,86.0,10B
+S0126,Student_126,Computer Science,86.0,10B
+S0192,Student_192,Computer Science,76.0,10A
+S0230,Student_230,History,93.0,10C
+S0843,Student_843,Science,61.0,11A
+S0411,Student_411,Science,56.0,12A
+S0038,Student_38,English,68.0,12A
+S0411,Student_411,Computer Science,49.0,12A
+S0095,Student_95,Mathematics,65.0,12A
+S0758,Student_758,English,56.0,10B
+S0273,Student_273,Computer Science,87.0,12A
+S0638,Student_638,Computer Science,97.0,12A
+S0465,Student_465,History,95.0,11B
+S0573,Student_573,Mathematics,62.0,12A
+S0603,Student_603,English,50.0,11A
+S0383,Student_383,Mathematics,95.0,12A
+S0963,Student_963,Computer Science,74.0,10B
+S0134,Student_134,History,30.0,11A
+S0194,Student_194,History,69.0,10C
+S0780,Student_780,Mathematics,85.0,10B
+S0566,Student_566,Science,88.0,10C
+S0538,Student_538,English,46.0,12A
+S0543,Student_543,Mathematics,57.0,10A
+S0079,Student_79,Computer Science,87.0,12A
+S0036,Student_36,History,66.0,10A
+S0734,Student_734,Computer Science,75.0,10C
+S0271,Student_271,History,81.0,10A
+S0499,Student_499,English,62.0,10B
+S0707,Student_707,History,,10C
+S0704,Student_704,History,89.0,10A
+S0691,Student_691,English,68.0,10C
+S0774,Student_774,Computer Science,84.0,11A
+S0935,Student_935,English,77.0,12A
+S0633,Student_633,Science,76.0,11A
+S0732,Student_732,Science,70.0,11A
+S0971,Student_971,History,72.0,12A
+S0212,Student_212,Science,69.0,12A
+S0559,Student_559,History,56.0,10B
+S0134,Student_134,Science,66.0,11A
+S0475,Student_475,English,72.0,10B
+S0479,Student_479,Computer Science,68.0,10A
+S0092,Student_92,Computer Science,52.0,12A
+S0545,Student_545,English,54.0,11B
+S0365,Student_365,English,66.0,10A
+S0276,Student_276,Mathematics,66.0,11A
+S0980,Student_980,Mathematics,69.0,10C
+S0335,Student_335,History,56.0,10B
+S0488,Student_488,Science,68.0,10B
+S0944,Student_944,English,87.0,10B
+S0318,Student_318,History,57.0,10B
+S0432,Student_432,English,65.0,10B
+S0336,Student_336,Computer Science,63.0,10A
+S0495,Student_495,Computer Science,74.0,12A
+S0869,Student_869,English,99.0,10C
+S0676,Student_676,Science,65.0,11A
+S0822,Student_822,Mathematics,,12A
+S0594,Student_594,Mathematics,66.0,10C
+S0021,Student_21,English,64.0,10B
+S0569,Student_569,English,92.0,12A
+S0333,Student_333,Science,68.0,10B
+S0101,Student_101,Mathematics,83.0,12A
+S0097,Student_97,Mathematics,68.0,10B
+S0929,Student_929,Computer Science,79.0,11A
+S0278,Student_278,Computer Science,58.0,11A
+S0339,Student_339,Computer Science,71.0,11B
+S0593,Student_593,English,62.0,10A
+S0214,Student_214,Mathematics,53.0,11B
+S0018,Student_18,Computer Science,77.0,10A
+S0537,Student_537,History,80.0,10C
+S0542,Student_542,Science,72.0,11B
+S0128,Student_128,English,71.0,12A
+S0589,Student_589,Science,63.0,11B
+S0884,Student_884,English,40.0,10C
+S0910,Student_910,English,69.0,10C
+S0788,Student_788,English,50.0,10A
+S0007,Student_7,Computer Science,82.0,10B
+S0402,Student_402,English,57.0,10B
+S0472,Student_472,History,43.0,10C
+S0882,Student_882,Mathematics,82.0,11A
+S0716,Student_716,Mathematics,74.0,12A
+S0188,Student_188,English,80.0,10C
+S0080,Student_80,Science,44.0,10C
+S0198,Student_198,Computer Science,70.0,10C
+S0454,Student_454,Computer Science,68.0,12A
+S0564,Student_564,Mathematics,82.0,10C
+S0554,Student_554,History,62.0,12A
+S0427,Student_427,Computer Science,64.0,10C
+S0765,Student_765,Mathematics,64.0,10B
+S0646,Student_646,English,88.0,10A
+S0054,Student_54,English,48.0,12A
+S0371,Student_371,Computer Science,85.0,11B
+S0046,Student_46,History,59.0,10A
+S0243,Student_243,Mathematics,51.0,11B
+S0718,Student_718,English,56.0,11B
+S0218,Student_218,Mathematics,76.0,11B
+S0547,Student_547,Computer Science,99.0,10C
+S0149,Student_149,Mathematics,42.0,11A
+S0854,Student_854,English,40.0,12A
+S0425,Student_425,English,69.0,10B
+S0133,Student_133,Mathematics,61.0,11B
+S0451,Student_451,Science,92.0,12A
+S0519,Student_519,History,70.0,10C
+S0292,Student_292,History,89.0,10B
+S0941,Student_941,English,79.0,12A
+S0264,Student_264,History,60.0,11B
+S0354,Student_354,Computer Science,78.0,10A
+S0514,Student_514,History,82.0,10B
+S0157,Student_157,Mathematics,72.0,10C
+S0300,Student_300,Computer Science,78.0,10B
+S0296,Student_296,Mathematics,79.0,11A
+S0027,Student_27,Mathematics,46.0,12A
+S0157,Student_157,Computer Science,78.0,10C
+S0165,Student_165,English,100.0,10C
+S0889,Student_889,English,78.0,12A
+S0990,Student_990,Computer Science,76.0,11B
+S0729,Student_729,History,69.0,11B
+S0325,Student_325,History,59.0,11A
+S0664,Student_664,Mathematics,76.0,11B
+S0366,Student_366,Mathematics,76.0,11B
+S0718,Student_718,Science,59.0,11B
+S0907,Student_907,History,56.0,11A
+S0920,Student_920,History,76.0,11B
+S0731,Student_731,English,76.0,10B
+S0335,Student_335,Mathematics,66.0,10B
+S0545,Student_545,Mathematics,99.0,11B
+S0531,Student_531,Computer Science,60.0,11B
+S0444,Student_444,Science,63.0,10A
+S0607,Student_607,History,55.0,11B
+S0506,Student_506,Computer Science,53.0,10B
+S0827,Student_827,Computer Science,68.0,10C
+S0867,Student_867,Mathematics,80.0,10B
+S0089,Student_89,English,38.0,12A
+S0559,Student_559,Mathematics,78.0,10B
+S0364,Student_364,Science,37.0,11B
+S0423,Student_423,Computer Science,81.0,12A
+S0132,Student_132,Mathematics,70.0,12A
+S0741,Student_741,History,57.0,12A
+S0326,Student_326,Mathematics,86.0,12A
+S0903,Student_903,Science,85.0,11A
+S0896,Student_896,English,81.0,10B
+S0262,Student_262,History,86.0,10B
+S0795,Student_795,Computer Science,75.0,10A
+S0370,Student_370,English,57.0,11B
+S0796,Student_796,English,91.0,11B
+S0584,Student_584,English,80.0,11A
+S0179,Student_179,History,87.0,11B
+S0090,Student_90,Computer Science,54.0,10A
+S0453,Student_453,Computer Science,80.0,11B
+S0797,Student_797,English,100.0,10B
+S0345,Student_345,Computer Science,55.0,11B
+S0076,Student_76,Mathematics,58.0,11A
+S0464,Student_464,English,60.0,10C
+S0108,Student_108,Mathematics,70.0,10B
+S0003,Student_3,English,73.0,10A
+S0662,Student_662,History,96.0,11B
+S0883,Student_883,Computer Science,73.0,10B
+S0344,Student_344,Mathematics,68.0,10A
+S0486,Student_486,Mathematics,77.0,10B
+S0368,Student_368,Science,52.0,11A
+S0723,Student_723,English,67.0,10C
+S0720,Student_720,History,75.0,11A
+S0506,Student_506,Science,76.0,10B
+S0474,Student_474,Science,61.0,10C
+S0096,Student_96,English,74.0,10B
+S0587,Student_587,Science,,10B
+S0208,Student_208,History,73.0,10A
+S0873,Student_873,English,74.0,11B
+S0873,Student_873,Mathematics,74.0,11B
+S0534,Student_534,Science,82.0,10A
+S0127,Student_127,English,67.0,10B
+S0375,Student_375,Mathematics,53.0,10B
+S0772,Student_772,History,59.0,10C
+S0956,Student_956,Computer Science,22.0,10B
+S0676,Student_676,Mathematics,54.0,11A
+S0933,Student_933,Science,65.0,10B
+S0338,Student_338,History,74.0,12A
+S0285,Student_285,Mathematics,78.0,10A
+S0516,Student_516,English,84.0,10C
+S0856,Student_856,Science,61.0,12A
+S0040,Student_40,Science,56.0,10C
+S0104,Student_104,History,71.0,10B
+S0985,Student_985,Science,74.0,10A
+S0341,Student_341,English,79.0,12A
+S0689,Student_689,Mathematics,72.0,10C
+S0490,Student_490,Computer Science,59.0,10A
+S0205,Student_205,Science,61.0,10A
+S0591,Student_591,Computer Science,55.0,11A
+S0109,Student_109,Science,53.0,10A
+S0654,Student_654,Computer Science,79.0,10A
+S0639,Student_639,Computer Science,46.0,11A
+S0517,Student_517,Science,75.0,10C
+S0405,Student_405,English,90.0,10B
+S0574,Student_574,Computer Science,88.0,11A
+S0091,Student_91,Computer Science,62.0,11B
+S0405,Student_405,History,50.0,10B
+S0740,Student_740,History,83.0,12A
+S0033,Student_33,Computer Science,84.0,11A
+S0037,Student_37,English,53.0,10B
+S0622,Student_622,Science,50.0,10C
+S0951,Student_951,Mathematics,86.0,11B
+S0505,Student_505,English,75.0,10B
+S0791,Student_791,History,78.0,10B
+S0371,Student_371,English,52.0,11B
+S0020,Student_20,Computer Science,66.0,10B
+S0611,Student_611,Computer Science,96.0,12A
+S0981,Student_981,Computer Science,79.0,10B
+S0685,Student_685,Computer Science,43.0,10C
+S0816,Student_816,History,64.0,11A
+S0167,Student_167,History,58.0,10C
+S0258,Student_258,English,77.0,12A
+S0139,Student_139,Science,87.0,10B
+S0342,Student_342,English,98.0,10C
+S0051,Student_51,Computer Science,47.0,11B
+S0791,Student_791,Computer Science,61.0,10B
+S0261,Student_261,English,67.0,11B
+S0076,Student_76,History,100.0,11A
+S0014,Student_14,Computer Science,60.0,10A
+S0484,Student_484,Computer Science,50.0,12A
+S0391,Student_391,Computer Science,61.0,11B
+S0114,Student_114,English,54.0,10B
+S0987,Student_987,Computer Science,63.0,11A
+S0734,Student_734,History,67.0,10C
+S0812,Student_812,Computer Science,,10A
+S0754,Student_754,History,79.0,10A
+S0187,Student_187,History,37.0,10B
+S0584,Student_584,Science,67.0,11A
+S0224,Student_224,Science,100.0,10B
+S0044,Student_44,Mathematics,81.0,10C
+S0599,Student_599,History,66.0,11B
+S0504,Student_504,History,66.0,11A
+S0275,Student_275,History,45.0,10C
+S0916,Student_916,Mathematics,66.0,12A
+S0920,Student_920,Science,65.0,11B
+S0402,Student_402,Computer Science,84.0,10B
+S0154,Student_154,Computer Science,97.0,11B
+S0975,Student_975,English,51.0,11B
+S0310,Student_310,Science,55.0,10B
+S0560,Student_560,English,43.0,10C
+S0015,Student_15,Mathematics,75.0,11B
+S0208,Student_208,English,48.0,10A
+S0901,Student_901,Mathematics,55.0,10B
+S0151,Student_151,English,55.0,10A
+S0381,Student_381,Mathematics,80.0,11A
+S0643,Student_643,English,95.0,10B
+S0425,Student_425,English,69.0,10B
+S0064,Student_64,Computer Science,68.0,10C
+S0191,Student_191,English,51.0,11B
+S0929,Student_929,History,90.0,11A
+S0181,Student_181,Computer Science,72.0,12A
+S0954,Student_954,English,66.0,10B
+S0474,Student_474,Mathematics,93.0,10C
+S0650,Student_650,History,73.0,10B
+S0632,Student_632,Mathematics,45.0,11A
+S0309,Student_309,Mathematics,69.0,10A
+S0693,Student_693,English,72.0,10C
+S0820,Student_820,Computer Science,71.0,10A
+S0299,Student_299,Mathematics,61.0,11A
+S0721,Student_721,English,100.0,10A
+S0737,Student_737,History,88.0,10A
+S0099,Student_99,History,57.0,11A
+S0658,Student_658,History,60.0,11A
+S0541,Student_541,English,100.0,11B
+S0170,Student_170,English,100.0,11A
+S0270,Student_270,History,49.0,10B
+S0820,Student_820,History,68.0,10A
+S0709,Student_709,English,83.0,11A
+S0465,Student_465,Science,81.0,11B
+S0671,Student_671,English,76.0,11B
+S0119,Student_119,Science,62.0,12A
+S0133,Student_133,Computer Science,59.0,11B
+S0960,Student_960,Mathematics,51.0,10A
+S0215,Student_215,Computer Science,84.0,10B
+S0035,Student_35,Mathematics,56.0,10C
+S0842,Student_842,Science,77.0,10A
+S0483,Student_483,Mathematics,82.0,11B
+S0609,Student_609,Computer Science,80.0,12A
+S0617,Student_617,English,40.0,11B
+S0555,Student_555,English,67.0,12A
+S0284,Student_284,Science,70.0,10A
+S0218,Student_218,Computer Science,67.0,11B
+S0035,Student_35,Computer Science,74.0,10C
+S0666,Student_666,History,53.0,11A
+S0978,Student_978,Science,58.0,11A
+S0143,Student_143,English,61.0,10A
+S0692,Student_692,English,64.0,10C
+S0397,Student_397,Computer Science,84.0,11B
+S0488,Student_488,Mathematics,64.0,10B
+S0163,Student_163,English,91.0,12A
+S0449,Student_449,History,46.0,10C
+S0700,Student_700,History,67.0,12A
+S0814,Student_814,Mathematics,60.0,11B
+S0061,Student_61,History,79.0,10C
+S0420,Student_420,English,53.0,10C
+S0625,Student_625,Science,60.0,10B
+S0959,Student_959,Computer Science,67.0,10C
+S0239,Student_239,Science,49.0,10A
+S0257,Student_257,Mathematics,72.0,10C
+S0395,Student_395,Science,25.0,11B
+S0873,Student_873,History,87.0,11B
+S0372,Student_372,Science,90.0,11B
+S0807,Student_807,Mathematics,82.0,10A
+S0396,Student_396,Computer Science,76.0,10B
+S0191,Student_191,Science,75.0,11B
+S0108,Student_108,Science,57.0,10B
+S0597,Student_597,English,80.0,11A
+S0633,Student_633,English,63.0,11A
+S0930,Student_930,Science,49.0,10C
+S0052,Student_52,Computer Science,81.0,10C
+S0746,Student_746,Mathematics,78.0,10B
+S0554,Student_554,Computer Science,67.0,12A
+S0990,Student_990,Mathematics,85.0,11B
+S0145,Student_145,Computer Science,72.0,10B
+S0981,Student_981,Mathematics,64.0,10B
+S0987,Student_987,Mathematics,86.0,11A
+S0401,Student_401,History,65.0,10A
+S0613,Student_613,Computer Science,47.0,10C
+S0892,Student_892,English,50.0,10A
+S0129,Student_129,Mathematics,64.0,11B
+S0124,Student_124,English,80.0,10B
+S0095,Student_95,Computer Science,94.0,12A
+S0263,Student_263,Mathematics,69.0,12A
+S0923,Student_923,Mathematics,71.0,11A
+S0203,Student_203,English,100.0,11B
+S0344,Student_344,Science,74.0,10A
+S0676,Student_676,Computer Science,59.0,11A
+S0241,Student_241,Computer Science,70.0,11B
+S0655,Student_655,English,83.0,11B
+S0399,Student_399,History,80.0,10B
+S0947,Student_947,Mathematics,52.0,10C
+S0981,Student_981,History,64.0,10B
+S0840,Student_840,Mathematics,62.0,12A
+S0199,Student_199,History,59.0,10C
+S0921,Student_921,Computer Science,53.0,11B
+S0604,Student_604,History,63.0,11A
+S0281,Student_281,Mathematics,54.0,12A
+S0876,Student_876,History,74.0,11A
+S0374,Student_374,Science,85.0,10C
+S0604,Student_604,Computer Science,78.0,11A
+S0589,Student_589,History,67.0,11B
+S0353,Student_353,English,71.0,10B
+S0762,Student_762,History,79.0,10C
+S0225,Student_225,Science,87.0,12A
+S0532,Student_532,Science,53.0,10C
+S0094,Student_94,Mathematics,66.0,11B
+S0830,Student_830,Mathematics,30.0,10A
+S0943,Student_943,English,76.0,10B
+S0387,Student_387,English,63.0,10C
+S0532,Student_532,English,83.0,10C
+S0814,Student_814,History,52.0,11B
+S0285,Student_285,English,64.0,10A
+S0325,Student_325,English,,11A
+S0338,Student_338,Mathematics,87.0,12A
+S0023,Student_23,English,70.0,11B
+S0340,Student_340,History,77.0,10A
+S0368,Student_368,Mathematics,75.0,11A
+S0830,Student_830,Computer Science,73.0,10A
+S0173,Student_173,Science,47.0,10A
+S0667,Student_667,Computer Science,90.0,11B
+S0508,Student_508,History,51.0,10C
+S0829,Student_829,English,75.0,11B
+S0209,Student_209,English,86.0,11B
+S0519,Student_519,Mathematics,88.0,10C
+S0862,Student_862,Science,60.0,11A
+S0840,Student_840,History,24.0,12A
+S0621,Student_621,History,86.0,12A
+S0366,Student_366,History,68.0,11B
+S0157,Student_157,History,79.0,10C
+S0520,Student_520,Science,60.0,10C
+S0287,Student_287,History,61.0,12A
+S0141,Student_141,Science,85.0,11A
+S0576,Student_576,Computer Science,67.0,11A
+S0079,Student_79,English,50.0,12A
+S0210,Student_210,History,92.0,10B
+S0899,Student_899,English,61.0,11A
+S0076,Student_76,English,72.0,11A
+S0072,Student_72,English,65.0,10C
+S0409,Student_409,English,62.0,10C
+S0198,Student_198,History,66.0,10C
+S0107,Student_107,English,69.0,10A
+S0427,Student_427,Science,70.0,10C
+S0480,Student_480,English,54.0,10C
+S0908,Student_908,Computer Science,81.0,10A
+S0289,Student_289,Science,87.0,10A
+S0193,Student_193,Science,89.0,11B
+S0681,Student_681,Science,78.0,11B
+S0872,Student_872,Science,73.0,11A
+S0174,Student_174,Mathematics,64.0,12A
+S0447,Student_447,Computer Science,51.0,10B
+S0827,Student_827,Mathematics,66.0,10C
+S0343,Student_343,History,82.0,10A
+S0984,Student_984,English,64.0,11A
+S0439,Student_439,English,100.0,10A
+S0886,Student_886,Computer Science,62.0,10C
+S0052,Student_52,Science,89.0,10C
+S0147,Student_147,Mathematics,72.0,10B
+S0451,Student_451,English,48.0,12A
+S0394,Student_394,History,67.0,10A
+S0362,Student_362,Mathematics,46.0,10B
+S0699,Student_699,Computer Science,77.0,11A
+S0597,Student_597,Mathematics,73.0,11A
+S0576,Student_576,English,59.0,11A
+S0113,Student_113,English,83.0,10A
+S0807,Student_807,Computer Science,57.0,10A
+S0942,Student_942,English,62.0,10B
+S0824,Student_824,Computer Science,54.0,10B
+S0680,Student_680,Science,77.0,10C
+S0847,Student_847,History,77.0,10C
+S0563,Student_563,Mathematics,68.0,12A
+S0571,Student_571,Computer Science,88.0,11B
+S0789,Student_789,Mathematics,75.0,11B
+S0457,Student_457,History,55.0,10A
+S0948,Student_948,History,49.0,12A
+S0252,Student_252,Science,95.0,10A
+S0485,Student_485,Mathematics,85.0,10B
+S0852,Student_852,Science,57.0,11A
+S0258,Student_258,Computer Science,37.0,12A
+S0529,Student_529,Mathematics,97.0,10C
+S0045,Student_45,English,80.0,10A
+S0724,Student_724,Science,55.0,11A
+S0659,Student_659,English,89.0,10B
+S0398,Student_398,English,77.0,10C
+S0531,Student_531,English,77.0,11B
+S0641,Student_641,History,89.0,11A
+S0093,Student_93,History,73.0,10B
+S0664,Student_664,Science,69.0,11B
+S0623,Student_623,English,65.0,10B
+S0458,Student_458,Mathematics,76.0,10A
+S0762,Student_762,Science,70.0,10C
+S0826,Student_826,Science,56.0,12A
+S0790,Student_790,English,76.0,10B
+S0281,Student_281,English,87.0,12A
+S0023,Student_23,History,100.0,11B
+S0821,Student_821,English,90.0,11B
+S0095,Student_95,English,47.0,12A
+S0782,Student_782,History,78.0,10A
+S0118,Student_118,Mathematics,73.0,10B
+S0226,Student_226,Science,74.0,10C
+S1000,Student_1000,Mathematics,69.0,10A
+S0425,Student_425,Science,81.0,10B
+S0625,Student_625,Mathematics,62.0,10B
+S0355,Student_355,Mathematics,70.0,11B
+S0741,Student_741,Computer Science,67.0,12A
+S0434,Student_434,Mathematics,54.0,12A
+S0386,Student_386,English,65.0,11A
+S0682,Student_682,History,66.0,11A
+S0180,Student_180,Science,67.0,10A
+S0909,Student_909,English,42.0,10A
+S0798,Student_798,English,61.0,11A
+S0096,Student_96,Mathematics,66.0,10B
+S0469,Student_469,Computer Science,37.0,10B
+S0306,Student_306,History,62.0,12A
+S0512,Student_512,Science,30.0,10A
+S0649,Student_649,Computer Science,67.0,10B
+S0698,Student_698,English,79.0,10B
+S0552,Student_552,English,58.0,11B
+S0579,Student_579,Mathematics,72.0,11B
+S0598,Student_598,Computer Science,100.0,11B
+S0692,Student_692,Mathematics,100.0,10C
+S0681,Student_681,Mathematics,77.0,11B
+S0028,Student_28,Mathematics,93.0,12A
+S0209,Student_209,Science,63.0,11B
+S0516,Student_516,Mathematics,53.0,10C
+S0748,Student_748,Science,63.0,11B
+S0755,Student_755,History,58.0,10A
+S0340,Student_340,Computer Science,72.0,10A
+S0688,Student_688,Science,78.0,12A
+S0298,Student_298,Computer Science,88.0,10C
+S0130,Student_130,Computer Science,80.0,11B
+S0317,Student_317,Science,87.0,10A
+S0960,Student_960,Science,77.0,10A
+S0749,Student_749,Mathematics,59.0,10A
+S0868,Student_868,Science,45.0,10A
+S0922,Student_922,Science,64.0,10C
+S0898,Student_898,Mathematics,46.0,11A
+S0661,Student_661,Mathematics,75.0,12A
+S0418,Student_418,English,67.0,10A
+S0120,Student_120,History,63.0,11A
+S0493,Student_493,English,77.0,10C
+S0024,Student_24,English,52.0,10A
+S0922,Student_922,English,77.0,10C
+S0608,Student_608,Computer Science,66.0,11A
+S0427,Student_427,History,78.0,10C
+S0583,Student_583,Computer Science,80.0,12A
+S0640,Student_640,Science,80.0,11A
+S0742,Student_742,History,76.0,11A
+S0493,Student_493,History,51.0,10C
+S0403,Student_403,Science,58.0,10C
+S0488,Student_488,English,82.0,10B
+S0379,Student_379,Mathematics,78.0,10B
+S0602,Student_602,Computer Science,62.0,11A
+S0570,Student_570,Mathematics,53.0,10C
+S0740,Student_740,Computer Science,66.0,12A
+S0851,Student_851,Computer Science,73.0,10B
+S0875,Student_875,History,72.0,12A
+S0721,Student_721,Mathematics,57.0,10A
+S0245,Student_245,Mathematics,52.0,10A
+S0543,Student_543,Computer Science,75.0,10A
+S0725,Student_725,Mathematics,49.0,11A
+S0054,Student_54,History,63.0,12A
+S0678,Student_678,Science,57.0,10B
+S0442,Student_442,Computer Science,69.0,11A
+S0486,Student_486,Science,78.0,10B
+S0970,Student_970,History,61.0,10B
+S0553,Student_553,Mathematics,79.0,11B
+S0856,Student_856,Mathematics,68.0,12A
+S0947,Student_947,Computer Science,74.0,10C
+S0004,Student_4,Mathematics,61.0,12A
+S0066,Student_66,Mathematics,51.0,10B
+S0739,Student_739,Mathematics,78.0,10C
+S0253,Student_253,Computer Science,72.0,10C
+S0367,Student_367,History,74.0,10A
+S0388,Student_388,English,77.0,10A
+S0104,Student_104,Mathematics,81.0,10B
+S0850,Student_850,History,77.0,12A
+S0228,Student_228,Computer Science,80.0,12A
+S0716,Student_716,History,57.0,12A
+S0743,Student_743,History,38.0,12A
+S0259,Student_259,Computer Science,71.0,11A
+S0440,Student_440,English,70.0,10A
+S0278,Student_278,History,70.0,11A
+S0574,Student_574,History,78.0,11A
+S0339,Student_339,English,83.0,11B
+S0999,Student_999,Mathematics,38.0,10B
+S0338,Student_338,English,73.0,12A
+S0468,Student_468,Computer Science,60.0,11A
+S0102,Student_102,History,70.0,12A
+S0013,Student_13,English,53.0,11B
+S0131,Student_131,History,53.0,10C
+S0254,Student_254,Mathematics,48.0,10A
+S0424,Student_424,Science,66.0,11B
+S0768,Student_768,Science,88.0,10C
+S0546,Student_546,Science,85.0,10B
+S0223,Student_223,History,77.0,12A
+S0753,Student_753,English,57.0,12A
+S0626,Student_626,Computer Science,63.0,10A
+S0187,Student_187,Mathematics,61.0,10B
+S0075,Student_75,History,84.0,10A
+S0420,Student_420,Computer Science,82.0,10C
+S0294,Student_294,Computer Science,76.0,11A
+S0888,Student_888,Science,87.0,11B
+S0799,Student_799,Computer Science,39.0,12A
+S0366,Student_366,Science,53.0,11B
+S0695,Student_695,English,70.0,10A
+S0256,Student_256,Mathematics,72.0,10B
+S0649,Student_649,History,85.0,10B
+S0247,Student_247,Computer Science,57.0,12A
+S0255,Student_255,Science,79.0,11B
+S0042,Student_42,History,77.0,10B
+S0143,Student_143,Mathematics,73.0,10A
+S0782,Student_782,English,48.0,10A
+S0342,Student_342,Computer Science,55.0,10C
+S0427,Student_427,English,80.0,10C
+S0293,Student_293,English,66.0,11B
+S0508,Student_508,Computer Science,70.0,10C
+S0620,Student_620,Mathematics,89.0,10B
+S0155,Student_155,Mathematics,80.0,11A
+S0009,Student_9,Science,72.0,12A
+S0993,Student_993,Science,54.0,10A
+S0060,Student_60,History,82.0,11B
+S0514,Student_514,Mathematics,63.0,10B
+S0173,Student_173,English,93.0,10A
+S0370,Student_370,Computer Science,76.0,11B
+S0045,Student_45,Mathematics,100.0,10A
+S0337,Student_337,English,56.0,11B
+S0774,Student_774,Science,74.0,11A
+S0622,Student_622,History,76.0,10C
+S0712,Student_712,Mathematics,69.0,10B
+S0290,Student_290,Science,62.0,10B
+S0771,Student_771,Science,77.0,11A
+S0984,Student_984,History,90.0,11A
+S0580,Student_580,Computer Science,74.0,10B
+S0804,Student_804,English,80.0,11B
+S0864,Student_864,Computer Science,64.0,11B
+S0008,Student_8,Science,73.0,10B
+S0106,Student_106,Science,45.0,10C
+S0114,Student_114,Science,39.0,10B
+S0535,Student_535,Science,78.0,11B
+S0157,Student_157,Science,49.0,10C
+S0727,Student_727,English,66.0,12A
+S0687,Student_687,History,68.0,10A
+S0728,Student_728,History,68.0,12A
+S0074,Student_74,History,71.0,10B
+S0262,Student_262,Mathematics,56.0,10B
+S0923,Student_923,History,62.0,11A
+S0244,Student_244,Computer Science,100.0,10B
+S0273,Student_273,English,71.0,12A
+S0027,Student_27,English,54.0,12A
+S0042,Student_42,English,77.0,10B
+S0087,Student_87,History,80.0,12A
+S0844,Student_844,History,74.0,11A
+S0795,Student_795,Science,53.0,10A
+S0194,Student_194,Computer Science,48.0,10C
+S0475,Student_475,Computer Science,86.0,10B
+S0571,Student_571,Science,82.0,11B
+S0822,Student_822,English,90.0,12A
+S0011,Student_11,Computer Science,85.0,12A
+S0248,Student_248,Computer Science,94.0,12A
+S0005,Student_5,History,48.0,10C
+S0733,Student_733,History,74.0,10B
+S0941,Student_941,History,78.0,12A
+S0665,Student_665,History,73.0,10C
+S0152,Student_152,English,72.0,11A
+S0548,Student_548,History,93.0,10A
+S0148,Student_148,Mathematics,77.0,12A
+S0409,Student_409,Computer Science,57.0,10C
+S0637,Student_637,Science,77.0,12A
+S0393,Student_393,Computer Science,78.0,10A
+S0526,Student_526,Computer Science,62.0,10C
+S0708,Student_708,Mathematics,,11B
+S0692,Student_692,History,70.0,10C
+S0145,Student_145,Mathematics,74.0,10B
+S0660,Student_660,History,52.0,11A
+S0985,Student_985,History,91.0,10A
+S0511,Student_511,Science,41.0,10B
+S0086,Student_86,Science,55.0,10C
+S0835,Student_835,Science,67.0,11A
+S0911,Student_911,Science,82.0,10B
+S0710,Student_710,English,91.0,11A
+S0628,Student_628,English,54.0,10B
+S0889,Student_889,History,80.0,12A
+S0369,Student_369,Science,41.0,12A
+S0033,Student_33,Science,81.0,11A
+S0733,Student_733,English,75.0,10B
+S0509,Student_509,History,65.0,10C
+S0669,Student_669,Mathematics,80.0,11B
+S0976,Student_976,Computer Science,84.0,10C
+S0456,Student_456,Mathematics,53.0,11B
+S0614,Student_614,Mathematics,74.0,11B
+S0694,Student_694,Computer Science,66.0,11B
+S0085,Student_85,Mathematics,100.0,12A
+S0057,Student_57,Computer Science,100.0,10A
+S0200,Student_200,History,61.0,10B
+S0577,Student_577,English,60.0,12A
+S0893,Student_893,Mathematics,87.0,11B
+S0185,Student_185,Computer Science,87.0,11B
+S0878,Student_878,History,72.0,10A
+S0615,Student_615,History,94.0,12A
+S0344,Student_344,History,80.0,10A
+S0622,Student_622,Mathematics,75.0,10C
+S0466,Student_466,Science,53.0,11B
+S0201,Student_201,Mathematics,90.0,10A
+S0255,Student_255,History,65.0,11B
+S0918,Student_918,Science,85.0,10C
+S0318,Student_318,Computer Science,71.0,10B
+S0038,Student_38,Mathematics,80.0,12A
+S0555,Student_555,History,46.0,12A
+S0088,Student_88,English,49.0,12A
+S0061,Student_61,English,81.0,10C
+S0756,Student_756,English,51.0,12A
+S0384,Student_384,Mathematics,61.0,12A
+S0979,Student_979,History,68.0,11A
+S0100,Student_100,Science,54.0,10C
+S0736,Student_736,History,87.0,11A
+S0695,Student_695,Mathematics,68.0,10A
+S0056,Student_56,English,60.0,11B
+S0286,Student_286,Mathematics,40.0,11A
+S0033,Student_33,Mathematics,55.0,11A
+S0955,Student_955,Mathematics,70.0,10C
+S0726,Student_726,English,81.0,11B
+S0314,Student_314,Mathematics,,11A
+S0476,Student_476,Computer Science,73.0,12A
+S0233,Student_233,Science,100.0,11A
+S0137,Student_137,English,62.0,10C
+S0979,Student_979,Science,51.0,11A
+S0312,Student_312,Science,83.0,11A
+S0345,Student_345,Mathematics,77.0,11B
+S0783,Student_783,Mathematics,48.0,12A
+S0670,Student_670,Mathematics,94.0,11A
+S0905,Student_905,Mathematics,62.0,12A
+S0240,Student_240,Science,69.0,11B
+S0045,Student_45,Science,41.0,10A
+S0642,Student_642,Mathematics,59.0,10B
+S0925,Student_925,History,81.0,11B
+S0888,Student_888,History,64.0,11B
+S0996,Student_996,History,75.0,11B
+S0812,Student_812,Science,91.0,10A
+S0630,Student_630,Science,59.0,11B
+S0355,Student_355,History,72.0,11B
+S0413,Student_413,English,75.0,10A
+S0957,Student_957,Science,74.0,10C
+S0161,Student_161,History,63.0,12A
+S0756,Student_756,Mathematics,77.0,12A
+S0487,Student_487,History,67.0,10B
+S0512,Student_512,Mathematics,78.0,10A
+S0693,Student_693,Science,98.0,10C
+S0533,Student_533,Science,56.0,10A
+S0032,Student_32,Mathematics,59.0,10B
+S0322,Student_322,Science,71.0,10C
+S0800,Student_800,History,94.0,10C
+S0585,Student_585,Computer Science,71.0,12A
+S0635,Student_635,History,81.0,11B
+S0968,Student_968,History,90.0,10C
+S0849,Student_849,Mathematics,42.0,11A
+S0473,Student_473,History,86.0,10A
+S0170,Student_170,Science,74.0,11A
+S0256,Student_256,Science,100.0,10B
+S0750,Student_750,Science,37.0,11A
+S0374,Student_374,Mathematics,45.0,10C
+S0958,Student_958,History,38.0,10B
+S0642,Student_642,English,82.0,10B
+S0867,Student_867,Computer Science,77.0,10B
+S0820,Student_820,Mathematics,54.0,10A
+S0197,Student_197,English,55.0,10A
+S0024,Student_24,Science,69.0,10A
+S0004,Student_4,Science,54.0,12A
+S0850,Student_850,Mathematics,46.0,12A
+S0796,Student_796,History,78.0,11B
+S0236,Student_236,Computer Science,53.0,10B
+S0130,Student_130,History,66.0,11B
+S0897,Student_897,English,57.0,12A
+S0223,Student_223,English,83.0,12A
+S0467,Student_467,Science,68.0,10B
+S0177,Student_177,History,85.0,11B
+S0147,Student_147,Computer Science,85.0,10B
+S0425,Student_425,Computer Science,70.0,10B
+S0558,Student_558,Mathematics,64.0,12A
+S0054,Student_54,Computer Science,71.0,12A
+S0388,Student_388,Computer Science,71.0,10A
+S0448,Student_448,Computer Science,80.0,12A
+S0592,Student_592,English,66.0,11B
+S0252,Student_252,Mathematics,51.0,10A
+S0489,Student_489,Mathematics,96.0,11A
+S0632,Student_632,History,89.0,11A
+S0816,Student_816,Mathematics,71.0,11A
+S0169,Student_169,Science,80.0,10C
+S0365,Student_365,Mathematics,68.0,10A
+S0497,Student_497,Science,95.0,10B
+S0771,Student_771,English,89.0,11A
+S0221,Student_221,English,100.0,11B
+S0372,Student_372,History,74.0,11B
+S0977,Student_977,English,57.0,11A
+S0530,Student_530,History,70.0,10B
+S0590,Student_590,Science,71.0,10C
+S0172,Student_172,Mathematics,61.0,11A
+S0166,Student_166,Computer Science,65.0,12A
+S0452,Student_452,Science,83.0,11A
+S0321,Student_321,English,60.0,11A
+S0693,Student_693,History,,10C
+S0674,Student_674,English,,12A
+S0612,Student_612,History,51.0,10A
+S0556,Student_556,History,69.0,12A
+S0772,Student_772,English,78.0,10C
+S0884,Student_884,History,64.0,10C
+S0827,Student_827,Mathematics,66.0,10C
+S0064,Student_64,History,74.0,10C
+S0090,Student_90,English,55.0,10A
+S0254,Student_254,Computer Science,88.0,10A
+S0698,Student_698,Science,92.0,10B
+S0330,Student_330,History,87.0,12A
+S0606,Student_606,Mathematics,64.0,10B
+S0253,Student_253,Mathematics,78.0,10C
+S0146,Student_146,Science,70.0,12A
+S0870,Student_870,Science,69.0,11A
+S0701,Student_701,English,70.0,10B
+S0733,Student_733,Computer Science,87.0,10B
+S0475,Student_475,Science,61.0,10B
+S0173,Student_173,Computer Science,60.0,10A
+S0846,Student_846,Computer Science,70.0,11A
+S0127,Student_127,Mathematics,44.0,10B
+S0708,Student_708,English,57.0,11B
+S0385,Student_385,Science,81.0,10C
+S0053,Student_53,Science,69.0,10A
+S0062,Student_62,English,61.0,12A
+S0365,Student_365,Computer Science,72.0,10A
+S0310,Student_310,Mathematics,77.0,10B
+S0906,Student_906,Computer Science,61.0,11A
+S0272,Student_272,History,47.0,10A
+S0742,Student_742,Computer Science,70.0,11A
+S0998,Student_998,Science,66.0,10A
+S0646,Student_646,Science,57.0,10A
+S0463,Student_463,Mathematics,65.0,10A
+S0647,Student_647,Computer Science,50.0,10A
+S0568,Student_568,Computer Science,67.0,10A
+S0432,Student_432,Science,64.0,10B
+S0081,Student_81,Mathematics,46.0,10B
+S0449,Student_449,Mathematics,71.0,10C
+S0886,Student_886,Science,75.0,10C
+S0577,Student_577,History,76.0,12A
+S0594,Student_594,Computer Science,74.0,10C
+S0746,Student_746,History,52.0,10B
+S0412,Student_412,English,83.0,11B
+S0612,Student_612,Mathematics,57.0,10A
+S0265,Student_265,Mathematics,70.0,11B
+S0476,Student_476,Science,64.0,12A
+S0051,Student_51,History,85.0,11B
+S0456,Student_456,History,79.0,11B
+S0816,Student_816,Computer Science,65.0,11A
+S0345,Student_345,Science,66.0,11B
+S0417,Student_417,Computer Science,61.0,12A
+S0643,Student_643,Computer Science,81.0,10B
+S0404,Student_404,Computer Science,51.0,10C
+S0390,Student_390,Science,75.0,11A
+S0962,Student_962,History,91.0,11B
+S0034,Student_34,History,66.0,11B
+S0831,Student_831,History,58.0,11B
+S0784,Student_784,Computer Science,69.0,10A
+S0774,Student_774,English,94.0,11A
+S0059,Student_59,Computer Science,75.0,10A
+S0639,Student_639,English,100.0,11A
+S0111,Student_111,Science,67.0,11A
+S0637,Student_637,Mathematics,84.0,12A
+S0077,Student_77,Mathematics,57.0,10C
+S0440,Student_440,Mathematics,60.0,10A
+S0171,Student_171,Computer Science,91.0,10B
+S0436,Student_436,History,100.0,11B
+S0492,Student_492,English,73.0,12A
+S0080,Student_80,History,68.0,10C
+S0782,Student_782,History,78.0,10A
+S0978,Student_978,Computer Science,79.0,11A
+S0970,Student_970,Science,37.0,10B
+S0030,Student_30,Computer Science,74.0,11B
+S0797,Student_797,Computer Science,73.0,10B
+S0563,Student_563,English,96.0,12A
+S0099,Student_99,English,71.0,11A
+S0019,Student_19,Computer Science,64.0,10A
+S0400,Student_400,Mathematics,86.0,10C
+S0575,Student_575,English,38.0,10C
+S0725,Student_725,History,70.0,11A
+S0321,Student_321,Science,90.0,11A
+S0512,Student_512,History,74.0,10A
+S0135,Student_135,Mathematics,88.0,11B
+S0154,Student_154,Mathematics,59.0,11B
+S0300,Student_300,Science,100.0,10B
+S0862,Student_862,Mathematics,46.0,11A
+S0001,Student_1,Mathematics,77.0,12A
+S0686,Student_686,Mathematics,85.0,11A
+S0848,Student_848,Science,91.0,12A
+S0119,Student_119,Computer Science,85.0,12A
+S0880,Student_880,Computer Science,84.0,10C
+S0362,Student_362,Computer Science,83.0,10B
+S0489,Student_489,Science,90.0,11A
+S0465,Student_465,Mathematics,76.0,11B
+S0601,Student_601,English,63.0,10C
+S0694,Student_694,History,63.0,11B
+S0863,Student_863,Science,43.0,12A
+S0331,Student_331,Science,74.0,11A
+S0717,Student_717,History,51.0,10A
+S0895,Student_895,Science,89.0,10A
+S0943,Student_943,Science,78.0,10B
+S0420,Student_420,Science,80.0,10C
+S0504,Student_504,Mathematics,74.0,11A
+S0988,Student_988,Science,70.0,11A
+S0868,Student_868,Mathematics,60.0,10A
+S0688,Student_688,Mathematics,83.0,12A
+S0852,Student_852,Mathematics,85.0,11A
+S0470,Student_470,Mathematics,86.0,10A
+S0386,Student_386,Computer Science,99.0,11A
+S0991,Student_991,Mathematics,73.0,12A
+S0400,Student_400,Computer Science,58.0,10C
+S0917,Student_917,English,69.0,11B
+S0335,Student_335,Science,64.0,10B
+S0210,Student_210,Computer Science,90.0,10B
+S0757,Student_757,Computer Science,,11A
+S0638,Student_638,History,83.0,12A
+S0744,Student_744,Computer Science,68.0,10B
+S0984,Student_984,Computer Science,89.0,11A
+S0996,Student_996,Computer Science,36.0,11B
+S0237,Student_237,Computer Science,55.0,10A
+S0702,Student_702,English,69.0,12A
+S0327,Student_327,Computer Science,64.0,12A
+S0939,Student_939,Science,73.0,12A
+S0771,Student_771,History,53.0,11A
+S0568,Student_568,English,94.0,10A
+S0407,Student_407,Mathematics,82.0,11B
+S0782,Student_782,Science,89.0,10A
+S0764,Student_764,Computer Science,52.0,10C
+S0047,Student_47,History,60.0,11A
+S0608,Student_608,English,72.0,11A
+S0296,Student_296,Computer Science,63.0,11A
+S0125,Student_125,English,98.0,10C
+S0431,Student_431,Mathematics,67.0,10C
+S0186,Student_186,Science,61.0,10B
+S0300,Student_300,History,85.0,10B
+S0987,Student_987,Science,37.0,11A
+S0089,Student_89,History,68.0,12A
+S0092,Student_92,Mathematics,58.0,12A
+S0928,Student_928,History,39.0,12A
+S0860,Student_860,History,55.0,11A
+S0119,Student_119,Mathematics,71.0,12A
+S0346,Student_346,English,82.0,11A
+S0360,Student_360,Mathematics,58.0,10A
+S0369,Student_369,Mathematics,68.0,12A
+S0850,Student_850,English,100.0,12A
+S0551,Student_551,English,63.0,10A
+S0773,Student_773,Mathematics,63.0,10A
+S0267,Student_267,History,92.0,10B
+S0267,Student_267,English,66.0,10B
+S0207,Student_207,English,75.0,11A
+S0943,Student_943,History,75.0,10B
+S0868,Student_868,English,77.0,10A
+S0817,Student_817,Mathematics,79.0,11A
+S0467,Student_467,Mathematics,65.0,10B
+S0538,Student_538,History,81.0,12A
+S0754,Student_754,Computer Science,61.0,10A
+S0043,Student_43,Science,87.0,10B
+S0220,Student_220,History,83.0,10B
+S0412,Student_412,Computer Science,72.0,11B
+S0715,Student_715,Mathematics,65.0,11B
+S0389,Student_389,Science,64.0,10A
+S0067,Student_67,Science,56.0,12A
+S0072,Student_72,Computer Science,57.0,10C
+S0156,Student_156,English,66.0,11B
+S0885,Student_885,English,88.0,10C
+S0714,Student_714,English,86.0,11A
+S0004,Student_4,English,74.0,12A
+S0880,Student_880,Science,56.0,10C
+S0724,Student_724,English,65.0,11A
+S0719,Student_719,Mathematics,86.0,11A
+S0544,Student_544,Mathematics,38.0,11A
+S0768,Student_768,English,75.0,10C
+S0378,Student_378,History,62.0,10C
+S0064,Student_64,Science,80.0,10C
+S0385,Student_385,History,73.0,10C
+S0432,Student_432,Computer Science,78.0,10B
+S0802,Student_802,Computer Science,79.0,10B
+S0589,Student_589,Computer Science,74.0,11B
+S0571,Student_571,Mathematics,61.0,11B
+S0917,Student_917,Science,55.0,11B
+S0877,Student_877,Mathematics,72.0,10C
+S0913,Student_913,Computer Science,81.0,12A
+S0564,Student_564,History,75.0,10C
+S0840,Student_840,English,46.0,12A
+S0695,Student_695,History,54.0,10A
+S0725,Student_725,Computer Science,98.0,11A
+S0212,Student_212,English,87.0,12A
+S0047,Student_47,English,70.0,11A
+S0277,Student_277,Computer Science,81.0,11A
+S0679,Student_679,Mathematics,46.0,12A
+S0713,Student_713,Science,58.0,11A
+S0828,Student_828,Science,69.0,12A
+S0916,Student_916,English,97.0,12A
+S0279,Student_279,English,100.0,12A
+S0577,Student_577,Science,38.0,12A
+S0328,Student_328,Computer Science,53.0,11B
+S0854,Student_854,Mathematics,77.0,12A
+S0216,Student_216,Science,46.0,10C
+S0761,Student_761,Mathematics,49.0,10A
+S0387,Student_387,Computer Science,100.0,10C
+S0925,Student_925,English,56.0,11B
+S0712,Student_712,English,71.0,10B
+S0212,Student_212,History,78.0,12A
+S0073,Student_73,Mathematics,,10A
+S0636,Student_636,Mathematics,58.0,10B
+S0057,Student_57,English,93.0,10A
+S0818,Student_818,Computer Science,64.0,12A
+S0367,Student_367,Science,73.0,10A
+S0413,Student_413,History,68.0,10A
+S0705,Student_705,Computer Science,61.0,11A
+S0352,Student_352,History,94.0,10A
+S0104,Student_104,Computer Science,81.0,10B
+S0288,Student_288,Computer Science,81.0,10C
+S0812,Student_812,History,84.0,10A
+S0935,Student_935,Mathematics,79.0,12A
+S0394,Student_394,Mathematics,71.0,10A
+S0243,Student_243,Computer Science,65.0,11B
+S0869,Student_869,History,85.0,10C
+S0317,Student_317,Computer Science,76.0,10A
+S0406,Student_406,Mathematics,72.0,11A
+S0121,Student_121,Mathematics,81.0,11A
+S0864,Student_864,History,72.0,11B
+S0756,Student_756,Computer Science,68.0,12A
+S0244,Student_244,Mathematics,88.0,10B
+S0805,Student_805,Science,48.0,12A
+S0590,Student_590,Mathematics,52.0,10C
+S0174,Student_174,English,75.0,12A
+S0007,Student_7,Science,97.0,10B
+S0798,Student_798,History,98.0,11A
+S0232,Student_232,Mathematics,85.0,11B
+S0218,Student_218,History,66.0,11B
+S0393,Student_393,Mathematics,69.0,10A
+S0586,Student_586,History,93.0,12A
+S0642,Student_642,History,83.0,10B
+S0359,Student_359,Mathematics,41.0,11A
+S0269,Student_269,History,87.0,11A
+S0349,Student_349,Mathematics,68.0,10B
+S0338,Student_338,Science,63.0,12A
+S0580,Student_580,English,95.0,10B
+S0938,Student_938,English,55.0,10A
+S0974,Student_974,Mathematics,44.0,10A
+S0661,Student_661,History,54.0,12A
+S0628,Student_628,English,54.0,10B
+S0453,Student_453,Mathematics,76.0,11B
+S0523,Student_523,English,66.0,11A
+S0542,Student_542,Computer Science,93.0,11B
+S0587,Student_587,Mathematics,83.0,10B
+S0581,Student_581,Science,63.0,10B
+S0775,Student_775,Mathematics,49.0,10A
+S0760,Student_760,History,55.0,10B
+S0010,Student_10,Computer Science,43.0,10A
+S0717,Student_717,Mathematics,100.0,10A
+S0925,Student_925,Science,95.0,11B
+S0723,Student_723,Mathematics,70.0,10C
+S0441,Student_441,Science,67.0,12A
+S0173,Student_173,History,96.0,10A
+S0687,Student_687,Science,90.0,10A
+S0141,Student_141,Mathematics,62.0,11A
+S0264,Student_264,English,65.0,11B
+S0634,Student_634,English,72.0,12A
+S0804,Student_804,Computer Science,68.0,11B
+S0470,Student_470,Computer Science,64.0,10A
+S0574,Student_574,Science,57.0,11A
+S0638,Student_638,Mathematics,89.0,12A
+S0458,Student_458,Computer Science,91.0,10A
+S0815,Student_815,History,67.0,12A
+S0404,Student_404,History,79.0,10C
+S0042,Student_42,Science,77.0,10B
+S0263,Student_263,Computer Science,,12A
+S0485,Student_485,English,66.0,10B
+S0153,Student_153,Computer Science,87.0,11A
+S0624,Student_624,Science,67.0,10B
+S0561,Student_561,Mathematics,72.0,11A
+S0050,Student_50,Science,62.0,10C
+S0966,Student_966,English,81.0,10A
+S0936,Student_936,Mathematics,55.0,10B
+S0501,Student_501,English,65.0,10A
+S0731,Student_731,Computer Science,72.0,10B
+S0029,Student_29,History,72.0,12A
+S0434,Student_434,Computer Science,76.0,12A
+S0617,Student_617,Computer Science,67.0,11B
+S0458,Student_458,Science,81.0,10A
+S0008,Student_8,History,50.0,10B
+S0292,Student_292,Mathematics,43.0,10B
+S0887,Student_887,English,73.0,10C
+S0221,Student_221,Mathematics,84.0,11B
+S0236,Student_236,History,55.0,10B
+S0624,Student_624,Mathematics,73.0,10B
+S0677,Student_677,English,73.0,10C
+S0931,Student_931,Mathematics,66.0,10C
+S0785,Student_785,History,45.0,10A
+S0595,Student_595,History,99.0,10C
+S0191,Student_191,Mathematics,66.0,11B
+S0166,Student_166,Science,93.0,12A
+S0954,Student_954,Mathematics,73.0,10B
+S0055,Student_55,Computer Science,55.0,11A
+S0914,Student_914,Mathematics,61.0,10B
+S0894,Student_894,Science,82.0,10B
+S0980,Student_980,English,53.0,10C
+S0211,Student_211,History,73.0,10B
+S0831,Student_831,Mathematics,69.0,11B
+S0913,Student_913,History,73.0,12A
+S0153,Student_153,Mathematics,61.0,11A
+S0102,Student_102,Science,61.0,12A
+S0999,Student_999,English,68.0,10B
+S0044,Student_44,Science,58.0,10C
+S0205,Student_205,Computer Science,95.0,10A
+S0701,Student_701,Computer Science,62.0,10B
+S0442,Student_442,Mathematics,77.0,11A
+S0998,Student_998,Mathematics,94.0,10A
+S0965,Student_965,Computer Science,69.0,10A
+S0836,Student_836,English,74.0,12A
+S0562,Student_562,English,57.0,10A
+S0349,Student_349,Computer Science,56.0,10B
+S0869,Student_869,Mathematics,84.0,10C
+S0457,Student_457,Mathematics,44.0,10A
+S0348,Student_348,History,84.0,11B
+S0061,Student_61,Computer Science,69.0,10C
+S0922,Student_922,History,80.0,10C
+S0872,Student_872,Computer Science,80.0,11A
+S0850,Student_850,Science,72.0,12A
+S0742,Student_742,English,90.0,11A
+S0703,Student_703,Mathematics,88.0,10B
+S0839,Student_839,English,89.0,11B
+S0126,Student_126,History,70.0,10B
+S0623,Student_623,Computer Science,75.0,10B
+S0008,Student_8,English,40.0,10B
+S0051,Student_51,English,100.0,11B
+S0553,Student_553,Computer Science,73.0,11B
+S0877,Student_877,Computer Science,60.0,10C
+S0608,Student_608,Mathematics,76.0,11A
+S0723,Student_723,History,75.0,10C
+S0103,Student_103,Science,69.0,11B
+S0989,Student_989,Computer Science,96.0,10A
+S0437,Student_437,Mathematics,67.0,11A
+S0804,Student_804,Mathematics,61.0,11B
+S0628,Student_628,History,77.0,10B
+S0970,Student_970,Mathematics,77.0,10B
+S0507,Student_507,Mathematics,77.0,11A
+S0333,Student_333,History,60.0,10B
+S0953,Student_953,Computer Science,55.0,10A
+S0043,Student_43,History,79.0,10B
+S0668,Student_668,History,77.0,12A
+S0174,Student_174,History,79.0,12A
+S0151,Student_151,Mathematics,56.0,10A
+S0841,Student_841,Mathematics,73.0,10C
+S0551,Student_551,Computer Science,68.0,10A
+S0470,Student_470,History,80.0,10A
+S0396,Student_396,History,58.0,10B
+S0313,Student_313,Computer Science,81.0,11A
+S0149,Student_149,English,60.0,11A
+S0916,Student_916,Computer Science,82.0,12A
+S0036,Student_36,Science,70.0,10A
+S0531,Student_531,Mathematics,56.0,11B
+S0361,Student_361,Science,69.0,11B
+S0535,Student_535,Mathematics,59.0,11B
+S0569,Student_569,Computer Science,73.0,12A
+S0123,Student_123,History,53.0,11A
+S0081,Student_81,English,70.0,10B
+S0655,Student_655,Science,56.0,11B
+S0294,Student_294,Mathematics,78.0,11A
+S0722,Student_722,History,49.0,10C
+S0143,Student_143,Science,68.0,10A
+S0916,Student_916,Science,52.0,12A
+S0479,Student_479,Mathematics,42.0,10A
+S0121,Student_121,Science,56.0,11A
+S0799,Student_799,Computer Science,39.0,12A
+S0062,Student_62,Mathematics,71.0,12A
+S0774,Student_774,History,72.0,11A
+S0257,Student_257,English,80.0,10C
+S0659,Student_659,Computer Science,51.0,10B
+S0077,Student_77,Science,61.0,10C
+S0188,Student_188,Mathematics,62.0,10C
+S0241,Student_241,Science,63.0,11B
+S0858,Student_858,Mathematics,73.0,11B
+S0036,Student_36,Mathematics,82.0,10A
+S0433,Student_433,Mathematics,53.0,12A
+S0861,Student_861,English,55.0,11A
+S0073,Student_73,Computer Science,80.0,10A
+S0133,Student_133,English,69.0,11B
+S0834,Student_834,Computer Science,59.0,11B
+S0497,Student_497,Computer Science,61.0,10B
+S0914,Student_914,History,91.0,10B
+S0778,Student_778,Science,37.0,10A
+S0821,Student_821,History,83.0,11B
+S0735,Student_735,History,82.0,11A
+S0694,Student_694,English,71.0,11B
+S0845,Student_845,Science,82.0,10A
+S0138,Student_138,Mathematics,80.0,10B
+S0106,Student_106,English,70.0,10C
+S0718,Student_718,Mathematics,50.0,11B
+S0770,Student_770,Science,86.0,10C
+S0275,Student_275,English,49.0,10C
+S0197,Student_197,Computer Science,69.0,10A
+S0088,Student_88,Computer Science,69.0,12A
+S0121,Student_121,English,83.0,11A
+S0007,Student_7,Mathematics,60.0,10B
+S0321,Student_321,Computer Science,62.0,11A
+S0086,Student_86,Computer Science,43.0,10C
+S0826,Student_826,Mathematics,53.0,12A
+S0222,Student_222,Computer Science,98.0,12A
+S0058,Student_58,Mathematics,40.0,11A
+S0835,Student_835,Mathematics,46.0,11A
+S0400,Student_400,Science,69.0,10C
+S0928,Student_928,Mathematics,26.0,12A
+S0068,Student_68,Computer Science,61.0,10A
+S0158,Student_158,Mathematics,86.0,11B
+S0138,Student_138,Science,66.0,10B
+S0570,Student_570,Science,61.0,10C
+S0138,Student_138,Computer Science,76.0,10B
+S0257,Student_257,Computer Science,58.0,10C
+S0246,Student_246,Science,70.0,10A
+S0561,Student_561,Computer Science,68.0,11A
+S0927,Student_927,Science,61.0,10C
+S0983,Student_983,English,82.0,10C
+S0245,Student_245,Science,74.0,10A
+S0778,Student_778,English,67.0,10A
+S0692,Student_692,Science,86.0,10C
+S0181,Student_181,History,89.0,12A
+S0699,Student_699,English,77.0,11A
+S0027,Student_27,Science,71.0,12A
+S0471,Student_471,Science,,10C
+S0824,Student_824,English,41.0,10B
+S0828,Student_828,English,75.0,12A
+S0409,Student_409,Science,63.0,10C
+S0332,Student_332,English,89.0,10B
+S0348,Student_348,Science,54.0,11B
+S0626,Student_626,Science,41.0,10A
+S0730,Student_730,Computer Science,63.0,11B
+S0319,Student_319,History,83.0,11A
+S0599,Student_599,Science,79.0,11B
+S0074,Student_74,Science,73.0,10B
+S0452,Student_452,History,30.0,11A
+S0284,Student_284,Mathematics,83.0,10A
+S0440,Student_440,Computer Science,77.0,10A
+S0616,Student_616,Computer Science,66.0,12A
+S0377,Student_377,Science,94.0,12A
+S0459,Student_459,History,57.0,10A
+S0293,Student_293,Mathematics,67.0,11B
+S0896,Student_896,Mathematics,77.0,10B
+S0604,Student_604,Science,47.0,11A
+S0958,Student_958,Computer Science,67.0,10B
+S0901,Student_901,History,76.0,10B
+S0682,Student_682,Mathematics,32.0,11A
+S0048,Student_48,History,60.0,10A
+S0989,Student_989,Science,66.0,10A
+S0179,Student_179,English,86.0,11B
+S0331,Student_331,History,64.0,11A
+S0959,Student_959,Mathematics,66.0,10C
+S0685,Student_685,English,76.0,10C
+S0307,Student_307,English,74.0,11B
+S0883,Student_883,Mathematics,59.0,10B
+S0913,Student_913,Science,95.0,12A
+S0252,Student_252,English,76.0,10A
+S0509,Student_509,Science,51.0,10C
+S0617,Student_617,Science,72.0,11B
+S0511,Student_511,Mathematics,46.0,10B
+S0242,Student_242,Science,59.0,10B
+S0069,Student_69,History,62.0,10A
+S0960,Student_960,Computer Science,81.0,10A
+S0055,Student_55,Mathematics,91.0,11A
+S0089,Student_89,Science,69.0,12A
+S0298,Student_298,Science,48.0,10C
+S0637,Student_637,History,65.0,12A
+S0625,Student_625,English,77.0,10B
+S0170,Student_170,History,60.0,11A
+S0397,Student_397,English,60.0,11B
+S0822,Student_822,Computer Science,73.0,12A
+S0018,Student_18,Mathematics,62.0,10A
+S0034,Student_34,English,98.0,11B
+S0876,Student_876,Mathematics,79.0,11A
+S0918,Student_918,Mathematics,87.0,10C
+S0603,Student_603,Mathematics,68.0,11A
+S0547,Student_547,Science,95.0,10C
+S0227,Student_227,History,76.0,11A
+S0567,Student_567,Mathematics,44.0,12A
+S0824,Student_824,Science,66.0,10B
+S0650,Student_650,English,59.0,10B
+S0769,Student_769,History,49.0,11A
+S0202,Student_202,History,85.0,10B
+S0552,Student_552,Mathematics,63.0,11B
+S0675,Student_675,English,91.0,11A
+S0151,Student_151,History,85.0,10A
+S0982,Student_982,Mathematics,83.0,10A
+S0284,Student_284,History,92.0,10A
+S0979,Student_979,Mathematics,57.0,11A
+S0752,Student_752,Computer Science,69.0,11B
+S0825,Student_825,Computer Science,74.0,10A
+S0126,Student_126,Mathematics,62.0,10B
+S0010,Student_10,Science,63.0,10A
+S0829,Student_829,Science,94.0,11B
+S0470,Student_470,Science,62.0,10A
+S0363,Student_363,Science,72.0,11B
+S0669,Student_669,History,88.0,11B
+S0765,Student_765,English,69.0,10B
+S0124,Student_124,Science,71.0,10B
+S0488,Student_488,History,63.0,10B
+S0836,Student_836,Mathematics,77.0,12A
+S0414,Student_414,Computer Science,83.0,12A
+S0305,Student_305,English,66.0,10A
+S0240,Student_240,Mathematics,76.0,11B
+S0990,Student_990,English,49.0,11B
+S0110,Student_110,Mathematics,58.0,10C
+S0471,Student_471,English,80.0,10C
+S0711,Student_711,Science,46.0,10A
+S0216,Student_216,History,92.0,10C
+S0904,Student_904,Mathematics,56.0,12A
+S0630,Student_630,Computer Science,56.0,11B
+S0436,Student_436,Mathematics,100.0,11B
+S0006,Student_6,Computer Science,65.0,10B
+S0125,Student_125,Computer Science,93.0,10C
+S0198,Student_198,English,83.0,10C
+S0645,Student_645,English,90.0,12A
+S0168,Student_168,English,55.0,10A
+S0788,Student_788,Mathematics,75.0,10A
+S0002,Student_2,Computer Science,78.0,10A
+S0868,Student_868,History,39.0,10A
+S0428,Student_428,English,,11B
+S0711,Student_711,Mathematics,62.0,10A
+S0556,Student_556,English,66.0,12A
+S0052,Student_52,English,,10C
+S0081,Student_81,Computer Science,63.0,10B
+S0030,Student_30,English,50.0,11B
+S0789,Student_789,Science,88.0,11B
+S0938,Student_938,Computer Science,62.0,10A
+S0206,Student_206,Computer Science,54.0,12A
+S0389,Student_389,English,74.0,10A
+S0086,Student_86,Mathematics,90.0,10C
+S0462,Student_462,Science,79.0,11B
+S0810,Student_810,Mathematics,63.0,10A
+S0864,Student_864,English,86.0,11B
+S0537,Student_537,English,65.0,10C
+S0860,Student_860,English,71.0,11A
+S0730,Student_730,History,81.0,11B
+S0078,Student_78,Computer Science,61.0,11A
+S0528,Student_528,English,84.0,10A
+S0994,Student_994,Science,55.0,10B
+S0220,Student_220,Computer Science,75.0,10B
+S0295,Student_295,English,67.0,10B
+S0629,Student_629,Computer Science,76.0,11A
+S0988,Student_988,English,88.0,11A
+S0890,Student_890,Computer Science,92.0,10C
+S0486,Student_486,Computer Science,64.0,10B
+S0585,Student_585,English,67.0,12A
+S0005,Student_5,Mathematics,91.0,10C
+S0914,Student_914,Computer Science,70.0,10B
+S0217,Student_217,History,100.0,11B
+S0721,Student_721,Computer Science,81.0,10A
+S0755,Student_755,Computer Science,43.0,10A
+S0348,Student_348,Computer Science,95.0,11B
+S0440,Student_440,Science,76.0,10A
+S0686,Student_686,English,90.0,11A
+S0712,Student_712,Science,79.0,10B
+S0227,Student_227,English,94.0,11A
+S0199,Student_199,Science,39.0,10C
+S0490,Student_490,English,66.0,10A
+S0378,Student_378,English,76.0,10C
+S0165,Student_165,Computer Science,63.0,10C
+S0941,Student_941,Science,48.0,12A
+S0133,Student_133,History,61.0,11B
+S0208,Student_208,Science,51.0,10A
+S0470,Student_470,English,57.0,10A
+S0949,Student_949,Computer Science,94.0,11B
+S0438,Student_438,English,66.0,10C
+S0193,Student_193,Computer Science,68.0,11B
+S0193,Student_193,English,72.0,11B
+S0263,Student_263,English,90.0,12A
+S0182,Student_182,Mathematics,70.0,10C
+S0588,Student_588,History,45.0,11B
+S0272,Student_272,Computer Science,72.0,10A
+S0394,Student_394,English,67.0,10A
+S0276,Student_276,Science,59.0,11A
+S0279,Student_279,History,72.0,12A
+S0770,Student_770,Mathematics,82.0,10C
+S0809,Student_809,Science,81.0,10C
+S0787,Student_787,English,83.0,10B
+S0787,Student_787,Computer Science,70.0,10B
+S0544,Student_544,Science,79.0,11A
+S0451,Student_451,Computer Science,51.0,12A
+S0097,Student_97,English,45.0,10B
+S0309,Student_309,Science,96.0,10A
+S0621,Student_621,English,94.0,12A
+S0639,Student_639,Mathematics,63.0,11A
+S0104,Student_104,English,55.0,10B
+S0696,Student_696,Computer Science,90.0,10B
+S0183,Student_183,Science,73.0,12A
+S0628,Student_628,Computer Science,65.0,10B
+S0115,Student_115,Computer Science,82.0,11B
+S0343,Student_343,Computer Science,61.0,10A
+S0794,Student_794,Computer Science,89.0,12A
+S0002,Student_2,English,81.0,10A
+S0739,Student_739,History,85.0,10C
+S0715,Student_715,Science,89.0,11B
+S0471,Student_471,Computer Science,88.0,10C
+S0793,Student_793,English,70.0,11A
+S0705,Student_705,English,55.0,11A
+S0131,Student_131,Computer Science,100.0,10C
+S0163,Student_163,History,72.0,12A
+S0935,Student_935,Science,45.0,12A
+S0665,Student_665,Computer Science,86.0,10C
+S0380,Student_380,Science,66.0,10C
+S0591,Student_591,Mathematics,88.0,11A
+S0201,Student_201,Computer Science,80.0,10A
+S0049,Student_49,Mathematics,58.0,10C
+S0431,Student_431,Science,94.0,10C
+S0076,Student_76,Mathematics,58.0,11A
+S0185,Student_185,History,59.0,11B
+S0917,Student_917,Computer Science,67.0,11B
+S0609,Student_609,Science,72.0,12A
+S0667,Student_667,Mathematics,83.0,11B
+S0866,Student_866,Mathematics,85.0,10C
+S0075,Student_75,English,91.0,10A
+S0622,Student_622,English,78.0,10C
+S0402,Student_402,Science,70.0,10B
+S0258,Student_258,History,53.0,12A
+S0917,Student_917,Mathematics,73.0,11B
+S0547,Student_547,History,56.0,10C
+S0247,Student_247,Mathematics,61.0,12A
+S0639,Student_639,Science,80.0,11A
+S0192,Student_192,History,78.0,10A
+S0198,Student_198,Science,92.0,10C
+S0374,Student_374,History,53.0,10C
+S0339,Student_339,History,49.0,11B
+S0552,Student_552,History,53.0,11B
+S0565,Student_565,Computer Science,69.0,11B
+S0858,Student_858,Science,63.0,11B
+S0800,Student_800,English,65.0,10C
+S0058,Student_58,Computer Science,60.0,11A
+S0491,Student_491,Science,57.0,10B
+S0890,Student_890,History,,10C
+S0148,Student_148,English,84.0,12A
+S0658,Student_658,Computer Science,65.0,11A
+S0427,Student_427,Mathematics,76.0,10C
+S0700,Student_700,Computer Science,64.0,12A
+S0500,Student_500,Computer Science,75.0,12A
+S0261,Student_261,Mathematics,59.0,11B
+S0845,Student_845,English,69.0,10A
+S0044,Student_44,History,62.0,10C
+S0705,Student_705,Science,32.0,11A
+S0174,Student_174,Computer Science,100.0,12A
+S0101,Student_101,English,49.0,12A
+S0030,Student_30,History,77.0,11B
+S0011,Student_11,English,59.0,12A
+S0926,Student_926,History,86.0,10C
+S0890,Student_890,Mathematics,58.0,10C
+S0766,Student_766,Mathematics,87.0,11A
+S0515,Student_515,Computer Science,100.0,11A
+S0892,Student_892,Science,52.0,10A
+S0669,Student_669,English,54.0,11B
+S0363,Student_363,History,83.0,11B
+S0025,Student_25,Computer Science,78.0,11B
+S0354,Student_354,Mathematics,57.0,10A
+S0961,Student_961,Science,69.0,12A
+S0503,Student_503,English,78.0,10A
+S0861,Student_861,Mathematics,63.0,11A
+S0480,Student_480,History,73.0,10C
+S0234,Student_234,History,78.0,10A
+S0417,Student_417,Science,79.0,12A
+S0001,Student_1,Computer Science,66.0,12A
+S0392,Student_392,Computer Science,73.0,11B
+S0594,Student_594,Science,75.0,10C
+S0301,Student_301,Computer Science,67.0,10A
+S0545,Student_545,History,92.0,11B
+S0282,Student_282,Mathematics,58.0,12A
+S0374,Student_374,Mathematics,45.0,10C
+S0987,Student_987,English,93.0,11A
+S0903,Student_903,History,55.0,11A
+S0657,Student_657,Science,70.0,10A
+S0794,Student_794,English,41.0,12A
+S0314,Student_314,History,46.0,11A
+S0480,Student_480,Computer Science,71.0,10C
+S0301,Student_301,Mathematics,81.0,10A
+S0752,Student_752,Science,71.0,11B
+S0721,Student_721,Science,59.0,10A
+S0583,Student_583,English,59.0,12A
+S0463,Student_463,Science,96.0,10A
+S0647,Student_647,Science,39.0,10A
+S0477,Student_477,English,75.0,10B
+S0065,Student_65,Mathematics,71.0,11B
+S0545,Student_545,Computer Science,99.0,11B
+S0585,Student_585,History,69.0,12A
+S0178,Student_178,History,78.0,10B
+S0213,Student_213,Computer Science,64.0,11A
+S1000,Student_1000,Science,80.0,10A
+S0545,Student_545,Science,62.0,11B
+S0882,Student_882,History,78.0,11A
+S0829,Student_829,Mathematics,79.0,11B
+S0243,Student_243,English,59.0,11B
+S0776,Student_776,History,47.0,12A
+S0523,Student_523,Science,52.0,11A
+S0649,Student_649,Science,100.0,10B
+S0005,Student_5,Mathematics,91.0,10C
+S0648,Student_648,English,51.0,11A
+S0963,Student_963,Science,41.0,10B
+S0355,Student_355,Science,95.0,11B
+S0932,Student_932,Mathematics,100.0,10C
+S0444,Student_444,Computer Science,66.0,10A
+S0512,Student_512,Computer Science,83.0,10A
+S0365,Student_365,Science,71.0,10A
+S0872,Student_872,Mathematics,80.0,11A
+S0838,Student_838,English,59.0,10A
+S0814,Student_814,Computer Science,85.0,11B
+S0067,Student_67,English,71.0,12A
+S0617,Student_617,History,53.0,11B
+S0137,Student_137,History,77.0,10C
+S0774,Student_774,Mathematics,59.0,11A
+S0404,Student_404,Mathematics,67.0,10C
+S0555,Student_555,Mathematics,66.0,12A
+S0674,Student_674,Science,62.0,12A
+S0909,Student_909,Mathematics,54.0,10A
+S0320,Student_320,History,70.0,10A
+S0752,Student_752,Mathematics,40.0,11B
+S0915,Student_915,Science,65.0,10C
+S0744,Student_744,History,67.0,10B
+S0040,Student_40,English,72.0,10C
+S0818,Student_818,History,87.0,12A
+S0217,Student_217,Mathematics,64.0,11B
+S0528,Student_528,History,54.0,10A
+S0949,Student_949,History,76.0,11B
+S0231,Student_231,History,50.0,11A
+S0994,Student_994,Computer Science,91.0,10B
+S0683,Student_683,English,99.0,12A
+S0460,Student_460,Computer Science,47.0,12A
+S0228,Student_228,Science,87.0,12A
+S0075,Student_75,Science,77.0,10A
+S0539,Student_539,Science,66.0,10C
+S0199,Student_199,Mathematics,73.0,10C
+S0248,Student_248,History,78.0,12A
+S0821,Student_821,Science,58.0,11B
+S0031,Student_31,Mathematics,73.0,11A
+S0727,Student_727,Mathematics,78.0,12A
+S0859,Student_859,History,66.0,11B
+S0785,Student_785,Science,73.0,10A
+S0308,Student_308,Mathematics,46.0,10A
+S0685,Student_685,History,76.0,10C
+S0109,Student_109,Mathematics,82.0,10A
+S0510,Student_510,English,61.0,10B
+S0256,Student_256,English,75.0,10B
+S0664,Student_664,History,86.0,11B
+S0747,Student_747,English,39.0,11B
+S0770,Student_770,Computer Science,48.0,10C
+S0098,Student_98,Science,60.0,11A
+S0579,Student_579,Computer Science,77.0,11B
+S0446,Student_446,Mathematics,89.0,10C
+S0885,Student_885,Mathematics,90.0,10C
+S0685,Student_685,Mathematics,60.0,10C
+S0550,Student_550,Mathematics,65.0,11A
+S0337,Student_337,History,74.0,11B
+S0124,Student_124,History,77.0,10B
+S0441,Student_441,Mathematics,97.0,12A
+S0234,Student_234,Computer Science,82.0,10A
+S0078,Student_78,Science,75.0,11A
+S0977,Student_977,Mathematics,84.0,11A
+S0116,Student_116,History,47.0,12A
+S0223,Student_223,Mathematics,67.0,12A
+S0329,Student_329,English,68.0,12A
+S0719,Student_719,History,47.0,11A
+S0067,Student_67,Computer Science,84.0,12A
+S0931,Student_931,English,70.0,10C
+S0544,Student_544,History,61.0,11A
+S0919,Student_919,Computer Science,69.0,11A
+S0538,Student_538,Science,77.0,12A
+S0286,Student_286,Science,100.0,11A
+S0098,Student_98,Computer Science,83.0,11A
+S0273,Student_273,Mathematics,69.0,12A
+S0326,Student_326,English,89.0,12A
+S0268,Student_268,Science,60.0,11A
+S0043,Student_43,Mathematics,78.0,10B
+S0744,Student_744,English,100.0,10B
+S0367,Student_367,Mathematics,80.0,10A
+S0631,Student_631,Computer Science,54.0,10A
+S0136,Student_136,Science,53.0,11A
+S0771,Student_771,Computer Science,64.0,11A
+S0689,Student_689,English,72.0,10C
+S0202,Student_202,Science,,10B
+S0373,Student_373,History,43.0,10C
+S0956,Student_956,English,88.0,10B
+S0879,Student_879,Science,82.0,11A
+S0738,Student_738,History,89.0,11A
+S0852,Student_852,Computer Science,56.0,11A
+S0995,Student_995,English,54.0,10B
+S0157,Student_157,English,75.0,10C
+S0668,Student_668,Science,49.0,12A
+S0412,Student_412,Mathematics,57.0,11B
+S0582,Student_582,Science,63.0,11A
+S0126,Student_126,Science,55.0,10B
+S0360,Student_360,Science,65.0,10A
+S0578,Student_578,Mathematics,62.0,10C
+S0629,Student_629,Mathematics,82.0,11A
+S0849,Student_849,English,61.0,11A
+S0447,Student_447,History,83.0,10B
+S0339,Student_339,Mathematics,78.0,11B
+S0570,Student_570,Science,61.0,10C
+S0257,Student_257,History,84.0,10C
+S0037,Student_37,History,,10B
+S0264,Student_264,Computer Science,67.0,11B
+S0634,Student_634,Science,64.0,12A
+S0460,Student_460,English,91.0,12A
+S0729,Student_729,Computer Science,57.0,11B
+S0169,Student_169,History,75.0,10C
+S0886,Student_886,English,57.0,10C
+S0568,Student_568,Science,98.0,10A
+S0335,Student_335,English,64.0,10B
+S0614,Student_614,Computer Science,80.0,11B
+S0680,Student_680,English,92.0,10C
+S0289,Student_289,History,50.0,10A
+S0191,Student_191,History,91.0,11B
+S0477,Student_477,Science,55.0,10B
+S0908,Student_908,Science,73.0,10A
+S0392,Student_392,Mathematics,90.0,11B
+S0843,Student_843,English,81.0,11A
+S0179,Student_179,Mathematics,82.0,11B
+S0202,Student_202,Mathematics,75.0,10B
+S0153,Student_153,Science,71.0,11A
+S0845,Student_845,Computer Science,49.0,10A
+S0736,Student_736,Computer Science,68.0,11A
+S0494,Student_494,English,70.0,11A
+S0605,Student_605,Computer Science,41.0,12A
+S0094,Student_94,Science,79.0,11B
+S0393,Student_393,English,77.0,10A
+S0107,Student_107,History,51.0,10A
+S0159,Student_159,Science,73.0,10A
+S0767,Student_767,Mathematics,66.0,10C
+S0094,Student_94,Computer Science,61.0,11B
+S0066,Student_66,Computer Science,79.0,10B
+S0108,Student_108,Computer Science,61.0,10B
+S0960,Student_960,History,39.0,10A
+S0341,Student_341,Science,77.0,12A
+S0410,Student_410,Mathematics,86.0,11B
+S0753,Student_753,Science,69.0,12A
+S0140,Student_140,English,51.0,11B
+S0468,Student_468,Mathematics,78.0,11A
+S0506,Student_506,English,79.0,10B
+S0945,Student_945,Computer Science,68.0,12A
+S0320,Student_320,English,100.0,10A
+S0323,Student_323,Mathematics,65.0,11A
+S0128,Student_128,History,50.0,12A
+S0897,Student_897,Science,74.0,12A
+S0670,Student_670,English,93.0,11A
+S0879,Student_879,Mathematics,77.0,11A
+S0254,Student_254,Science,68.0,10A
+S0951,Student_951,History,63.0,11B
+S0106,Student_106,Computer Science,56.0,10C
+S0039,Student_39,History,51.0,11A
+S0251,Student_251,Science,82.0,10A
+S0931,Student_931,History,79.0,10C
+S0790,Student_790,Computer Science,50.0,10B
+S0521,Student_521,Science,79.0,12A
+S0857,Student_857,Science,47.0,10C
+S0757,Student_757,Mathematics,67.0,11A
+S0191,Student_191,Computer Science,68.0,11B
+S0333,Student_333,Computer Science,89.0,10B
+S0787,Student_787,Science,92.0,10B
+S0708,Student_708,History,69.0,11B
+S0067,Student_67,Mathematics,69.0,12A
+S0969,Student_969,Computer Science,87.0,12A
+S0873,Student_873,Computer Science,61.0,11B
+S0248,Student_248,Mathematics,94.0,12A
+S0031,Student_31,English,59.0,11A
+S0250,Student_250,English,58.0,10B
+S0083,Student_83,Science,53.0,10C
+S0602,Student_602,Mathematics,49.0,11A
+S0480,Student_480,Mathematics,48.0,10C
+S0314,Student_314,Science,71.0,11A
+S0271,Student_271,Computer Science,61.0,10A
+S0662,Student_662,Science,77.0,11B
+S0183,Student_183,Mathematics,65.0,12A
+S0950,Student_950,Science,72.0,11B
+S0084,Student_84,History,87.0,10B
+S0307,Student_307,Mathematics,72.0,11B
+S0574,Student_574,Mathematics,65.0,11A
+S0412,Student_412,History,73.0,11B
+S0756,Student_756,History,38.0,12A
+S0334,Student_334,Mathematics,69.0,10C
+S0138,Student_138,History,80.0,10B
+S0476,Student_476,History,63.0,12A
+S0860,Student_860,English,71.0,11A
+S0959,Student_959,Science,64.0,10C
+S0707,Student_707,Mathematics,92.0,10C
+S0309,Student_309,Computer Science,60.0,10A
+S0483,Student_483,History,56.0,11B
+S0677,Student_677,Mathematics,100.0,10C
+S0963,Student_963,Mathematics,81.0,10B
+S0521,Student_521,Computer Science,60.0,12A
+S0084,Student_84,Mathematics,58.0,10B
+S0886,Student_886,History,71.0,10C
+S0636,Student_636,English,62.0,10B
+S0560,Student_560,Computer Science,74.0,10C
+S0249,Student_249,History,54.0,10A
+S0386,Student_386,Mathematics,56.0,11A
+S0935,Student_935,History,54.0,12A
+S0257,Student_257,Science,67.0,10C
+S0514,Student_514,Science,55.0,10B
+S0019,Student_19,English,59.0,10A
+S0416,Student_416,Computer Science,63.0,10C
+S0231,Student_231,Science,37.0,11A
+S0473,Student_473,English,47.0,10A
+S0495,Student_495,Science,100.0,12A
+S0719,Student_719,Science,79.0,11A
+S0654,Student_654,Science,56.0,10A
+S0421,Student_421,English,56.0,10A
+S0299,Student_299,Science,100.0,11A
+S0294,Student_294,History,52.0,11A
+S0225,Student_225,History,52.0,12A
+S0075,Student_75,Mathematics,70.0,10A
+S0455,Student_455,Computer Science,53.0,11A
+S0456,Student_456,English,52.0,11B
+S0429,Student_429,Computer Science,66.0,10B
+S0846,Student_846,Science,98.0,11A
+S0068,Student_68,English,65.0,10A
+S0110,Student_110,Science,78.0,10C
+S0865,Student_865,Mathematics,69.0,10C
+S0445,Student_445,Computer Science,60.0,10A
+S0132,Student_132,Computer Science,67.0,12A
+S0477,Student_477,Mathematics,55.0,10B
+S0612,Student_612,Mathematics,57.0,10A
+S0631,Student_631,History,64.0,10A
+S0827,Student_827,English,86.0,10C
+S0720,Student_720,Computer Science,66.0,11A
+S0896,Student_896,Computer Science,85.0,10B
+S0215,Student_215,History,50.0,10B
+S0358,Student_358,English,58.0,10B
+S0273,Student_273,Science,78.0,12A
+S0965,Student_965,Science,67.0,10A
+S0393,Student_393,History,79.0,10A
+S0819,Student_819,History,73.0,10B
+S0261,Student_261,Computer Science,78.0,11B
+S0808,Student_808,Computer Science,59.0,10B
+S0336,Student_336,English,92.0,10A
+S0720,Student_720,Science,55.0,11A
+S0681,Student_681,English,72.0,11B
+S0343,Student_343,Science,68.0,10A
+S0783,Student_783,Computer Science,47.0,12A
+S0601,Student_601,Computer Science,78.0,10C
+S0482,Student_482,English,82.0,11A
+S0581,Student_581,English,61.0,10B
+S0124,Student_124,Computer Science,73.0,10B
+S0469,Student_469,Computer Science,37.0,10B
+S0616,Student_616,Science,81.0,12A
+S0462,Student_462,English,67.0,11B
+S0607,Student_607,Mathematics,32.0,11B
+S0897,Student_897,Computer Science,69.0,12A
+S0798,Student_798,Science,78.0,11A
+S0839,Student_839,Computer Science,34.0,11B
+S0170,Student_170,Computer Science,62.0,11A
+S0476,Student_476,English,50.0,12A
+S0765,Student_765,Computer Science,59.0,10B
+S0560,Student_560,Mathematics,57.0,10C
+S0581,Student_581,History,74.0,10B
+S0050,Student_50,Mathematics,64.0,10C
+S0395,Student_395,Mathematics,78.0,11B
+S0544,Student_544,English,83.0,11A
+S0032,Student_32,English,77.0,10B
+S0816,Student_816,Science,64.0,11A
+S0038,Student_38,History,57.0,12A
+S0716,Student_716,English,60.0,12A
+S0499,Student_499,History,91.0,10B
+S0438,Student_438,History,63.0,10C
+S0372,Student_372,Computer Science,73.0,11B
+S0992,Student_992,English,85.0,12A
+S0035,Student_35,Science,57.0,10C
+S0235,Student_235,Science,74.0,10B
+S0145,Student_145,History,81.0,10B
+S0814,Student_814,Science,72.0,11B
+S0334,Student_334,English,62.0,10C
+S0603,Student_603,History,49.0,11A
+S0302,Student_302,Science,80.0,11A
+S0214,Student_214,English,87.0,11B
+S0905,Student_905,History,100.0,12A
+S0526,Student_526,History,63.0,10C
+S0514,Student_514,Computer Science,66.0,10B
+S0642,Student_642,Science,58.0,10B
+S0991,Student_991,Computer Science,74.0,12A
+S0422,Student_422,Mathematics,94.0,10A
+S0631,Student_631,Science,64.0,10A
+S0728,Student_728,Computer Science,76.0,12A
+S0086,Student_86,History,85.0,10C
+S0100,Student_100,History,,10C
+S0042,Student_42,Computer Science,100.0,10B
+S0204,Student_204,Science,60.0,10A
+S0901,Student_901,Computer Science,66.0,10B
+S0823,Student_823,English,93.0,12A
+S0472,Student_472,Computer Science,76.0,10C
+S0135,Student_135,History,64.0,11B
+S0966,Student_966,History,83.0,10A
+S0260,Student_260,History,74.0,10B
+S0957,Student_957,Computer Science,100.0,10C
+S0565,Student_565,Mathematics,65.0,11B
+S0141,Student_141,History,48.0,11A
+S0667,Student_667,English,93.0,11B
+S0559,Student_559,Science,61.0,10B
+S0078,Student_78,History,84.0,11A
+S0969,Student_969,Mathematics,57.0,12A
+S0318,Student_318,Mathematics,80.0,10B
+S0672,Student_672,History,76.0,11A
+S0266,Student_266,Science,55.0,11A
+S0980,Student_980,Science,44.0,10C
+S0528,Student_528,Computer Science,75.0,10A
+S0184,Student_184,Mathematics,74.0,11B
+S0453,Student_453,Science,76.0,11B
+S0250,Student_250,Mathematics,51.0,10B
+S0331,Student_331,Mathematics,78.0,11A
+S0537,Student_537,Science,65.0,10C
+S0849,Student_849,Computer Science,70.0,11A
+S0168,Student_168,Computer Science,66.0,10A
+S0088,Student_88,Mathematics,71.0,12A
+S0285,Student_285,Science,86.0,10A
+S0863,Student_863,History,75.0,12A
+S0189,Student_189,Science,83.0,10B
+S0571,Student_571,English,,11B
+S0513,Student_513,English,56.0,12A
+S0696,Student_696,Science,84.0,10B
+S0640,Student_640,History,64.0,11A
+S0363,Student_363,Mathematics,62.0,11B
+S0229,Student_229,Mathematics,65.0,12A
+S0893,Student_893,Science,97.0,11B
+S0012,Student_12,History,74.0,12A
+S0927,Student_927,Computer Science,59.0,10C
+S0107,Student_107,Science,45.0,10A
+S0675,Student_675,History,97.0,11A
+S0513,Student_513,History,73.0,12A
+S0534,Student_534,Mathematics,49.0,10A
+S0568,Student_568,Mathematics,65.0,10A
+S0855,Student_855,Science,62.0,11B
+S0433,Student_433,Computer Science,93.0,12A
+S0355,Student_355,English,60.0,11B
+S0900,Student_900,Science,57.0,11B
+S0553,Student_553,English,83.0,11B
+S0057,Student_57,Mathematics,71.0,10A
+S0511,Student_511,History,75.0,10B
+S0962,Student_962,English,79.0,11B
+S0472,Student_472,Mathematics,73.0,10C
+S0449,Student_449,Science,78.0,10C
+S0167,Student_167,Computer Science,69.0,10C
+S0329,Student_329,History,76.0,12A
+S0378,Student_378,Computer Science,69.0,10C
+S0136,Student_136,History,84.0,11A
+S0509,Student_509,English,66.0,10C
+S0642,Student_642,Computer Science,76.0,10B
+S0719,Student_719,Computer Science,88.0,11A
+S0600,Student_600,Science,73.0,12A
+S0740,Student_740,Science,61.0,12A
+S0064,Student_64,English,65.0,10C
+S0639,Student_639,History,60.0,11A
+S0973,Student_973,Mathematics,62.0,10A
+S0226,Student_226,Computer Science,74.0,10C
+S0766,Student_766,History,87.0,11A
+S0743,Student_743,English,74.0,12A
+S0136,Student_136,Computer Science,89.0,11A
+S0116,Student_116,Mathematics,36.0,12A
+S0320,Student_320,Science,79.0,10A
+S0271,Student_271,English,78.0,10A
+S0781,Student_781,English,95.0,12A
+S0441,Student_441,Computer Science,55.0,12A
+S0209,Student_209,Computer Science,67.0,11B
+S0831,Student_831,Computer Science,84.0,11B
+S0836,Student_836,Computer Science,64.0,12A
+S0220,Student_220,Science,71.0,10B
+S0102,Student_102,Mathematics,62.0,12A
+S0572,Student_572,English,66.0,10C
+S0504,Student_504,English,36.0,11A
+S0287,Student_287,English,82.0,12A
+S0617,Student_617,Mathematics,88.0,11B
+S0801,Student_801,Science,69.0,10C
+S0429,Student_429,English,72.0,10B
+S0419,Student_419,History,52.0,10B
+S0495,Student_495,History,49.0,12A
+S0675,Student_675,Science,52.0,11A
+S0862,Student_862,English,80.0,11A
+S0848,Student_848,History,91.0,12A
+S0991,Student_991,English,81.0,12A
+S0123,Student_123,Mathematics,79.0,11A
+S0656,Student_656,Mathematics,90.0,10B
+S0160,Student_160,History,70.0,12A
+S0161,Student_161,Computer Science,63.0,12A
+S0795,Student_795,English,75.0,10A
+S0485,Student_485,Science,87.0,10B
+S0458,Student_458,English,66.0,10A
+S0357,Student_357,Computer Science,71.0,12A
+S0115,Student_115,Mathematics,70.0,11B
+S0850,Student_850,Computer Science,,12A
+S0373,Student_373,Science,82.0,10C
+S0690,Student_690,History,64.0,10B
+S0110,Student_110,History,75.0,10C
+S0221,Student_221,Computer Science,86.0,11B
+S0399,Student_399,Mathematics,82.0,10B
+S0281,Student_281,History,80.0,12A
+S1000,Student_1000,Computer Science,57.0,10A
+S0753,Student_753,Mathematics,74.0,12A
+S0803,Student_803,English,55.0,11B
+S0039,Student_39,Science,82.0,11A
+S0858,Student_858,English,72.0,11B
+S0789,Student_789,Computer Science,63.0,11B
+S0190,Student_190,History,69.0,11B
+S0584,Student_584,Computer Science,,11A
+S0701,Student_701,Science,60.0,10B
+S0968,Student_968,English,58.0,10C
+S0088,Student_88,Science,94.0,12A
+S0907,Student_907,Computer Science,81.0,11A
+S0090,Student_90,History,62.0,10A
+S0604,Student_604,English,27.0,11A
+S0418,Student_418,Computer Science,91.0,10A
+S0606,Student_606,Computer Science,70.0,10B
+S0933,Student_933,History,62.0,10B
+S0235,Student_235,English,71.0,10B
+S0902,Student_902,English,73.0,12A
+S0226,Student_226,English,58.0,10C
+S0557,Student_557,Mathematics,83.0,12A
+S0360,Student_360,Computer Science,70.0,10A
+S0870,Student_870,Mathematics,70.0,11A
+S0478,Student_478,English,56.0,12A
+S0607,Student_607,Computer Science,70.0,11B
+S0413,Student_413,Mathematics,82.0,10A
+S0745,Student_745,English,45.0,11A
+S0968,Student_968,Computer Science,60.0,10C
+S0881,Student_881,Science,86.0,10B
+S0689,Student_689,Science,60.0,10C
+S0793,Student_793,History,81.0,11A
+S0234,Student_234,English,78.0,10A
+S0527,Student_527,Mathematics,74.0,10A
+S0858,Student_858,History,92.0,11B
+S0185,Student_185,English,71.0,11B
+S0089,Student_89,Computer Science,50.0,12A
+S0468,Student_468,English,70.0,11A
+S0453,Student_453,History,53.0,11B
+S0630,Student_630,Mathematics,77.0,11B
+S0653,Student_653,Mathematics,66.0,11A
+S0929,Student_929,English,66.0,11A
+S0562,Student_562,Computer Science,61.0,10A
+S0170,Student_170,Mathematics,77.0,11A
+S0017,Student_17,Science,75.0,10A
+S0775,Student_775,Science,72.0,10A
+S0355,Student_355,Computer Science,58.0,11B
+S0590,Student_590,English,25.0,10C
+S0569,Student_569,Mathematics,74.0,12A
+S0323,Student_323,History,68.0,11A
+S0524,Student_524,Mathematics,80.0,12A
+S0786,Student_786,History,52.0,10B
+S0036,Student_36,English,91.0,10A
+S0484,Student_484,English,75.0,12A
+S0046,Student_46,Computer Science,80.0,10A
+S0713,Student_713,Mathematics,73.0,11A
+S0172,Student_172,History,61.0,11A
+S0817,Student_817,Science,59.0,11A
+S0303,Student_303,Science,67.0,11B
+S0189,Student_189,Computer Science,97.0,10B
+S0789,Student_789,English,61.0,11B
+S0347,Student_347,Computer Science,81.0,11B
+S0359,Student_359,English,67.0,11A
+S0650,Student_650,Computer Science,42.0,10B
+S0827,Student_827,Science,70.0,10C
+S0095,Student_95,History,90.0,12A
+S0249,Student_249,Mathematics,64.0,10A
+S0370,Student_370,Science,88.0,11B
+S0556,Student_556,Computer Science,77.0,12A
+S0762,Student_762,English,40.0,10C
+S0566,Student_566,English,69.0,10C
+S0165,Student_165,History,64.0,10C
+S0152,Student_152,Science,77.0,11A
+S0049,Student_49,Computer Science,51.0,10C
+S0123,Student_123,Computer Science,100.0,11A
+S0266,Student_266,English,67.0,11A
+S0720,Student_720,English,85.0,11A
+S0684,Student_684,History,50.0,10B
+S0380,Student_380,English,93.0,10C
+S0095,Student_95,Mathematics,65.0,12A
+S0912,Student_912,Science,54.0,11A
+S0337,Student_337,Science,69.0,11B
+S0291,Student_291,English,73.0,10B
+S0156,Student_156,Mathematics,46.0,11B
+S0422,Student_422,Computer Science,79.0,10A
+S0791,Student_791,Science,57.0,10B
+S0708,Student_708,Science,80.0,11B
+S0561,Student_561,Mathematics,72.0,11A
+S0274,Student_274,Mathematics,67.0,11A
+S0927,Student_927,History,82.0,10C
+S0592,Student_592,Science,83.0,11B
+S0911,Student_911,English,83.0,10B
+S0296,Student_296,English,76.0,11A
+S0469,Student_469,History,62.0,10B
+S0060,Student_60,Computer Science,79.0,11B
+S0222,Student_222,English,54.0,12A
+S0171,Student_171,Mathematics,60.0,10B
+S0950,Student_950,History,56.0,11B
+S0565,Student_565,English,69.0,11B
+S0815,Student_815,Science,,12A
+S0726,Student_726,Science,57.0,11B
+S0450,Student_450,Science,56.0,10B
+S0734,Student_734,English,78.0,10C
+S0607,Student_607,Science,60.0,11B
+S0322,Student_322,History,74.0,10C
+S0824,Student_824,History,63.0,10B
+S0930,Student_930,English,69.0,10C
+S0002,Student_2,History,62.0,10A
+S0969,Student_969,History,67.0,12A
+S0343,Student_343,Science,68.0,10A
+S0809,Student_809,Mathematics,73.0,10C
+S0144,Student_144,Science,71.0,10A
+S0564,Student_564,English,75.0,10C
+S0554,Student_554,Mathematics,82.0,12A
+S0849,Student_849,English,61.0,11A
+S0413,Student_413,Computer Science,73.0,10A
+S0274,Student_274,Computer Science,56.0,11A
+S0761,Student_761,Science,45.0,10A
+S0281,Student_281,Computer Science,84.0,12A
+S0620,Student_620,English,78.0,10B
+S0866,Student_866,Computer Science,63.0,10C
+S0637,Student_637,English,53.0,12A
+S0277,Student_277,Mathematics,80.0,11A
+S0563,Student_563,Science,60.0,12A
+S0155,Student_155,Computer Science,79.0,11A
+S0460,Student_460,Science,76.0,12A
+S0732,Student_732,English,38.0,11A
+S0742,Student_742,Science,62.0,11A
+S0239,Student_239,Mathematics,71.0,10A
+S0391,Student_391,History,60.0,11B
+S0204,Student_204,History,65.0,10A
+S0132,Student_132,History,72.0,12A
+S0158,Student_158,Computer Science,45.0,11B
+S0948,Student_948,English,70.0,12A
+S0703,Student_703,English,95.0,10B
+S0757,Student_757,History,52.0,11A
+S0454,Student_454,History,62.0,12A
+S0679,Student_679,English,68.0,12A
+S0699,Student_699,Science,66.0,11A
+S0649,Student_649,Mathematics,70.0,10B
+S0499,Student_499,English,62.0,10B
+S0964,Student_964,History,79.0,10C
+S0665,Student_665,Mathematics,72.0,10C
+S0929,Student_929,Science,71.0,11A
+S0384,Student_384,Computer Science,62.0,12A
+S0618,Student_618,English,88.0,10C
+S0021,Student_21,Mathematics,48.0,10B
+S0503,Student_503,Mathematics,77.0,10A
+S0496,Student_496,History,49.0,12A
+S0240,Student_240,English,78.0,11B
+S0525,Student_525,History,91.0,11B
+S0382,Student_382,Computer Science,72.0,10B
+S0350,Student_350,Computer Science,85.0,10A
+S0288,Student_288,Computer Science,81.0,10C
+S0362,Student_362,History,46.0,10B
+S0306,Student_306,Computer Science,53.0,12A
+S0258,Student_258,Science,42.0,12A
+S0053,Student_53,History,54.0,10A
+S0853,Student_853,English,81.0,10B
+S0426,Student_426,Mathematics,78.0,10C
+S0409,Student_409,Computer Science,57.0,10C
+S0315,Student_315,Science,51.0,10B
+S0037,Student_37,Computer Science,66.0,10B
+S0369,Student_369,History,71.0,12A
+S0019,Student_19,Science,84.0,10A
+S0328,Student_328,Science,55.0,11B
+S0386,Student_386,History,86.0,11A
+S0275,Student_275,Mathematics,67.0,10C
+S0619,Student_619,Mathematics,42.0,10A
+S0288,Student_288,Science,66.0,10C
+S0370,Student_370,Mathematics,54.0,11B
+S0275,Student_275,Computer Science,92.0,10C
+S0384,Student_384,Science,58.0,12A
+S0828,Student_828,History,83.0,12A
+S0912,Student_912,Mathematics,65.0,11A
+S0826,Student_826,English,96.0,12A
+S0141,Student_141,Computer Science,46.0,11A
+S0902,Student_902,Computer Science,68.0,12A
+S0100,Student_100,English,67.0,10C
+S0578,Student_578,English,90.0,10C
+S0970,Student_970,English,62.0,10B
+S0959,Student_959,History,73.0,10C
+S0877,Student_877,Science,72.0,10C
+S0761,Student_761,History,72.0,10A
+S0146,Student_146,Mathematics,,12A
+S0499,Student_499,Mathematics,69.0,10B
+S0971,Student_971,Computer Science,87.0,12A
+S0396,Student_396,Science,86.0,10B
+S0289,Student_289,English,72.0,10A
+S0912,Student_912,Computer Science,79.0,11A
+S0462,Student_462,Computer Science,83.0,11B
+S0710,Student_710,Computer Science,69.0,11A
+S0354,Student_354,Science,100.0,10A
+S0486,Student_486,English,69.0,10B
+S0315,Student_315,History,49.0,10B
+S0298,Student_298,History,47.0,10C
+S0469,Student_469,Mathematics,80.0,10B
+S0625,Student_625,History,64.0,10B
+S0535,Student_535,History,61.0,11B
+S0514,Student_514,English,79.0,10B
+S0424,Student_424,History,31.0,11B
+S0291,Student_291,Science,95.0,10B
+S0940,Student_940,History,71.0,11B
+S0252,Student_252,Computer Science,69.0,10A
+S0010,Student_10,Mathematics,59.0,10A
+S0352,Student_352,Mathematics,90.0,10A
+S0332,Student_332,Mathematics,65.0,10B
+S0573,Student_573,Science,77.0,12A
+S0507,Student_507,Science,56.0,11A
+S0437,Student_437,History,90.0,11A
+S0122,Student_122,Computer Science,92.0,12A
+S0665,Student_665,English,46.0,10C
+S0234,Student_234,Mathematics,100.0,10A
+S0505,Student_505,Science,100.0,10B
+S0295,Student_295,History,70.0,10B
+S0519,Student_519,Science,63.0,10C
+S0773,Student_773,Science,58.0,10A
+S0426,Student_426,Science,52.0,10C
+S0551,Student_551,Mathematics,96.0,10A
+S0693,Student_693,Computer Science,72.0,10C
+S0203,Student_203,Science,72.0,11B
+S0591,Student_591,English,77.0,11A
+S0418,Student_418,History,63.0,10A
+S0496,Student_496,Science,66.0,12A
+S0197,Student_197,Science,76.0,10A
+S0942,Student_942,Science,91.0,10B
+S0652,Student_652,English,59.0,11B
+S0700,Student_700,Mathematics,99.0,12A
+S0992,Student_992,Computer Science,77.0,12A
+S0250,Student_250,Science,70.0,10B
+S0161,Student_161,Mathematics,84.0,12A
+S0415,Student_415,Computer Science,60.0,11B
+S0297,Student_297,History,64.0,10B
+S0276,Student_276,Computer Science,97.0,11A
+S0290,Student_290,Science,62.0,10B
+S0659,Student_659,Mathematics,91.0,10B
+S0183,Student_183,Computer Science,68.0,12A
+S0955,Student_955,Computer Science,35.0,10C
+S0575,Student_575,Mathematics,60.0,10C
+S0304,Student_304,Science,92.0,10A
+S0068,Student_68,History,76.0,10A
+S0357,Student_357,Science,68.0,12A
+S0796,Student_796,Science,77.0,11B
+S0930,Student_930,Computer Science,66.0,10C
+S0184,Student_184,Science,79.0,11B
+S0487,Student_487,English,69.0,10B
+S0304,Student_304,Computer Science,97.0,10A
+S0678,Student_678,English,71.0,10B
+S0494,Student_494,History,80.0,11A
+S0178,Student_178,Science,78.0,10B
+S0644,Student_644,English,62.0,12A
+S0405,Student_405,Computer Science,24.0,10B
+S0763,Student_763,History,71.0,11A
+S0160,Student_160,Science,69.0,12A
+S0036,Student_36,Computer Science,100.0,10A
+S0524,Student_524,Computer Science,91.0,12A
+S0981,Student_981,English,54.0,10B
+S0622,Student_622,Computer Science,41.0,10C
+S0350,Student_350,History,72.0,10A
+S0003,Student_3,Science,63.0,10A
+S0225,Student_225,English,79.0,12A
+S0621,Student_621,Science,82.0,12A
+S0017,Student_17,Computer Science,57.0,10A
+S0654,Student_654,English,64.0,10A
+S0006,Student_6,Science,52.0,10B
+S0572,Student_572,Mathematics,62.0,10C
+S0620,Student_620,Computer Science,78.0,10B
+S0159,Student_159,History,50.0,10A
+S0547,Student_547,English,78.0,10C
+S0595,Student_595,Science,68.0,10C
+S0142,Student_142,Computer Science,95.0,10A
+S0867,Student_867,Science,52.0,10B
+S0953,Student_953,History,75.0,10A
+S0321,Student_321,Mathematics,67.0,11A
+S0919,Student_919,Science,72.0,11A
+S0730,Student_730,Science,73.0,11B
+S0855,Student_855,English,49.0,11B
+S0313,Student_313,Science,58.0,11A
+S0447,Student_447,Science,81.0,10B
+S0319,Student_319,Mathematics,53.0,11A
+S0611,Student_611,History,58.0,12A
+S0764,Student_764,Science,64.0,10C
+S0990,Student_990,History,64.0,11B
+S0319,Student_319,English,76.0,11A
+S0090,Student_90,Mathematics,80.0,10A
+S0924,Student_924,Mathematics,65.0,12A
+S0875,Student_875,Computer Science,84.0,12A
+S0645,Student_645,Science,81.0,12A
+S0737,Student_737,Science,64.0,10A
+S0461,Student_461,History,73.0,10B
+S0710,Student_710,Science,80.0,11A
+S0666,Student_666,Mathematics,77.0,11A
+S0481,Student_481,Computer Science,95.0,11B
+S0746,Student_746,English,86.0,10B
+S0674,Student_674,Computer Science,71.0,12A
+S0543,Student_543,History,49.0,10A
+S0591,Student_591,Science,81.0,11A
+S0792,Student_792,Computer Science,72.0,10B
+S0381,Student_381,Computer Science,68.0,11A
+S0014,Student_14,History,75.0,10A
+S0342,Student_342,Science,80.0,10C
+S0408,Student_408,History,69.0,12A
+S0087,Student_87,Computer Science,92.0,12A
+S0506,Student_506,History,100.0,10B
+S0844,Student_844,Science,97.0,11A
+S0305,Student_305,History,55.0,10A
+S0496,Student_496,Computer Science,80.0,12A
+S0958,Student_958,Computer Science,67.0,10B
+S0567,Student_567,Computer Science,66.0,12A
+S0441,Student_441,History,50.0,12A
+S0690,Student_690,Mathematics,52.0,10B
+S0102,Student_102,Computer Science,57.0,12A
+S0857,Student_857,Mathematics,100.0,10C
+S0754,Student_754,English,89.0,10A
+S0061,Student_61,Science,61.0,10C
+S0113,Student_113,Science,100.0,10A
+S0926,Student_926,English,59.0,10C
+S0107,Student_107,Mathematics,79.0,10A
+S0583,Student_583,Science,75.0,12A
+S0135,Student_135,English,64.0,11B
+S0149,Student_149,History,70.0,11A
+S0227,Student_227,Computer Science,66.0,11A
+S0114,Student_114,Mathematics,63.0,10B
+S0444,Student_444,Mathematics,73.0,10A
+S0648,Student_648,History,72.0,11A
+S0852,Student_852,English,91.0,11A
+S0187,Student_187,English,48.0,10B
+S0039,Student_39,Mathematics,63.0,11A
+S0540,Student_540,Science,86.0,11A
+S0611,Student_611,English,65.0,12A
+S0738,Student_738,Mathematics,57.0,11A
+S0697,Student_697,Computer Science,54.0,10B
+S0304,Student_304,English,79.0,10A
+S0352,Student_352,English,84.0,10A
+S0668,Student_668,English,67.0,12A
+S0274,Student_274,History,63.0,11A
+S0841,Student_841,Computer Science,71.0,10C
+S0804,Student_804,History,62.0,11B
+S0310,Student_310,English,74.0,10B
+S0517,Student_517,Computer Science,86.0,10C
+S0605,Student_605,English,63.0,12A
+S0802,Student_802,History,62.0,10B
+S0505,Student_505,Mathematics,72.0,10B
+S0364,Student_364,History,66.0,11B
+S0378,Student_378,Mathematics,74.0,10C
+S0071,Student_71,History,,10B
+S0258,Student_258,Mathematics,50.0,12A
+S0429,Student_429,History,73.0,10B
+S0217,Student_217,English,65.0,11B
+S0251,Student_251,History,75.0,10A
+S0127,Student_127,History,63.0,10B
+S0388,Student_388,Mathematics,47.0,10A
+S0802,Student_802,Science,29.0,10B
+S0188,Student_188,History,73.0,10C
+S0495,Student_495,Mathematics,86.0,12A
+S0799,Student_799,Science,62.0,12A
+S0690,Student_690,English,57.0,10B
+S0658,Student_658,Mathematics,92.0,11A
+S0238,Student_238,Mathematics,84.0,10C
+S0156,Student_156,History,68.0,11B
+S0738,Student_738,History,89.0,11A
+S0236,Student_236,Science,44.0,10B
+S0068,Student_68,Mathematics,67.0,10A
+S0435,Student_435,Mathematics,84.0,10C
+S0353,Student_353,History,45.0,10B
+S0513,Student_513,Computer Science,56.0,12A
+S0584,Student_584,History,71.0,11A
+S0920,Student_920,Mathematics,72.0,11B
+S0951,Student_951,Science,66.0,11B
+S0596,Student_596,History,78.0,10B
+S0801,Student_801,English,70.0,10C
+S0428,Student_428,History,51.0,11B
+S0187,Student_187,Science,98.0,10B
+S0763,Student_763,Science,76.0,11A
+S0459,Student_459,Science,84.0,10A
+S0944,Student_944,Science,100.0,10B
+S0721,Student_721,History,70.0,10A
+S0855,Student_855,Mathematics,68.0,11B
+S0828,Student_828,Mathematics,64.0,12A
+S0503,Student_503,History,66.0,10A
+S0120,Student_120,English,55.0,11A
+S0332,Student_332,Computer Science,87.0,10B
+S0415,Student_415,Mathematics,84.0,11B
+S0759,Student_759,History,66.0,11A
+S0954,Student_954,Computer Science,81.0,10B
+S0169,Student_169,English,53.0,10C
+S0596,Student_596,English,57.0,10B
+S0806,Student_806,Science,58.0,12A
+S0817,Student_817,English,95.0,11A
+S0932,Student_932,History,73.0,10C
+S0419,Student_419,Science,74.0,10B
+S0920,Student_920,Computer Science,89.0,11B
+S0613,Student_613,History,62.0,10C
+S0031,Student_31,Science,75.0,11A
+S0200,Student_200,Computer Science,78.0,10B
+S0956,Student_956,Mathematics,81.0,10B
+S0562,Student_562,History,83.0,10A
+S0853,Student_853,Computer Science,69.0,10B
+S0779,Student_779,Mathematics,80.0,10C
+S0527,Student_527,History,74.0,10A
+S0660,Student_660,English,55.0,11A
+S0713,Student_713,History,87.0,11A
+S0322,Student_322,English,94.0,10C
+S0645,Student_645,Mathematics,54.0,12A
+S0821,Student_821,Mathematics,47.0,11B
+S0248,Student_248,Science,95.0,12A
+S0581,Student_581,Mathematics,69.0,10B
+S0538,Student_538,Mathematics,74.0,12A
+S0484,Student_484,Mathematics,74.0,12A
+S0003,Student_3,Computer Science,44.0,10A
+S0559,Student_559,English,63.0,10B
+S0586,Student_586,English,73.0,12A
+S0615,Student_615,Science,95.0,12A
+S0899,Student_899,Science,55.0,11A
+S0228,Student_228,History,78.0,12A
+S0338,Student_338,Computer Science,66.0,12A
+S0976,Student_976,History,59.0,10C
+S0106,Student_106,Mathematics,42.0,10C
+S0020,Student_20,History,70.0,10B
+S0522,Student_522,Science,60.0,11B
+S0572,Student_572,History,87.0,10C
+S0795,Student_795,Mathematics,64.0,10A
+S0002,Student_2,Mathematics,66.0,10A
+S0633,Student_633,History,59.0,11A
+S0695,Student_695,Science,68.0,10A
+S0123,Student_123,Science,69.0,11A
+S0950,Student_950,Computer Science,71.0,11B
+S0723,Student_723,Science,71.0,10C
+S0089,Student_89,Mathematics,75.0,12A
+S0694,Student_694,Mathematics,49.0,11B
+S0749,Student_749,Computer Science,55.0,10A
+S0647,Student_647,English,53.0,10A
+S0917,Student_917,History,81.0,11B
+S0673,Student_673,English,43.0,10B
+S0763,Student_763,Computer Science,51.0,11A
+S0388,Student_388,History,86.0,10A
+S0844,Student_844,Mathematics,78.0,11A
+S0995,Student_995,Mathematics,92.0,10B
+S0948,Student_948,Computer Science,80.0,12A
+S0776,Student_776,English,73.0,12A
+S0961,Student_961,Computer Science,66.0,12A
+S0178,Student_178,Mathematics,97.0,10B
+S0226,Student_226,Mathematics,52.0,10C
+S0577,Student_577,Computer Science,28.0,12A
+S0743,Student_743,Computer Science,85.0,12A
+S0102,Student_102,English,57.0,12A
+S0697,Student_697,Mathematics,65.0,10B
+S0648,Student_648,Computer Science,84.0,11A
+S0606,Student_606,English,76.0,10B
+S0244,Student_244,Science,59.0,10B
+S0014,Student_14,English,85.0,10A
+S0176,Student_176,Computer Science,87.0,10C
+S0014,Student_14,Mathematics,90.0,10A
+S0877,Student_877,English,59.0,10C
+S0874,Student_874,Mathematics,100.0,11B
+S0990,Student_990,English,49.0,11B
+S0965,Student_965,History,,10A
+S0942,Student_942,Mathematics,68.0,10B
+S0114,Student_114,History,41.0,10B
+S0326,Student_326,Computer Science,82.0,12A
+S0060,Student_60,Science,83.0,11B
+S0955,Student_955,History,70.0,10C
+S0683,Student_683,Computer Science,61.0,12A
+S0529,Student_529,History,60.0,10C
+S0937,Student_937,History,59.0,10C
+S0159,Student_159,English,74.0,10A
+S0944,Student_944,Mathematics,69.0,10B
+S0023,Student_23,Mathematics,41.0,11B
+S0467,Student_467,History,64.0,10B
+S0492,Student_492,Mathematics,92.0,12A
+S0178,Student_178,Computer Science,86.0,10B
+S0166,Student_166,English,62.0,12A
+S0506,Student_506,Mathematics,77.0,10B
+S0337,Student_337,Computer Science,52.0,11B
+S0152,Student_152,Mathematics,100.0,11A
+S0707,Student_707,Computer Science,100.0,10C
+S0039,Student_39,English,73.0,11A
+S0891,Student_891,Computer Science,89.0,11B
+S0704,Student_704,Mathematics,77.0,10A
+S0230,Student_230,Mathematics,70.0,10C
+S0277,Student_277,Science,62.0,11A
+S0887,Student_887,Science,36.0,10C
+S0093,Student_93,Science,70.0,10B
+S0829,Student_829,Computer Science,47.0,11B
+S0779,Student_779,English,58.0,10C
+S0523,Student_523,History,69.0,11A
+S0579,Student_579,English,81.0,11B
+S0210,Student_210,Science,79.0,10B
+S0666,Student_666,Science,69.0,11A
+S0636,Student_636,Computer Science,77.0,10B
+S0399,Student_399,Science,81.0,10B
+S0353,Student_353,Science,81.0,10B
+S0790,Student_790,Science,78.0,10B
+S0316,Student_316,Mathematics,69.0,11A
+S0317,Student_317,History,70.0,10A
+S0305,Student_305,Mathematics,88.0,10A
+S0412,Student_412,Science,62.0,11B
+S0324,Student_324,English,58.0,10C
+S0099,Student_99,Science,92.0,11A
+S0786,Student_786,Computer Science,72.0,10B
+S0515,Student_515,English,65.0,11A
+S0103,Student_103,Mathematics,74.0,11B
+S0890,Student_890,Science,56.0,10C
+S0267,Student_267,Mathematics,92.0,10B
+S0883,Student_883,English,54.0,10B
+S0964,Student_964,Science,89.0,10C
+S0262,Student_262,Computer Science,77.0,10B
+S0717,Student_717,English,98.0,10A
+S0159,Student_159,Science,73.0,10A
+S0335,Student_335,Computer Science,94.0,10B
+S0352,Student_352,Computer Science,89.0,10A
+S0464,Student_464,History,61.0,10C
+S0328,Student_328,English,76.0,11B
+S0082,Student_82,Mathematics,79.0,10C
+S0044,Student_44,Computer Science,71.0,10C
+S0825,Student_825,History,73.0,10A
+S0989,Student_989,English,71.0,10A
+S0212,Student_212,Computer Science,64.0,12A
+S0113,Student_113,Computer Science,88.0,10A
+S0408,Student_408,English,62.0,12A
+S0205,Student_205,English,69.0,10A
+S0539,Student_539,History,67.0,10C
+S0288,Student_288,History,77.0,10C
+S0054,Student_54,Science,94.0,12A
+S0530,Student_530,Science,64.0,10B
+S0134,Student_134,Computer Science,86.0,11A
+S0766,Student_766,English,77.0,11A
+S0565,Student_565,Science,82.0,11B
+S0918,Student_918,History,63.0,10C
+S0630,Student_630,History,68.0,11B
+S0415,Student_415,History,72.0,11B
+S0549,Student_549,English,70.0,12A
+S0934,Student_934,Mathematics,67.0,10A
+S0253,Student_253,History,56.0,10C
+S0070,Student_70,English,48.0,12A
+S0717,Student_717,Computer Science,71.0,10A
+S0945,Student_945,History,65.0,12A
+S0819,Student_819,Computer Science,88.0,10B
+S0211,Student_211,Science,75.0,10B
+S0953,Student_953,English,80.0,10A
+S0334,Student_334,History,82.0,10C
+S0908,Student_908,English,65.0,10A
+S0398,Student_398,History,60.0,10C
+S0777,Student_777,Science,72.0,11B
+S0403,Student_403,Mathematics,45.0,10C
+S0659,Student_659,Science,32.0,10B
+S0531,Student_531,History,85.0,11B
+S0704,Student_704,English,76.0,10A
+S0080,Student_80,Mathematics,62.0,10C
+S0767,Student_767,History,48.0,10C
+S0300,Student_300,English,88.0,10B
+S0021,Student_21,Computer Science,67.0,10B
+S0942,Student_942,History,84.0,10B
+S0141,Student_141,English,59.0,11A
+S0662,Student_662,English,75.0,11B
+S0214,Student_214,History,62.0,11B
+S0823,Student_823,Science,58.0,12A
+S0578,Student_578,Science,62.0,10C
+S0119,Student_119,English,77.0,12A
+S0150,Student_150,Science,72.0,11B
+S0152,Student_152,History,57.0,11A
+S0261,Student_261,Science,84.0,11B
+S0677,Student_677,History,85.0,10C
+S0562,Student_562,Science,68.0,10A
+S0487,Student_487,History,67.0,10B
+S0719,Student_719,English,100.0,11A
+S0780,Student_780,Computer Science,75.0,10B
+S0278,Student_278,Mathematics,74.0,11A
+S0459,Student_459,English,,10A
+S0773,Student_773,History,66.0,10A
+S0325,Student_325,Mathematics,71.0,11A
+S0782,Student_782,Mathematics,65.0,10A
+S0180,Student_180,Mathematics,79.0,10A
+S0674,Student_674,History,76.0,12A
+S0851,Student_851,Mathematics,86.0,10B
+S0801,Student_801,Computer Science,49.0,10C
+S0246,Student_246,Mathematics,68.0,10A
+S0799,Student_799,English,40.0,12A
+S0667,Student_667,History,78.0,11B
+S0951,Student_951,Computer Science,61.0,11B
+S0724,Student_724,Computer Science,83.0,11A
+S0022,Student_22,Science,98.0,11B
+S0595,Student_595,English,49.0,10C
+S0086,Student_86,English,80.0,10C
+S0746,Student_746,Computer Science,35.0,10B
+S0496,Student_496,Mathematics,80.0,12A
+S0499,Student_499,Science,59.0,10B
+S0795,Student_795,History,71.0,10A
+S0445,Student_445,English,81.0,10A
+S0936,Student_936,Computer Science,73.0,10B
+S0059,Student_59,English,61.0,10A
+S0760,Student_760,Science,67.0,10B
+S0446,Student_446,English,60.0,10C
+S0781,Student_781,Computer Science,,12A
+S0190,Student_190,Mathematics,53.0,11B
+S0255,Student_255,Computer Science,88.0,11B
+S0893,Student_893,Computer Science,61.0,11B
+S0410,Student_410,Computer Science,72.0,11B
+S0382,Student_382,History,52.0,10B
+S0786,Student_786,Mathematics,64.0,10B
+S0565,Student_565,History,48.0,11B
+S0342,Student_342,History,68.0,10C
+S0818,Student_818,English,71.0,12A
+S0686,Student_686,History,76.0,11A
+S0231,Student_231,Computer Science,94.0,11A
+S0022,Student_22,Mathematics,76.0,11B
+S0945,Student_945,Science,77.0,12A
+S0928,Student_928,Science,77.0,12A
+S0442,Student_442,History,65.0,11A
+S0376,Student_376,Mathematics,90.0,12A
+S0558,Student_558,History,63.0,12A
+S0237,Student_237,Mathematics,72.0,10A
+S0299,Student_299,Computer Science,93.0,11A
+S0013,Student_13,Science,67.0,11B
+S0372,Student_372,English,66.0,11B
+S0699,Student_699,History,61.0,11A
+S0389,Student_389,English,74.0,10A
+S0292,Student_292,Computer Science,80.0,10B
+S0401,Student_401,Computer Science,41.0,10A
+S0870,Student_870,History,55.0,11A
+S0438,Student_438,Science,48.0,10C
+S0527,Student_527,Science,76.0,10A
+S0561,Student_561,History,54.0,11A
+S0091,Student_91,English,55.0,11B
+S0023,Student_23,Science,69.0,11B
+S0318,Student_318,Science,72.0,10B
+S0280,Student_280,Mathematics,72.0,10A
+S0367,Student_367,Computer Science,60.0,10A
+S0702,Student_702,Science,74.0,12A
+S0778,Student_778,Computer Science,,10A
+S0535,Student_535,Computer Science,54.0,11B
+S0722,Student_722,Science,58.0,10C
+S0120,Student_120,Science,65.0,11A
+S0446,Student_446,History,42.0,10C
+S0971,Student_971,Science,100.0,12A
+S0376,Student_376,Science,61.0,12A
+S0573,Student_573,History,80.0,12A
+S0408,Student_408,Mathematics,100.0,12A
+S0970,Student_970,Computer Science,77.0,10B
+S0660,Student_660,Computer Science,87.0,11A
+S0013,Student_13,Computer Science,82.0,11B
+S0074,Student_74,English,70.0,10B
+S0310,Student_310,History,81.0,10B
+S0607,Student_607,English,76.0,11B
+S0781,Student_781,History,55.0,12A
+S0419,Student_419,Computer Science,85.0,10B
+S0894,Student_894,Computer Science,75.0,10B
+S0437,Student_437,English,67.0,11A
+S0772,Student_772,Science,49.0,10C
+S0892,Student_892,Computer Science,79.0,10A
+S0407,Student_407,Science,55.0,11B
+S0945,Student_945,English,70.0,12A
+S0751,Student_751,Science,74.0,11B
+S0366,Student_366,Computer Science,70.0,11B
+S0937,Student_937,English,92.0,10C
+S0958,Student_958,Mathematics,65.0,10B
+S0311,Student_311,Mathematics,68.0,10B
+S0450,Student_450,Mathematics,71.0,10B
+S0297,Student_297,Computer Science,73.0,10B
+S0910,Student_910,Mathematics,78.0,10C
+S0415,Student_415,English,71.0,11B
+S0207,Student_207,Science,44.0,11A
+S0730,Student_730,English,73.0,11B
+S0986,Student_986,Computer Science,67.0,10A
+S0016,Student_16,History,71.0,11A
+S0384,Student_384,History,67.0,12A
+S0767,Student_767,Science,62.0,10C
+S0895,Student_895,Computer Science,82.0,10A
+S0112,Student_112,Computer Science,63.0,10C
+S0336,Student_336,Mathematics,65.0,10A
+S0815,Student_815,Mathematics,78.0,12A
+S0813,Student_813,Mathematics,81.0,10C
+S0984,Student_984,Mathematics,73.0,11A
+S0767,Student_767,English,85.0,10C
+S0450,Student_450,History,67.0,10B
+S0285,Student_285,Computer Science,54.0,10A
+S0153,Student_153,History,68.0,11A
+S0797,Student_797,History,53.0,10B
+S0094,Student_94,History,62.0,11B
+S0006,Student_6,English,75.0,10B
+S0184,Student_184,Computer Science,72.0,11B
+S0556,Student_556,Mathematics,65.0,12A
+S0830,Student_830,English,68.0,10A
+S0162,Student_162,Mathematics,65.0,10A
+S0421,Student_421,Mathematics,75.0,10A
+S0362,Student_362,Science,74.0,10B
+S0469,Student_469,English,77.0,10B
+S0311,Student_311,History,57.0,10B
+S0670,Student_670,History,80.0,11A
+S0267,Student_267,Science,88.0,10B
+S0229,Student_229,History,71.0,12A
+S0518,Student_518,Science,50.0,10A
+S0548,Student_548,English,75.0,10A
+S0938,Student_938,Mathematics,79.0,10A
+S0582,Student_582,History,63.0,11A
+S0182,Student_182,History,79.0,10C
+S0847,Student_847,Science,90.0,10C
+S0198,Student_198,Mathematics,52.0,10C
+S0309,Student_309,English,94.0,10A
+S0786,Student_786,English,76.0,10B
+S0749,Student_749,English,74.0,10A
+S0017,Student_17,History,62.0,10A
+S0991,Student_991,Science,88.0,12A
+S0186,Student_186,Mathematics,47.0,10B
+S0201,Student_201,History,60.0,10A
+S0302,Student_302,English,84.0,11A
+S0290,Student_290,History,88.0,10B
+S0242,Student_242,English,60.0,10B
+S0964,Student_964,English,56.0,10C
+S0372,Student_372,Mathematics,59.0,11B
+S0508,Student_508,Science,84.0,10C
+S0421,Student_421,History,86.0,10A
+S0298,Student_298,Mathematics,83.0,10C
+S0244,Student_244,English,74.0,10B
+S0652,Student_652,Mathematics,72.0,11B
+S0691,Student_691,History,61.0,10C
+S0925,Student_925,Mathematics,63.0,11B
+S0560,Student_560,History,64.0,10C
+S0691,Student_691,Computer Science,26.0,10C
+S0073,Student_73,English,68.0,10A
+S0575,Student_575,Science,76.0,10C
+S0503,Student_503,Science,78.0,10A
+S0513,Student_513,Science,71.0,12A
+S0290,Student_290,English,78.0,10B
+S0465,Student_465,Computer Science,69.0,11B
+S0596,Student_596,Mathematics,71.0,10B
+S0091,Student_91,History,77.0,11B
+S0973,Student_973,History,49.0,10A
+S0663,Student_663,English,100.0,11B
+S0162,Student_162,Science,73.0,10A
+S0835,Student_835,History,55.0,11A
+S0631,Student_631,Computer Science,54.0,10A
+S0747,Student_747,Mathematics,82.0,11B
+S0324,Student_324,Science,74.0,10C
+S0112,Student_112,English,63.0,10C
+S0226,Student_226,History,69.0,10C
+S0005,Student_5,English,71.0,10C
+S0190,Student_190,English,59.0,11B
+S0099,Student_99,Computer Science,92.0,11A
+S0683,Student_683,History,57.0,12A
+S0139,Student_139,History,79.0,10B
+S0346,Student_346,Mathematics,86.0,11A
+S0677,Student_677,Computer Science,86.0,10C
+S0901,Student_901,English,46.0,10B
+S0797,Student_797,Mathematics,90.0,10B
+S0271,Student_271,Science,42.0,10A
+S0517,Student_517,English,69.0,10C
+S0433,Student_433,History,87.0,12A
+S0145,Student_145,Science,44.0,10B
+S0580,Student_580,Science,38.0,10B
+S0714,Student_714,History,73.0,11A
+S0567,Student_567,English,93.0,12A
+S0090,Student_90,Science,75.0,10A
+S0225,Student_225,Mathematics,86.0,12A
+S0586,Student_586,Mathematics,73.0,12A
+S0399,Student_399,English,87.0,10B
+S0176,Student_176,Mathematics,96.0,10C
+S0640,Student_640,Mathematics,41.0,11A
+S0058,Student_58,English,78.0,11A
+S0093,Student_93,Computer Science,68.0,10B
+S0806,Student_806,Computer Science,82.0,12A
+S0874,Student_874,Computer Science,73.0,11B
+S0605,Student_605,Science,63.0,12A
+S1000,Student_1000,English,100.0,10A
+S0758,Student_758,Computer Science,89.0,10B
+S0848,Student_848,English,64.0,12A
+S0874,Student_874,Science,62.0,11B
+S0210,Student_210,English,46.0,10B
+S0195,Student_195,Computer Science,63.0,11A
+S0371,Student_371,Science,96.0,11B
+S0492,Student_492,Science,61.0,12A
+S0682,Student_682,English,71.0,11A
+S0871,Student_871,History,44.0,10B
+S0803,Student_803,Computer Science,68.0,11B
+S0159,Student_159,Computer Science,53.0,10A
+S0750,Student_750,Mathematics,67.0,11A
+S0968,Student_968,Mathematics,71.0,10C
+S0498,Student_498,Science,64.0,10C
+S0561,Student_561,English,75.0,11A
+S0376,Student_376,English,66.0,12A
+S0846,Student_846,English,76.0,11A
+S0413,Student_413,Science,67.0,10A
+S0062,Student_62,Computer Science,66.0,12A
+S0701,Student_701,Mathematics,87.0,10B
+S0439,Student_439,Computer Science,72.0,10A
+S0163,Student_163,Computer Science,85.0,12A
+S0609,Student_609,English,61.0,12A
+S0526,Student_526,Mathematics,57.0,10C
+S0209,Student_209,History,69.0,11B
+S0260,Student_260,Mathematics,68.0,10B
+S0336,Student_336,Science,88.0,10A
+S0015,Student_15,Science,93.0,11B
+S0676,Student_676,English,55.0,11A
+S0369,Student_369,Computer Science,72.0,12A
+S0856,Student_856,History,,12A
+S0768,Student_768,Mathematics,64.0,10C
+S0377,Student_377,Mathematics,84.0,12A
+S0693,Student_693,Mathematics,95.0,10C
+S0811,Student_811,Mathematics,58.0,11B
+S0012,Student_12,History,74.0,12A
+S0677,Student_677,Science,87.0,10C
+S0356,Student_356,Mathematics,50.0,10A
+S0947,Student_947,History,77.0,10C
+S0281,Student_281,Science,78.0,12A
+S0673,Student_673,Science,44.0,10B
+S0056,Student_56,Mathematics,76.0,11B
+S0353,Student_353,Computer Science,66.0,10B
+S0539,Student_539,English,69.0,10C
+S0332,Student_332,Science,72.0,10B
+S0616,Student_616,Mathematics,97.0,12A
+S0062,Student_62,Science,89.0,12A
+S0699,Student_699,Mathematics,65.0,11A
+S0589,Student_589,Mathematics,84.0,11B
+S0040,Student_40,Computer Science,52.0,10C
+S0880,Student_880,English,55.0,10C
+S0755,Student_755,Mathematics,85.0,10A
+S0111,Student_111,Computer Science,75.0,11A
+S0378,Student_378,Science,57.0,10C
+S0070,Student_70,Mathematics,73.0,12A
+S0269,Student_269,Computer Science,84.0,11A
+S0432,Student_432,Mathematics,60.0,10B
+S0836,Student_836,Science,,12A
+S0448,Student_448,Science,70.0,12A
+S0571,Student_571,History,73.0,11B
+S0117,Student_117,Mathematics,75.0,10C
+S0431,Student_431,Computer Science,51.0,10C
+S0939,Student_939,Mathematics,68.0,12A
+S0569,Student_569,Science,47.0,12A
+S0359,Student_359,Science,71.0,11A
+S0739,Student_739,English,88.0,10C
+S0359,Student_359,History,80.0,11A
+S0167,Student_167,Science,56.0,10C
+S0595,Student_595,Mathematics,41.0,10C
